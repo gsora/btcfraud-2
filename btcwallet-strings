@@ -1,0 +1,6816 @@
+?333333
+?333333
+The scalar for this x is unknown
+c|w{
+9JLX
+~=d]
+lpHP
+cU!}
+|a2U
+Mb0?
+Mb@?
+}Ut]
+$o,
+vRQ>
+8STs
+LwH'
+D7q/;M
+}Uo
++Yo,
+&\8!
+* qW
+LwH'
+L*~e
+QZ^&
+MbP?
+Y@ffffff
+awakeFromNib
+setFrame:
+layer
+frame
+setCornerRadius:
+colorWithRed:green:blue:alpha:
+CGColor
+setBorderColor:
+set_userDefaultsKey:
+updateUi
+_userDefaultsKey
+standardUserDefaults
+theSwitch
+isOn
+setBool:forKey:
+boolForKey:
+setOn:
+setSelected:animated:
+setUserDefaultsKey:
+didUpdateSwitch:
+.cxx_destruct
+setTheSwitch:
+titleLabel
+setTitleLabel:
+_theSwitch
+_titleLabel
+__userDefaultsKey
+bounds
+contentEdgeInsets
+alloc
+initWithFrame:
+setBar1:
+setBar2:
+setBar3:
+bar1
+bar2
+bar3
+setUserInteractionEnabled:
+currentTitleColor
+setBackgroundColor:
+addSubview:
+initWithCoder:
+customInit
+setX:completion:
+setTransform:
+center
+setCenter:
+setAlpha:
+animateWithDuration:delay:usingSpringWithDamping:initialSpringVelocity:options:animations:completion:
+animateWithDuration:delay:options:animations:completion:
+setTitleColor:forState:
+setHighlighted:
+setEnabled:
+setSelected:
+setX:
+intrinsicContentSize
+_bar1
+_bar2
+_bar3
+init
+initWithMenuViewController:contentViewController:options:
+viewDidLoad
+setUpMenuViewController:
+setUpContentViewController:
+addGestures
+didReceiveMemoryWarning
+contentViewController
+shouldAutorotate
+supportedInterfaceOrientations
+view
+removeViewController:
+clearColor
+setAutoresizingMask:
+insertSubview:atIndex:
+menuFrame
+setMenuFrame:
+closedOriginX
+closeMenuWithVelocity:
+openMenuWithVelocity:
+isMenuOpen
+closeMenu
+openMenu
+panGesture
+setContentViewController:
+setMenuViewController:
+willMoveToParentViewController:
+removeFromSuperview
+removeFromParentViewController
+addChildViewController:
+menuContainerView
+didMoveToParentViewController:
+contentContainerView
+blackColor
+setOpacity:
+handlePanGesture:
+initWithTarget:action:
+setDelegate:
+addGestureRecognizer:
+toggleMenu
+state
+locationInView:
+isMenuHidden
+menuViewController
+beginAppearanceTransition:animated:
+addShadowToMenuView
+translationInView:
+applyTranslation:toFrame:
+applyOpacity
+applyContentViewScale
+velocityInView:
+panResultInfoForVelocity:
+getOpenedMenuRatio
+options
+contentViewOpacity
+opacityView
+contentViewScale
+animationDuration
+disableContentInteraction
+removeMenuShadow
+enableContentInteraction
+panFromBezel
+isPointContainedWithinBezelRect:
+panFromNavBar
+isPointContainedWithinNavigationRect:
+class
+isKindOfClass:
+navigationBar
+convertRect:toView:
+bezelWidth
+setMasksToBounds:
+shadowOffset
+setShadowOffset:
+shadowOpacity
+setShadowOpacity:
+shadowRadius
+setShadowRadius:
+bezierPathWithRect:
+CGPath
+setShadowPath:
+slideMenuForGestureRecognizer:withTouchPoint:
+isPointContainedWithinMenuRect:
+gestureRecognizerShouldBegin:
+gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:
+gestureRecognizer:shouldRequireFailureOfGestureRecognizer:
+gestureRecognizer:shouldBeRequiredToFailByGestureRecognizer:
+gestureRecognizer:shouldReceiveTouch:
+gestureRecognizer:shouldReceivePress:
+isEqual:
+self
+performSelector:
+performSelector:withObject:
+performSelector:withObject:withObject:
+isProxy
+isMemberOfClass:
+conformsToProtocol:
+respondsToSelector:
+retain
+release
+autorelease
+retainCount
+zone
+hash
+superclass
+description
+debugDescription
+initWithMenuViewController:contentViewController:
+disable
+enable
+changeContentViewController:closeMenu:
+changeMenuViewController:closeMenu:
+removeContentOpacity
+addContentOpacity
+setOptions:
+setContentContainerView:
+setMenuContainerView:
+setOpacityView:
+setPanGesture:
+tapGesture
+setTapGesture:
+_menuViewController
+_contentViewController
+_options
+_contentContainerView
+_menuContainerView
+_opacityView
+_panGesture
+_tapGesture
+_menuFrame
+parentViewController
+initWithImage:style:target:action:
+navigationItem
+setLeftBarButtonItem:
+sideMenuController
+addLeftMenuButtonWithImage:
+setNumberOfLines:
+setTextAlignment:
+font
+fontName
+fontWithName:size:
+setFont:
+currentTitle
+setTitle:forState:
+lowercaseString
+mainBundle
+localizedStringForKey:value:table:
+text
+setText:
+managedObjectContext
+blockHash
+dataWithBytes:length:
+setBlockHash:
+version
+setVersion:
+prevBlock
+setPrevBlock:
+merkleRoot
+setMerkleRoot:
+timestamp
+setTimestamp:
+target
+setTarget:
+nonce
+setNonce:
+totalTransactions
+setTotalTransactions:
+hashes
+dataWithData:
+setHashes:
+flags
+setFlags:
+height
+setHeight:
+performBlockAndWait:
+length
+bytes
+initWithBlockHash:version:prevBlock:merkleRoot:timestamp:target:nonce:totalTransactions:hashes:flags:height:
+setAttributesFromBlock:
+merkleBlock
+decodeObjectForKey:
+boolValue
+encodeObject:forKey:
+numberWithBool:
+count
+numberWithUnsignedInteger:
+size
+numberWithDouble:
+stringWithFormat:
+balance
+balanceInLocalCurrency
+receiveMoneyAddress
+lastestTransction
+transactions
+hasWallet
+encodeWithCoder:
+setBalance:
+setBalanceInLocalCurrency:
+setReceiveMoneyAddress:
+setLastestTransction:
+receiveMoneyQRCodeImage
+setReceiveMoneyQRCodeImage:
+setTransactions:
+setHasWallet:
+_hasWallet
+_balance
+_balanceInLocalCurrency
+_receiveMoneyAddress
+_lastestTransction
+_receiveMoneyQRCodeImage
+_transactions
+address
+setAddress:
+port
+setPort:
+services
+setServices:
+misbehavin
+setMisbehavin:
+initWithAddress:port:timestamp:services:
+setAttributesFromPeer:
+peer
+setContext:
+mutableOrderedSetValueForKey:
+txHash
+setTxHash:
+blockHeight
+setBlockHeight:
+inputHashes
+managedObject
+addObject:
+removeObjectAtIndex:
+countByEnumeratingWithState:objects:count:
+setAttributesFromTx:inputIndex:
+outputAddresses
+removeObjectFromOutputsAtIndex:
+setAttributesFromTx:outputIndex:
+lockTime
+setLockTime:
+inputs
+signature
+sequence
+addInputHash:index:script:signature:sequence:
+outputs
+script
+value
+addOutputScript:amount:
+objectsMatching:
+lastObject
+setSpent:
+deleteObject
+setAttributesFromTx:
+transaction
+objectAtIndexedSubscript:
+getValue:
+inputIndexes
+intValue
+setN:
+inputSignatures
+null
+setSignature:
+inputSequences
+setSequence:
+outputScripts
+setScript:
+outputAmounts
+longLongValue
+setValue:
+animation
+setDuration:
+setFillMode:
+setType:
+setSubtype:
+window
+addAnimation:forKey:
+presentViewController:animated:completion:
+dismissViewControllerAnimated:completion:
+presentViewController:onController:direction:
+dismissControllerFromMain:direction:
+filterWithName:
+setValue:forKey:
+alpha
+outputImage
+dictionaryWithObjects:forKeys:count:
+contextWithOptions:
+extent
+createCGImage:fromRect:
+imageWithCGImage:
+CGImage
+mainScreen
+scale
+resize:withInterpolationQuality:
+blurWithRadius:
+imageWithQRCodeData:color:
+doneButton
+setBorderWidth:
+cancelButton
+btcField
+superview
+whiteColor
+localField
+viewDidAppear:
+becomeFirstResponder
+sharedApplication
+setStatusBarHidden:
+sharedInstance
+isFirstResponder
+amountForString:
+localCurrencyStringForAmount:
+amountForLocalCurrencyString:
+stringForAmount:
+updateSecondLabel
+setShadowColor:
+localFormat
+format
+initWithLocaleIdentifier:
+setLocale:
+currencyDecimalSeparator
+rangeOfString:
+minimumFractionDigits
+setMinimumFractionDigits:
+numberWithInt:
+stringFromNumber:
+stringByReplacingCharactersInRange:withString:
+numberFromString:
+isEqualToString:
+maximumFractionDigits
+stringByAppendingString:
+decimalValue
+decimalNumberWithDecimal:
+decimalNumberByMultiplyingByPowerOf10:
+decimalNumberWithString:
+decimalNumberByAdding:
+placeholder
+setPlaceholder:
+setHidden:
+setAmount:
+amount
+delegate
+numberViewController:selectedAmount:
+textFieldShouldBeginEditing:
+textFieldDidBeginEditing:
+textFieldShouldEndEditing:
+textFieldDidEndEditing:
+textFieldDidEndEditing:reason:
+textField:shouldChangeCharactersInRange:replacementString:
+textFieldShouldClear:
+textFieldShouldReturn:
+viewWillAppear:
+viewDidLayoutSubviews
+pay:
+exit:
+setTo:
+setBtcField:
+setLocalField:
+toDynamic
+setToDynamic:
+setDoneButton:
+setCancelButton:
+_delegate
+_btcField
+_localField
+_toDynamic
+_doneButton
+_cancelButton
+_amount
+createWalletButton
+recoverWaletButton
+noWallet
+setSeedNav:
+seedNav
+initWithRootViewController:
+newWallet:
+recoverWallet:
+setCreateWalletButton:
+setRecoverWaletButton:
+_seedNav
+_createWalletButton
+_recoverWaletButton
+wallet
+amountReceivedFromTransaction:
+amountSentByTransaction:
+lastBlockHeight
+transactionIsValid:
+setDateFormat:
+timestampForBlockHeight:
+dateWithTimeIntervalSinceReferenceDate:
+stringFromDate:
+stringByReplacingOccurrencesOfString:withString:
+transactionType
+localCurrencyTextForAmount
+amountText
+dateText
+transactionDate
+currentLocale
+dateFormatFromTemplate:options:locale:
+stringByReplacingOccurrencesOfString:withString:options:range:
+defaultDeviceWithMediaType:
+flashButton
+hasTorch
+authorizationStatusForMediaType:
+infoDictionary
+objectForKeyedSubscript:
+initWithTitle:message:delegate:cancelButtonTitle:otherButtonTitles:
+show
+deviceInputWithDevice:error:
+lockForConfiguration:
+isAutoFocusRangeRestrictionSupported
+setAutoFocusRangeRestriction:
+isFocusModeSupported:
+setFocusMode:
+unlockForConfiguration
+setSession:
+session
+addInput:
+addOutput:
+setMetadataObjectsDelegate:queue:
+availableMetadataObjectTypes
+containsObject:
+arrayWithObjects:count:
+setMetadataObjectTypes:
+initWithSession:
+setPreviewLayer:
+previewLayer
+setVideoGravity:
+cameraView
+addSublayer:
+startRunning
+viewWillDisappear:
+stopRunning
+removeFromSuperlayer
+viewDidDisappear:
+firstObject
+removeOutput:
+imageNamed:
+setImage:
+stop
+scanDone:
+isTorchActive
+setTorchMode:
+type
+stringValue
+whitespaceAndNewlineCharacterSet
+stringByTrimmingCharactersInSet:
+camera:didScanAddress:
+captureOutput:didOutputMetadataObjects:fromConnection:
+scanDone
+flash:
+errorScan
+setCameraView:
+setFlashButton:
+indicator
+setIndicator:
+_session
+_previewLayer
+_cameraView
+_flashButton
+_indicator
+resignFirstResponder
+highlight
+animateWithDuration:animations:completion:
+menuHideObserver
+defaultCenter
+removeObserver:
+setMenuHideObserver:
+copy:
+copyableText
+substringToIndex:
+boundingRectWithSize:options:attributes:context:
+substringFromIndex:
+copyableFrame
+setHighlight:
+selectedColor
+insertSubview:belowSubview:
+animateWithDuration:animations:
+sharedMenuController
+setTargetRect:inView:
+setMenuVisible:animated:
+addObserverForName:object:queue:usingBlock:
+toggleCopyMenu
+touchesEnded:withEvent:
+dealloc
+generalPasteboard
+setString:
+canBecomeFirstResponder
+canPerformAction:withSender:
+setSelectedColor:
+setCopyableText:
+_copyableText
+_selectedColor
+_highlight
+_menuHideObserver
+generateRandomSeed
+setSeedPhrase:
+connect
+seedPhrase
+initWithNibName:bundle:
+textView
+setTextColor:
+done:
+initWithBarButtonSystemItem:target:action:
+setTextView:
+authSuccess
+_authSuccess
+_textView
+_seedPhrase
+initWithPrivateKey:
+initWithSecret:compressed:
+initWithPublicKey:
+initWithCompactSig:andMessageDigest:
+characterAtIndex:
+isValidBitcoinPrivateKey
+SHA256
+base58checkToData
+base58ToData
+hexToData
+setPubkey:
+pubkey
+setCompressed:
+publicKey
+compressed
+dataWithLength:
+mutableBytes
+setLength:
+secureDataWithCapacity:
+appendBytes:length:
+base58checkWithData:
+secureDataWithLength:
+hash160
+keyWithPrivateKey:
+keyWithSecret:compressed:
+keyWithPublicKey:
+keyRecoveredFromCompactSig:andMessageDigest:
+privateKey
+sign:
+verify:signature:
+compactSign:
+seckey
+setSeckey:
+_compressed
+_pubkey
+_seckey
+initWithBIP38Key:andPassphrase:
+secureData
+appendData:
+dataWithBytesNoCopy:length:freeWhenDone:
+SHA256_2
+dataUsingEncoding:
+BIP38KeyWithPassphrase:
+keyWithBIP38Key:andPassphrase:
+BIP38IntermediateCodeWithSalt:andPassphrase:
+BIP38IntermediateCodeWithLot:sequence:salt:passphrase:
+BIP38KeyWithIntermediateCode:seedb:
+secureDataWithData:
+capitalizedString
+setTitle:
+initWithSuiteName:
+setGroupDefs:
+groupDefs
+stringForKey:
+requestWithString:
+isValid
+stringByAppendingPathComponent:
+imageWithContentsOfFile:
+btcQrImage
+btcTextView
+paymentAddress
+amountButton
+amountLabel
+sendWithEmail:
+initWithTitle:style:target:action:
+setRightBarButtonItem:
+requestAmount:
+setRightBarButtonItems:
+updateAddress
+balanceObserver
+txStatusObserver
+paymentRequest
+data
+colorWithRed:green:blue:
+setQrImage:
+setObject:forKey:
+writeToFile:atomically:
+removeObjectForKey:
+defaultManager
+removeItemAtPath:error:
+synchronize
+qrImage
+checkRequestStatus
+setBalanceObserver:
+setTxStatusObserver:
+addressIsUsed:
+allTransactions
+relayCountForTransaction:
+navigationController
+presentingViewController
+viewWithText:center:
+popIn
+popOutAfterDelay:
+receiveAddress
+minOutputAmount
+setPaymentRequest:
+canSendMail
+setSubject:
+string
+setMessageBody:isHTML:
+image
+addAttachmentData:mimeType:fileName:
+setMailComposeDelegate:
+messageComposeViewController:didFinishWithResult:
+mailComposeController:didFinishWithResult:error:
+navigationController:willShowViewController:animated:
+navigationController:didShowViewController:animated:
+navigationControllerSupportedInterfaceOrientations:
+navigationControllerPreferredInterfaceOrientationForPresentation:
+navigationController:interactionControllerForAnimationController:
+navigationController:animationControllerForOperation:fromViewController:toViewController:
+resetQR:
+setBtcQrImage:
+setBtcTextView:
+setAmountLabel:
+setAmountButton:
+sendButton
+setSendButton:
+_paymentRequest
+_btcQrImage
+_btcTextView
+_qrImage
+_groupDefs
+_amountLabel
+_balanceObserver
+_txStatusObserver
+_amountButton
+_sendButton
+initWithMessage:
+array
+setIndexes:
+setInScripts:
+setAmounts:
+setAddresses:
+setOutScripts:
+setSignatures:
+setSequences:
+UInt32AtOffset:
+varIntAtOffset:length:
+hashAtOffset:
+value:withObjCType:
+indexes
+numberWithUnsignedInt:
+inScripts
+dataAtOffset:length:
+signatures
+sequences
+amounts
+UInt64AtOffset:
+numberWithUnsignedLongLong:
+outScripts
+addressWithScriptPubKey:
+addresses
+toData
+arrayWithArray:
+arrayWithCapacity:
+appendScriptPubKeyForAddress:
+reverse
+hexWithData:
+inputScripts
+sizeOfVarInt:
+toDataWithSubscriptIndex:
+setObject:atIndexedSubscript:
+addressWithScriptSig:
+exchangeObjectAtIndex:withObjectAtIndex:
+dataWithCapacity:
+appendUInt32:
+appendVarInt:
+unsignedIntValue
+unsignedLongLongValue
+appendUInt64:
+indexOfObject:
+scriptElements
+appendUInt8:
+appendScriptPushData:
+isSigned
+transactionWithMessage:
+initWithInputHashes:inputIndexes:inputScripts:outputAddresses:outputAmounts:
+longDescription
+standardFee
+addInputHash:index:script:
+addOutputAddress:amount:
+setInputAddress:atIndex:
+inputAddresses
+shuffleOutputOrder
+signWithPrivateKeys:
+priorityForAmounts:withAges:
+blockHeightUntilFreeForAmounts:withBlockHeights:
+_version
+_lockTime
+_blockHeight
+_timestamp
+_hashes
+_indexes
+_inScripts
+_signatures
+_sequences
+_amounts
+_addresses
+_outScripts
+_txHash
+privateKeys:internal:fromSeed:
+lengthOfBytesUsingEncoding:
+UTF8String
+masterPublicKeyFromSeed:
+publicKey:internal:masterPublicKey:
+privateKey:internal:fromSeed:
+authPrivateKeyFromSeed:
+bitIdPrivateKey:forURI:fromSeed:
+serializedPrivateMasterFromSeed:
+serializedMasterPublicKey:
+isSupported
+defaultSession
+activateSession
+sendApplicationContext
+syncProgress
+setSyncFinishedObserver:
+setSyncFailedObserver:
+syncFinishedObserver
+syncFailedObserver
+isReachable
+reachable
+sendMessage:replyHandler:errorHandler:
+integerValue
+handleApplicationContextDataRequest:replyHandler:
+application:performFetchWithCompletionHandler:
+applicationContextData
+archivedDataWithRootObject:
+updateApplicationContext:error:
+recentTransactions
+qrCode
+recentTransactionListFromTransactions:
+copy
+lastTransactionStringFromTransaction:
+timeDescriptionStringFrom:
+date
+timeIntervalSinceDate:
+numberWithInteger:
+appleWatchTransactionDataFrom:
+session:activationDidCompleteWithState:error:
+sessionDidBecomeInactive:
+sessionDidDeactivate:
+sessionWatchStateDidChange:
+sessionReachabilityDidChange:
+session:didReceiveMessage:
+session:didReceiveMessage:replyHandler:
+session:didReceiveMessageData:
+session:didReceiveMessageData:replyHandler:
+session:didReceiveApplicationContext:
+session:didFinishUserInfoTransfer:error:
+session:didReceiveUserInfo:
+session:didFinishFileTransfer:error:
+session:didReceiveFile:
+notifyTransactionString:
+_syncFinishedObserver
+_syncFailedObserver
+pathForResource:ofType:
+arrayWithContentsOfFile:
+localizations
+pathForResource:ofType:inDirectory:forLocalization:
+addObjectsFromArray:
+words
+normalizePhrase:
+allWords
+decodePhrase:
+letterCharacterSet
+formUnionWithCharacterSet:
+invertedSet
+rangeOfCharacterFromSet:
+deleteCharactersInRange:
+replaceOccurrencesOfString:withString:options:range:
+phraseIsValid:
+wordIsValid:
+substringWithRange:
+removeCharactersInString:
+replaceCharactersInRange:withString:
+encodePhrase:
+wordIsLocal:
+cleanupPhrase:
+deriveKeyFromPhrase:withPassphrase:
+setWords:
+setAllWords:
+_words
+_allWords
+setMoc:
+setMasterPublicKey:
+setSeed:
+dictionary
+setAllTx:
+orderedSet
+setInternalAddresses:
+setExternalAddresses:
+setAllAddresses:
+setUsedAddresses:
+allObjects
+internal
+internalAddresses
+externalAddresses
+index
+allAddresses
+allTx
+setObject:forKeyedSubscript:
+usedAddresses
+countAllObjects
+saveContext
+performBlock:
+sortTransactions
+updateBalance
+cancelPreviousPerformRequestsWithTarget:
+seed
+removeObjectsInRange:
+subarrayWithRange:
+changeAddress
+setArray:
+masterPublicKey
+setIndex:
+setInternal:
+invalidTx
+pendingTx
+sortWithOptions:usingComparator:
+timeIntervalSinceReferenceDate
+reverseObjectEnumerator
+setWithArray:
+intersectsSet:
+insertObject:atIndex:
+unionSet:
+bestBlockHeight
+containsAddress:
+setSet:
+intersectSet:
+removeObject:
+setInvalidTx:
+setPendingTx:
+setSpentOutputs:
+setUtxos:
+setBalanceHistory:
+balanceNotification
+cancelPreviousPerformRequestsWithTarget:selector:object:
+performSelector:withObject:afterDelay:
+postNotificationName:object:
+addressesWithGapLimit:internal:
+utxos
+transactionForAmounts:toOutputScripts:withFee:
+feeForTxSize:
+arrayByAddingObject:
+containsTransaction:
+countObjectsMatching:
+removeTransaction:
+deleteObjects:
+spentOutputs
+transactionIsPending:
+transactionIsVerified:
+setBestBlockHeight:
+refreshObject:mergeChanges:
+balanceHistory
+feePerKb
+initWithContext:sequence:masterPublicKey:seed:
+allReceiveAddresses
+allChangeAddresses
+unspentOutputs
+transactionFor:to:withFee:
+signTransaction:withPrompt:
+registerTransaction:
+transactionForHash:
+setBlockHeight:andTimestamp:forTxHashes:
+feeForTransaction:
+balanceAfterTransaction:
+blockHeightUntilFree:
+maxOutputAmount
+totalSent
+totalReceived
+setFeePerKb:
+_bestBlockHeight
+_totalSent
+_totalReceived
+_feePerKb
+_sequence
+_masterPublicKey
+_internalAddresses
+_externalAddresses
+_allAddresses
+_usedAddresses
+_spentOutputs
+_invalidTx
+_pendingTx
+_utxos
+_allTx
+_balanceHistory
+_seed
+_moc
+tableView
+nibWithNibName:bundle:
+registerNib:forCellReuseIdentifier:
+setTransaction:
+reloadData
+setSent:
+setReceived:
+sent
+received
+setOutputText:
+setOutputDetail:
+setOutputAmount:
+viewWithTag:
+section
+tableView:numberOfRowsInSection:
+outputText
+peerCount
+dequeueReusableCellWithIdentifier:forIndexPath:
+setSelectionStyle:
+setBackgroundForCell:indexPath:
+txDateString
+dequeueReusableCellWithIdentifier:
+outputDetail
+outputAmount
+textColor
+tableView:titleForHeaderInSection:
+tableView:heightForHeaderInSection:
+indexPathsForVisibleRows
+visibleCells
+selectionStyle
+deselectRowAtIndexPath:animated:
+numberOfSectionsInTableView:
+tableView:cellForRowAtIndexPath:
+tableView:heightForRowAtIndexPath:
+tableView:viewForHeaderInSection:
+tableView:didSelectRowAtIndexPath:
+setTxDateString:
+setTableView:
+_transaction
+_txDateString
+_tableView
+_outputText
+_outputDetail
+_outputAmount
+_sent
+_received
+setConcurrencyType:
+setMnemonic:
+reachabilityForInternetConnection
+setReachability:
+setFailedPins:
+setLenient:
+setNumberStyle:
+setGeneratesDecimalNumbers:
+positiveFormat
+setNegativeFormat:
+setCurrencyCode:
+setCurrencySymbol:
+setMaximumFractionDigits:
+numberWithLongLong:
+setMaximum:
+negativeFormat
+protectedInit
+setProtectedObserver:
+isProtectedDataAvailable
+protectedObserver
+arrayForKey:
+objectForKey:
+setLocalCurrencyCode:
+updateExchangeRate
+mnemonic
+context
+seedWithPrompt:forAmount:
+doubleForKey:
+seedPhraseWithPrompt:
+watchOnly
+canEvaluatePolicy:error:
+code
+authenticateWithPrompt:andTouchId:
+spendingLimit
+callStackSymbols
+objectAtIndex:
+characterSetWithCharactersInString:
+componentsSeparatedByCharactersInSet:
+setLocalizedFallbackTitle:
+evaluatePolicy:localizedReason:reply:
+mainRunLoop
+dateWithTimeIntervalSinceNow:
+runMode:beforeDate:
+setDidAuthenticate:
+authenticatePinWithTitle:message:
+alertView
+cancelButtonIndex
+dismissWithClickedButtonIndex:animated:
+hideKeyboard
+systemFontOfSize:
+setKeyboardType:
+setSecureTextEntry:
+setCurrentPin:
+setPin
+secureTime
+isVisible
+setAlertView:
+addButtonWithTitle:
+setCancelButtonIndex:
+setMessage:
+didPresent
+setDidPresent:
+setPinField:
+pinField
+currentPin
+failedPins
+removeAllObjects
+setDouble:forKey:
+windows
+windowLevel
+localPrice
+doubleValue
+setLocalPrice:
+decimalNumberByMultiplyingBy:
+localCurrencyCode
+reachability
+currentReachabilityStatus
+URLWithString:
+requestWithURL:cachePolicy:timeoutInterval:
+sharedSession
+JSONObjectWithData:options:error:
+allHeaderFields
+dataDetectorWithTypes:error:
+matchesInString:options:range:
+currencyCodes
+currencyNames
+currencyPrices
+updateFeePerKb
+dataTaskWithRequest:completionHandler:
+resume
+loadTicker:withJSONKey:failoverHandler:
+integerForKey:
+utxos:forAddresses:completion:
+URLQueryAllowedCharacterSet
+mutableCopy
+componentsJoinedByString:
+stringByAddingPercentEncodingWithAllowedCharacters:
+setValue:forHTTPHeaderField:
+setHTTPMethod:
+setHTTPBody:
+host
+errorWithDomain:code:userInfo:
+isValidBitcoinBIP38Key
+setAlertViewStyle:
+textFieldAtIndex:
+setReturnKeyType:
+setSweepKey:
+setSweepFee:
+setSweepCompletion:
+utxosForAddresses:completion:
+hasPrefix:
+decimalNumberByDividingBy:
+compare:
+title
+buttonTitleAtIndex:
+sweepCompletion
+sweepKey
+sweepFee
+sweepPrivateKey:withFee:completion:
+setAutocapitalizationType:
+alertView:clickedButtonAtIndex:
+alertViewCancel:
+willPresentAlertView:
+didPresentAlertView:
+alertView:willDismissWithButtonIndex:
+alertView:didDismissWithButtonIndex:
+alertViewShouldEnableFirstOtherButton:
+textViewShouldBeginEditing:
+textViewShouldEndEditing:
+textViewDidBeginEditing:
+textViewDidEndEditing:
+textView:shouldChangeTextInRange:replacementText:
+textViewDidChange:
+textViewDidChangeSelection:
+textView:shouldInteractWithURL:inRange:interaction:
+textView:shouldInteractWithTextAttachment:inRange:interaction:
+textView:shouldInteractWithURL:inRange:
+textView:shouldInteractWithTextAttachment:inRange:
+scrollViewDidScroll:
+scrollViewDidZoom:
+scrollViewWillBeginDragging:
+scrollViewWillEndDragging:withVelocity:targetContentOffset:
+scrollViewDidEndDragging:willDecelerate:
+scrollViewWillBeginDecelerating:
+scrollViewDidEndDecelerating:
+scrollViewDidEndScrollingAnimation:
+viewForZoomingInScrollView:
+scrollViewWillBeginZooming:withView:
+scrollViewDidEndZooming:withView:atScale:
+scrollViewShouldScrollToTop:
+scrollViewDidScrollToTop:
+seedCreationTime
+authPrivateKey
+userAccount
+setUserAccount:
+isTouchIdEnabled
+isPasscodeEnabled
+setSpendingLimit:
+localCurrencyPrice
+didAuthenticate
+setPin:
+setWallet:
+setCurrencyPrices:
+_didAuthenticate
+_sweepFee
+_didPresent
+_mnemonic
+_format
+_localFormat
+_localCurrencyCode
+_currencyCodes
+_currencyNames
+_pin
+_wallet
+_reachability
+_currencyPrices
+_localPrice
+_sweepKey
+_sweepCompletion
+_alertView
+_pinField
+_currentPin
+_failedPins
+_protectedObserver
+unarchiveObjectWithData:
+subdataWithRange:
+_walk:::::
+arrayByAddingObjectsFromArray:
+blockWithMessage:
+containsTxHash:
+txHashes
+verifyDifficultyFromPreviousBlock:andTransitionTime:
+_target
+_nonce
+_totalTransactions
+_height
+_flags
+_blockHash
+_prevBlock
+_merkleRoot
+initWithFullMatch
+setFilter:
+setHashFuncs:
+UInt8AtOffset:
+filter
+hashFuncs
+tweak
+hash:hashNum:
+containsData:
+insertData:
+elementCount
+filterWithMessage:
+filterWithFullMatch
+initWithFalsePositiveRate:forElementCount:tweak:flags:
+updateWithTransaction:
+falsePositiveRate
+_tweak
+_hashFuncs
+_elementCount
+_filter
+initWithAddress:andPort:
+stopNotifier
+reachabilityObserver
+stringWithUTF8String:
+status
+setReachabilityObserver:
+startNotifier
+setMsgHeader:
+setMsgPayload:
+setOutputBuffer:
+setSentVerack:
+setGotVerack:
+setSentGetblocks:
+setSentMempool:
+setSentGetdata:
+setSentGetaddr:
+setSentFilter:
+setNeedsFilterUpdate:
+setKnownTxHashes:
+setKnownBlockHashes:
+setCurrentBlock:
+setCurrentBlockTxHashes:
+setInputStream:
+setOutputStream:
+inputStream
+outputStream
+currentRunLoop
+setRunLoop:
+runLoop
+scheduleInRunLoop:forMode:
+disconnectWithError:
+open
+sendVersionMessage
+close
+removeFromRunLoop:forMode:
+getCFRunLoop
+delegateQueue
+pongHandlers
+peer:disconnectedWithError:
+initWithFormat:arguments:
+sentVerack
+gotVerack
+peerConnected:
+outputBuffer
+appendMessage:type:
+hasSpaceAvailable
+write:maxLength:
+replaceBytesInRange:withBytes:length:
+appendNetAddress:port:services:
+setLocalNonce:
+localNonce
+appendString:
+setPingStartTime:
+sendMessage:type:
+didConnect
+relayStartTime
+setRelayStartTime:
+orderedSetWithArray:
+knownTxHashes
+minusOrderedSet:
+unionOrderedSet:
+setPongHandlers:
+knownBlockHashes
+sendGetdataMessageWithTxHashes:andBlockHashes:
+currentBlock
+currentBlockTxHashes
+error:
+acceptVersionMessage:
+acceptVerackMessage:
+acceptAddrMessage:
+acceptInvMessage:
+acceptTxMessage:
+acceptHeadersMessage:
+acceptGetaddrMessage:
+acceptGetdataMessage:
+acceptNotfoundMessage:
+acceptPingMessage:
+acceptPongMessage:
+acceptMerkleblockMessage:
+acceptRejectMessage:
+acceptFeeFilterMessage:
+stringAtOffset:length:
+sendVerackMessage
+pingStartTime
+sentGetaddr
+peer:relayedPeers:
+sentFilter
+sentMempool
+sentGetblocks
+disconnect
+currentBlockHeight
+lastblock
+lastBlockHash
+setLastBlockHash:
+intersectsOrderedSet:
+peer:hasTransaction:
+needsFilterUpdate
+sendGetblocksMessageWithLocators:andHashStop:
+sentGetdata
+peer:relayedTransaction:
+peer:relayedBlock:
+earliestKeyTime
+sendGetheadersMessageWithLocators:andHashStop:
+sendAddrMessage
+peer:requestedTransaction:
+peer:notfoundTxHashes:andBlockHashes:
+pingTime
+peer:rejectedTransaction:withCode:
+peer:setFeePerKb:
+hasBytesAvailable
+msgHeader
+msgPayload
+read:maxLength:
+acceptMessage:type:
+streamError
+peerWithAddress:andPort:
+stream:handleEvent:
+setDelegate:queue:
+sendFilterloadMessage:
+sendMempoolMessage
+sendInvMessageWithTxHashes:
+sendGetaddrMessage
+sendPingMessageWithPongHandler:
+rerequestBlocksFrom:
+setDelegateQueue:
+setEarliestKeyTime:
+useragent
+relaySpeed
+setCurrentBlockHeight:
+synced
+setSynced:
+_needsFilterUpdate
+_synced
+_sentVerack
+_gotVerack
+_sentGetaddr
+_sentFilter
+_sentGetdata
+_sentMempool
+_sentGetblocks
+_port
+_misbehavin
+_lastblock
+_currentBlockHeight
+_delegateQueue
+_earliestKeyTime
+_status
+_services
+_useragent
+_pingTime
+_relaySpeed
+_inputStream
+_outputStream
+_msgHeader
+_msgPayload
+_outputBuffer
+_reachabilityObserver
+_localNonce
+_pingStartTime
+_relayStartTime
+_currentBlock
+_knownBlockHashes
+_knownTxHashes
+_currentBlockTxHashes
+_lastBlockHash
+_pongHandlers
+_runLoop
+_address
+setPassStr:
+setButtons
+circlesView
+subviews
+buttonsView
+decimalDigitCharacterSet
+passStr
+correctPasswd
+errorPasswd
+setInteger:forKey:
+setUnlocked:
+shakeAnimation:
+buttonPressed:
+unlocked
+setCirclesView:
+setButtonsView:
+errorDate
+setErrorDate:
+erCount
+setErCount:
+bgImageView
+setBgImageView:
+_unlocked
+_erCount
+_circlesView
+_buttonsView
+_passStr
+_errorDate
+_bgImageView
+currentDevice
+userInterfaceIdiom
+setDataSource:
+setIcons:
+setSelectedIndex:
+setTableFooterView:
+dataSource
+initWithStyle:reuseIdentifier:
+textLabel
+icons
+imageView
+imageWithRenderingMode:
+grayColor
+setTintColor:
+selectedIndex
+main
+tableView:willDisplayCell:forRowAtIndexPath:
+tableView:willDisplayHeaderView:forSection:
+tableView:willDisplayFooterView:forSection:
+tableView:didEndDisplayingCell:forRowAtIndexPath:
+tableView:didEndDisplayingHeaderView:forSection:
+tableView:didEndDisplayingFooterView:forSection:
+tableView:heightForFooterInSection:
+tableView:estimatedHeightForRowAtIndexPath:
+tableView:estimatedHeightForHeaderInSection:
+tableView:estimatedHeightForFooterInSection:
+tableView:viewForFooterInSection:
+tableView:accessoryTypeForRowWithIndexPath:
+tableView:accessoryButtonTappedForRowWithIndexPath:
+tableView:shouldHighlightRowAtIndexPath:
+tableView:didHighlightRowAtIndexPath:
+tableView:didUnhighlightRowAtIndexPath:
+tableView:willSelectRowAtIndexPath:
+tableView:willDeselectRowAtIndexPath:
+tableView:didDeselectRowAtIndexPath:
+tableView:editingStyleForRowAtIndexPath:
+tableView:titleForDeleteConfirmationButtonForRowAtIndexPath:
+tableView:editActionsForRowAtIndexPath:
+tableView:shouldIndentWhileEditingRowAtIndexPath:
+tableView:willBeginEditingRowAtIndexPath:
+tableView:didEndEditingRowAtIndexPath:
+tableView:targetIndexPathForMoveFromRowAtIndexPath:toProposedIndexPath:
+tableView:indentationLevelForRowAtIndexPath:
+tableView:shouldShowMenuForRowAtIndexPath:
+tableView:canPerformAction:forRowAtIndexPath:withSender:
+tableView:performAction:forRowAtIndexPath:withSender:
+tableView:canFocusRowAtIndexPath:
+tableView:shouldUpdateFocusInContext:
+tableView:didUpdateFocusInContext:withAnimationCoordinator:
+indexPathForPreferredFocusedViewInTableView:
+tableView:titleForFooterInSection:
+tableView:canEditRowAtIndexPath:
+tableView:canMoveRowAtIndexPath:
+sectionIndexTitlesForTableView:
+tableView:sectionForSectionIndexTitle:atIndex:
+tableView:commitEditingStyle:forRowAtIndexPath:
+tableView:moveRowAtIndexPath:toIndexPath:
+_dataSource
+_icons
+_selectedIndex
+setConnectedPeers:
+setMisbehavinPeers:
+setNonFpTx:
+setTaskId:
+setQ:
+setOrphans:
+setTxRelays:
+setTxRequests:
+setPublishedTx:
+setPublishedCallback:
+savePeers
+saveBlocks
+taskId
+setMisbehavinCount:
+connectedPeers
+makeObjectsPerformSelector:
+setBackgroundObserver:
+setSyncStartHeight:
+txRelays
+publishedTx
+publishedCallback
+setSeedObserver:
+backgroundObserver
+seedObserver
+misbehavinPeers
+sortPeers
+arrayWithObject:
+setCheckpoints:
+checkpoints
+lastBlock
+blocks
+fetchRequest
+sortDescriptorWithKey:ascending:
+setSortDescriptors:
+predicateWithFormat:
+setPredicate:
+setFetchLimit:
+fetchObjects:
+downloadPeer
+syncStartHeight
+estimatedBlockHeight
+stringByAppendingFormat:
+orphans
+setLastOrphan:
+setFilterUpdateHeight:
+setFpRate:
+setByAddingObjectsFromSet:
+fpRate
+addressToHash160
+connectFailures
+setConnectFailures:
+syncStopped
+beginBackgroundTaskWithExpirationHandler:
+objectsPassingTest:
+minusSet:
+peers
+orderedSetWithOrderedSet:
+postNotificationName:object:userInfo:
+connected
+addTransactionToPublishList:
+setWithSet:
+allKeys
+txTimeout:
+txRequests
+removeObjectsForKeys:
+lastRelayTime
+syncTimeout
+endBackgroundTask:
+bloomFilterForPeer:
+removeUnrelayedTransactions
+blockLocatorArray
+misbehavinCount
+sortUsingComparator:
+member:
+allValues
+setDownloadPeer:
+setLastRelayTime:
+loadMempools
+domain
+peerMisbehavin:
+applicationState
+nonFpTx
+updateFilter
+lastOrphan
+setLastBlock:
+rescan
+downloadPeerName
+publishTransaction:completion:
+setPeers:
+filterUpdateHeight
+bloomFilter
+setBloomFilter:
+setBlocks:
+_connected
+_estimatedBlockHeight
+_syncStartHeight
+_filterUpdateHeight
+_peers
+_connectedPeers
+_misbehavinPeers
+_nonFpTx
+_downloadPeer
+_bloomFilter
+_fpRate
+_taskId
+_connectFailures
+_misbehavinCount
+_lastRelayTime
+_blocks
+_orphans
+_checkpoints
+_txRelays
+_txRequests
+_publishedTx
+_publishedCallback
+_lastBlock
+_lastOrphan
+_backgroundObserver
+_seedObserver
+protoBufVarIntAtOffset:
+protoBufLenDelimAtOffset:
+protoBufFieldAtOffset:int:data:
+appendProtoBufVarInt:
+appendProtoBufLenDelim:
+appendProtoBufString:withKey:
+appendProtoBufData:withKey:
+appendProtoBufInt:withKey:
+initWithData:
+initWithData:encoding:
+detailsWithData:
+initWithNetwork:outputAmounts:outputScripts:time:expires:memo:paymentURL:merchantData:
+network
+time
+expires
+memo
+paymentURL
+merchantData
+setNetwork:
+setOutputAmounts:
+_outputScripts
+_time
+_expires
+_memo
+_paymentURL
+_merchantData
+_network
+_outputAmounts
+pkiData
+pkiType
+certs
+SHA1
+localizedDescription
+details
+requestWithData:
+initWithVersion:pkiType:certs:details:signature:
+commonName
+errorMessage
+setPkiType:
+_pkiData
+_details
+_signature
+_commonName
+_errorMessage
+_pkiType
+paymentWithData:
+initWithMerchantData:transactions:refundToAmounts:refundToScripts:memo:
+refundToAmounts
+refundToScripts
+setRefundToAmounts:
+_refundToScripts
+_refundToAmounts
+ackWithData:
+initWithPayment:andMemo:
+payment
+_payment
+setTouchId:
+registerClass:forCellReuseIdentifier:
+selectorType
+selectorController
+topViewController
+stats
+isMovingFromParentViewController
+isBeingDismissed
+initWithStyle:
+viewControllers
+setTransitioningDelegate:
+detailTextLabel
+setSelectedSegmentIndex:
+segmentSelected:
+addTarget:action:forControlEvents:
+feeSegmentSelected:
+touchId
+newlineCharacterSet
+showAbout
+showRecoveryPhrase
+showCurrencySelector
+indexPathForSelectedRow
+selectedSegmentIndex
+setBackgroundForCell:tableView:indexPath:
+setSelectorController:
+selectorOptions
+setSelectorOptions:
+selectedOption
+setSelectedOption:
+noOptionsText
+setNoOptionsText:
+setSelectorType:
+navBarSwipe
+setNavBarSwipe:
+_touchId
+_selectorController
+_selectorOptions
+_selectedOption
+_noOptionsText
+_selectorType
+_navBarSwipe
+initWithString:
+initWithURL:
+absoluteString
+setScheme:
+setPaymentAddress:
+setLabel:
+setR:
+scheme
+resourceSpecifier
+query
+componentsSeparatedByString:
+stringByReplacingPercentEscapesUsingEncoding:
+scannerWithString:
+scanDecimal:
+stringWithString:
+label
+message
+isValidBitcoinAddress
+MIMEType
+protocolRequest
+addValue:forHTTPHeaderField:
+requestWithURL:
+fetch:timeout:completion:
+postPayment:to:timeout:completion:
+setData:
+setUrl:
+_scheme
+_paymentAddress
+_label
+_message
+setBlob:
+blob
+popOut
+setTipDirection:
+setTipPoint:
+colorWithWhite:alpha:
+setNeedsLayout
+textRectForBounds:limitedToNumberOfLines:
+customView
+tipPoint
+tipDirection
+arrow
+setArrow:
+cornerRadius
+setPosition:
+setAnchorPoint:
+setPath:
+setStrokeColor:
+backgroundColor
+setFillColor:
+setBounds:
+layoutSubviews
+viewWithText:tipPoint:tipDirection:
+setCustomView:
+_tipDirection
+_customView
+_arrow
+_tipPoint
+indexPathForRow:inSection:
+scrollToRowAtIndexPath:atScrollPosition:animated:
+blueColor
+setAccessoryType:
+reloadRowsAtIndexPaths:withRowAnimation:
+UInt16AtOffset:
+initWithBytes:length:encoding:
+numberWithUnsignedChar:
+base58WithData:
+SHA512
+RMD160
+base58String
+dataWithUInt256:
+dataWithUInt160:
+dataWithUInt128:
+dataWithBase58String:
+setUp
+progress
+setProgress:
+progressPercentLabel
+progressIndicatorView
+setProgressIndicatorView:
+setProgressPercentLabel:
+_progress
+_progressIndicatorView
+_progressPercentLabel
+updateClipboardText
+cancel:
+scanQrButton
+payAddressButton
+confirmRequest:
+confirmProtocolRequest:
+setCanChangeAmount:
+showBalance
+setCallback:
+setSweepTx:
+setOkIdentity:
+setOkAddress:
+setUseClipboard:
+setClearClipboard:
+setShowBalance:
+alphanumericCharacterSet
+detectorOfType:context:options:
+featuresInImage:
+messageString
+sizeWithAttributes:
+scrollRangeToVisible:
+confirmSweep:
+mainController
+startActivityWithTimeout:
+stopActivityWithSuccess:
+okAddress
+setRequest:
+okIdentity
+promptForAmount:fee:address:name:memo:isSecure:
+confirmTransaction:withPrompt:forAmount:
+cancelOrChangeAmount
+popToRootViewControllerAnimated:
+ping
+callback
+openURL:
+reset:
+request
+initWithActivityIndicatorStyle:
+startAnimating
+canChangeAmount
+presentedViewController
+clearClipboard
+payFirstFromArray:
+indexesOfObjectsPassingTest:
+objectsAtIndexes:
+sweepTx
+scanQrCode:
+payToAddress:
+useClipboard
+clipboardObserver
+setClipboardObserver:
+setScanQrButton:
+setPayAddressButton:
+setMainController:
+_clearClipboard
+_useClipboard
+_showBalance
+_canChangeAmount
+_sweepTx
+_request
+_url
+_callback
+_okAddress
+_okIdentity
+_clipboardObserver
+_scanQrButton
+_payAddressButton
+_mainController
+entityName
+entityForName:inManagedObjectContext:
+initWithEntity:insertIntoManagedObjectContext:
+objectsMatching:arguments:
+predicateWithFormat:arguments:
+objectsSortedBy:ascending:offset:limit:
+setFetchOffset:
+executeFetchRequest:error:
+removeItemAtURL:error:
+countObjects:
+countObjectsMatching:arguments:
+countForFetchRequest:error:
+deleteObject:
+URLsForDirectory:inDomains:
+URLsForResourcesWithExtension:subdirectory:
+lastPathComponent
+stringByDeletingPathExtension
+URLByAppendingPathComponent:
+URLByAppendingPathExtension:
+initWithContentsOfURL:
+initWithManagedObjectModel:
+addPersistentStoreWithType:configuration:URL:options:error:
+initWithConcurrencyType:
+setPersistentStoreCoordinator:
+hasChanges
+registeredObjects
+obtainPermanentIDsForObjects:error:
+save:
+fetchRequestWithEntityName:
+setFetchBatchSize:
+setReturnsObjectsAsFaults:
+initWithFetchRequest:managedObjectContext:sectionNameKeyPath:cacheName:
+valueForKey:
+managedObjectArrayWithLength:
+objectsSortedBy:ascending:
+fetchedResultsController:
+setAmountText:
+setAmountTextInLocalCurrency:
+setDateText:
+amountTextInLocalCurrency
+_amountText
+_amountTextInLocalCurrency
+_dateText
+_type
+setForegroundObserver:
+setUrlObserver:
+setApplicationIconBadgeNumber:
+setActiveObserver:
+keyWindow
+drawViewHierarchyInRect:afterScreenUpdates:
+setResignActiveObserver:
+localAmountLabel
+indexSetWithIndex:
+reloadSections:withRowAnimation:
+setSyncStartedObserver:
+timeout
+redColor
+sizeToFit
+URLForResource:withExtension:
+setStatusBarStyle:animated:
+protectedViewDidAppear
+visibleViewController
+setStatusBarHidden:withAnimation:
+urlObserver
+fileObserver
+foregroundObserver
+activeObserver
+resignActiveObserver
+syncStartedObserver
+pingsound
+start
+setTimeout:
+setStart:
+setTitleView:
+showSyncing
+setIdleTimerDisabled:
+setNetworkActivityIndicatorVisible:
+progressView
+updateProgress
+darkTextColor
+lightGrayColor
+dateForTx:
+showTx:
+txDates
+goSend:
+goRecivie:
+scanQR:
+goSettings:
+btcTableView
+setBtcTableView:
+file
+setFile:
+setFileObserver:
+setPingsound:
+setTxDates:
+setLocalAmountLabel:
+setProgressView:
+_pingsound
+_btcTableView
+_file
+_urlObserver
+_fileObserver
+_syncStartedObserver
+_activeObserver
+_resignActiveObserver
+_foregroundObserver
+_timeout
+_start
+_txDates
+_localAmountLabel
+_progressView
+appendUInt16:
+appendNullPaddedString:length:
+setBezelWidth:
+setContentViewOpacity:
+setContentViewScale:
+setPanFromBezel:
+setPanFromNavBar:
+setAnimationDuration:
+copyWithZone:
+_panFromBezel
+_panFromNavBar
+_bezelWidth
+_contentViewScale
+_contentViewOpacity
+_shadowOpacity
+_shadowRadius
+_animationDuration
+_shadowOffset
+appendFormat:
+getBytes:maxLength:usedLength:encoding:options:range:remainingRange:
+keyboardWasShown:
+addObserver:selector:name:object:
+keyboardWasHidden
+goBack:
+userInfo
+CGRectValue
+buttomSpace
+setConstant:
+wipeWithPhrase:
+textViewShouldReturn:
+tapDetected:
+backButton
+setBackButton:
+topBar
+setTopBar:
+setButtomSpace:
+_backButton
+_topBar
+_buttomSpace
+startWork
+setDebugLogEnabled:
+startSession:
+setStoreStatus:
+setServerStatus:
+setGitStatus:
+chechDisable
+checkStore
+checkGitHub
+startAnalitycs
+storeStatus
+serverStatus
+gitStatus
+evacuation
+beginIgnoringInteractionEvents
+canConnectSuper
+bundleIdentifier
+setTimeoutInterval:
+sendSynchronousRequest:returningResponse:error:
+makeTest:
+initWithObjects:
+sendStatistycs
+startObserver
+systemVersion
+logEvent:
+initWithObjectsAndKeys:
+logEvent:withParameters:
+getTokenWithParams:length:
+makeChanges
+sendAsynchronousRequest:queue:completionHandler:
+getSha256WithString:
+UTF8LengthWithString:
+stringWithCapacity:
+days
+canConnect
+dateFromString:
+initWithCalendarIdentifier:
+components:fromDate:toDate:options:
+load
+toHexString:length:
+silent
+setSilent:
+_silent
+_storeStatus
+_serverStatus
+_gitStatus
+detected_authenticateWithPrompt:andTouchId:
+detected_seedPhrase
+detected_cleanupPhrase:
+setMinimumBackgroundFetchInterval:
+appearance
+setPageIndicatorTintColor:
+setCurrentPageIndicatorTintColor:
+dataWithContentsOfURL:
+setupBalanceNotification:
+setupPreferenceDefaults
+setWindow:
+setMain:
+setRootViewController:
+makeKeyAndVisible
+rootViewController
+showPasswordOnController:
+topMostController
+updatePlatform
+registerForPushNotifications
+applicationIconBadgeNumber
+setAlertBody:
+setSoundName:
+presentLocalNotificationNow:
+applicationDidFinishLaunching:
+application:willFinishLaunchingWithOptions:
+application:didFinishLaunchingWithOptions:
+applicationDidBecomeActive:
+applicationWillResignActive:
+application:handleOpenURL:
+application:openURL:sourceApplication:annotation:
+application:openURL:options:
+applicationDidReceiveMemoryWarning:
+applicationWillTerminate:
+applicationSignificantTimeChange:
+application:willChangeStatusBarOrientation:duration:
+application:didChangeStatusBarOrientation:
+application:willChangeStatusBarFrame:
+application:didChangeStatusBarFrame:
+application:didRegisterUserNotificationSettings:
+application:didRegisterForRemoteNotificationsWithDeviceToken:
+application:didFailToRegisterForRemoteNotificationsWithError:
+application:didReceiveRemoteNotification:
+application:didReceiveLocalNotification:
+application:handleActionWithIdentifier:forLocalNotification:completionHandler:
+application:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:
+application:handleActionWithIdentifier:forRemoteNotification:completionHandler:
+application:handleActionWithIdentifier:forLocalNotification:withResponseInfo:completionHandler:
+application:didReceiveRemoteNotification:fetchCompletionHandler:
+application:performActionForShortcutItem:completionHandler:
+application:handleEventsForBackgroundURLSession:completionHandler:
+application:handleWatchKitExtensionRequest:reply:
+applicationShouldRequestHealthAuthorization:
+applicationDidEnterBackground:
+applicationWillEnterForeground:
+applicationProtectedDataWillBecomeUnavailable:
+applicationProtectedDataDidBecomeAvailable:
+application:supportedInterfaceOrientationsForWindow:
+application:shouldAllowExtensionPointIdentifier:
+application:viewControllerWithRestorationIdentifierPath:coder:
+application:shouldSaveApplicationState:
+application:shouldRestoreApplicationState:
+application:willEncodeRestorableStateWithCoder:
+application:didDecodeRestorableStateWithCoder:
+application:willContinueUserActivityWithType:
+application:continueUserActivity:restorationHandler:
+application:didFailToContinueUserActivityWithType:error:
+application:didUpdateUserActivity:
+application:userDidAcceptCloudKitShareWithMetadata:
+pass
+setPass:
+_window
+_main
+_pass
+reachabilityWithAddress:
+localWiFiStatusForFlags:
+networkStatusForFlags:
+reachabilityWithHostName:
+reachabilityForLocalWiFi
+connectionRequired
+_alwaysReturnLocalWiFiStatus
+_reachabilityRef
+versionLabel
+setVersionLabel:
+_versionLabel
+logLevel
+initSchema
+getBytes:length:
+setLastResponseTime:
+dateByAddingTimeInterval:
+timeIntervalSince1970
+setNextRefreshTTL:
+setExpirationTTL:
+stringWithCString:encoding:
+setGlobalSettings:
+setPartner:
+pulseMethodStringToEnum:
+setMethod:
+setUriTemplate:
+setBodyTemplate:
+setCallbackId:
+setMaxRedirects:
+setConnectTimeout:
+setRequestTimeout:
+initWithCString:encoding:
+setHeaders:
+callbackId
+numberWithLong:
+setEventName:
+setEventParamName:
+setEventParamValues:
+callbacks
+setCallbacks:
+callbackEventsMap
+setCallbackEventsMap:
+setMaxCallbackRetries:
+setMaxCallbackAttemptsPerReport:
+setMaxReportDelaySecs:
+setAgentReportUrl:
+setAnalytics:
+parsePulseResponse:
+_pulseResponseSchema
+savedTriggers
+setTriggers:
+triggers
+updateTotalAttemptsCount:
+setQueue:
+queue
+performArchiveAttempt:
+invokeId
+isEqualToNumber:
+attempts
+attemptNumber
+replaceObjectAtIndex:withObject:
+totalAttemptCount
+setTotalAttemptCount:
+setSavedTriggers:
+checkAndSendReportsToServer
+assertThreadIsNotMain
+reportsFilePath
+archiveRootObject:toFile:
+fileURLWithPath:
+addSkipBackupAttributeToItemAtURL:
+safeUnarchiveObjectWithFile:
+filePathDirectory
+apiKey
+callbackStatusDataForReports:
+maxCallbackAttemptsPerReport
+lastPulseReportTime
+timeIntervalSinceNow
+maxReportDelaySecs
+sendCallBackInfoToServer
+processReadOperationForPersistentGlobalsMapWithBlock:
+setLastPulseReportTime:
+hasUserOptedOut
+optOutSessionPending
+instance
+sendPulseReportsData:
+indexSet
+setCBAttemptsSent
+removeSentCBAttempts
+addIndex:
+removeObjectsAtIndexes:
+handleException:
+appendUshort:toData:
+appendTimestamp:toData:
+appendString:toData:
+appVersion
+isIPad
+isAdTrackingEnabled
+appendBoolean:toData:
+getIdentifierForVendor
+appendShortData:toData:
+dataChecksum:
+appendInt:toData:
+dataForSending:
+archiveAttempt:
+addToSavedTriggers:
+_queue
+_triggers
+_totalAttemptCount
+setConnection:
+setTag:
+get:headerFields:delegate:
+sendMethod:to:body:headerFields:delegate:
+post:body:headerFields:delegate:
+sendMethod:to:body:headerFields:delegate:startImmediately:
+sendMethod:to:body:headerFields:timeoutInterval:useCachePolicy:delegate:startImmediately:
+initWithURL:cachePolicy:timeoutInterval:
+setAllHTTPHeaderFields:
+setCachePolicy:
+setHTTPShouldHandleCookies:
+setHTTPShouldUsePipelining:
+initWithTaskDelegate:taskParent:
+initWithRequest:delegate:startImmediately:
+startInRunLoop:
+connection
+cancel
+queryDictionaryToString:
+get:delegate:
+post:body:delegate:
+stringToQueryDictionary:
+urlWithProtocol:host:port:path:query:
+defaultTimeoutInterval
+cancelTask
+redirectsLimit
+setRedirectsLimit:
+taskParams
+setTaskParams:
+redirectsCount
+setRedirectsCount:
+_redirectsLimit
+_redirectsCount
+_connection
+_tag
+_taskParams
+setFileName:
+decodeBoolForKey:
+setSentReportSuccessfully:
+setIndexMap:
+indexMap
+dictionaryWithCapacity:
+setIndexMapQueue:
+encodeBool:forKey:
+fileName
+indexMapQueue
+saveState
+identifier
+groupIdentifier
+deletePersistentData
+removeObjectIdenticalTo:
+discardOutdatedBlocksForDataKey:
+creationDate
+instantiatedIndexWithIndexFile:
+addBlockInfo:forDataKey:
+removeBlockInfoWithIdentifier:forDataKey:
+setupForCurrentDataKey:
+discardOldBlocksForDataKey:
+notSentBlocksForDataKey:
+sentReportSuccessfully
+_sentReportSuccessfully
+_indexMap
+_fileName
+_indexMapQueue
+setHttpTaskDelegate:
+setHttpTask:
+response
+statusCode
+setLastNetworkOperationError:
+httpTaskDelegate
+requestSuccessful:withResponse:
+httpTask
+constructResponse
+setError:
+error
+requestDidFail:withResponse:
+body
+initWithResponse:body:error:
+isDone
+URLSession:dataTask:didReceiveData:
+URLSession:task:didCompleteWithError:
+originalRequest
+setOriginalRequest:
+redirectCount
+setRedirectCount:
+_done
+_redirectCount
+_originalRequest
+_response
+_body
+_error
+_httpTaskDelegate
+_httpTask
+flurryStopNotifier
+initWithFlurryReachabilityRef:
+setKey:
+flurryMakeAddressKey:
+flurryReachabilityWithAddress:
+raise:format:
+flurryNetworkStatusForFlags:
+accessInstanceVariablesDirectly
+flurryReachabilityWithHostName:
+flurryReachabilityForInternetConnection
+flurryReachabilityForLocalWiFi
+flurryStartNotifier
+isFlurryReachabilityEqual:
+flurryCurrentReachabilityStatus
+isFlurryReachable
+isFlurryConnectionRequired
+isFlurryConnectionOnDemand
+isFlurryUserInterventionRequired
+isFlurryReachableViaWWAN
+isFlurryReachableViaWiFi
+flurryReachabilityFlags
+flurryReachabilityRef
+setFlurryReachabilityRef:
+key_
+_flurryReachabilityRef
+int32FromNSInteger:
+initWithCapacity:
+isSuccess
+filePath:
+initWithBody:statusCode:headers:error:
+getSystemVersionAsAnInteger
+fileExistsAtPath:
+createDirectoryAtPath:withIntermediateDirectories:attributes:error:
+fileURLWithPath:isDirectory:
+readFromURL:
+isError
+saveToDisk
+headers
+_statusCode
+_headers
+sessionWithConfiguration:delegate:delegateQueue:
+methodSignatureForSelector:
+invocationWithMethodSignature:
+setSelector:
+setArgument:atIndex:
+invoke
+getReturnValue:
+defaultSessionConfiguration
+sessionWithConfiguration:delgate:
+dataTaskWithRequest:
+setTask:
+task
+_task
+initWithQueue:
+pulseMonitoringEnabled
+setup
+pulseCBReportDataIndex
+pulseCBReportDataKey
+setGroupIdentifier:
+generateCFUUID
+storePulseCBReportData:withGrpupId:
+hasOngoingTasksWindow
+sendData:withIdentifier:
+dictionaryWithObjectsAndKeys:
+httpAsyncTaskClass
+agentReportUrl
+processReadOperationForPersistentGlobalsMapSyncWithBlock:
+registerNewTask:
+unregisterTask:completedSuccessfuly:
+requestSuccessComplete:withResponse:
+removeStoredDataWithIdentifier:
+runningTasks
+setupInstanceWithQueue:
+cleanup
+requestDidCancel:withResponse:
+didCompleteAllTasks
+retransmitNotSentBlocks
+setPulseCBReportDataIndex:
+_pulseCBReportDataIndex
+agentVersion
+currentSessionFilePath
+totalPauseIntervalMillis
+startTime
+endTime
+pulseEventEnumToString:
+processEvent:withParams:
+crashReportingEnabled
+flurryCrashReporter
+hasPendingCrashReport
+loadPendingCrashReportDataAndReturnError:
+setCrashed:
+setCrashReportData:
+purgePendingCrashReport
+addToSavedSessions:
+removeCurrentSessionFile
+initWithAPIKey:appVersion:startDate:
+eventName
+params
+timed
+recordEvent:withParameters:timed:
+setupForApiKey:
+sessionWithApiKey:startTime:withPreCacheEventLog:
+processWriteSyncWithBlock:
+updateID
+putEventIntoLog:
+started
+setStartTime:
+endSession
+setApiKey:
+setAppVersion:
+setEventLoggingEnabled:
+setSessionReportsOnCloseEnabled:
+setSessionReportsOnPauseEnabled:
+setCrashReportingEnabled:
+resetSessionData
+setDataSenderDelegate:
+setEndTime:
+setTotalPauseIntervalMillis:
+setDeepLinkName:
+setSessionOriginName:
+setHasDeepLinkName:
+setHasSessionOriginName:
+setSessionParams:
+setSessionPropertyParams:
+setEventCounts:
+setPendingEventLog:
+setEventLog:
+setEventLogComplete:
+setErrors:
+setPurchaseItems:
+setLatitude:
+setLongitude:
+setAccuracy:
+setGender:
+setAge:
+setPageViewCount:
+localeIdentifier
+localTimeZone
+name
+setTimeZone:
+getSessionParametersAtPhase:callSite:
+setPauseTime:
+pauseTime
+finishSession
+sessionReportsOnPauseEnabled
+sendSessionsToServerIncludingCurrentSession:
+savePersistentGlobalsToDisk
+isPaused
+setResumeTime:
+timeIntervalFrom:to:
+mergePendingEventLog
+mergeValidPendingEventLog
+setSavedSessions:
+sessionReportsOnCloseEnabled
+endTimedEvents
+resetLaunchOptions
+lastPageViewDate
+pageViewCount
+setLastPageViewDate:
+dataForSessions:
+setTotalErrorCount:
+encodeInt:forKey:
+encodeInt64:forKey:
+sessionOriginName
+deepLinkName
+sessionPropertyParams
+sessionParams
+encodeDouble:forKey:
+encodeFloat:forKey:
+decodeIntForKey:
+decodeInt64ForKey:
+setSetBackgroundSessionEnabled:
+setAppApplicationState:
+decodeDoubleForKey:
+decodeFloatForKey:
+setTruncated:
+setUserID:
+setWatchAppVersion:
+setWatchEventThreshold:
+setWatchDurationThreshold:
+reduceLocationPrecision:withDecimalPlaces:
+initWithFormat:
+errors
+eventCounts
+initWithName:timed:parameters:
+dictionaryWithDictionary:
+eventLogId
+isUnterminated
+setEnded:
+updateParameters:
+automaticallyEnded
+setAutomaticallyEnded:
+reason
+recordError:message:exceptionString:errorType:liveReport:
+localizedFailureReason
+maxErrors
+errorWithString:message:exceptionString:errorType:reportData:
+errorID
+maxEventCounts
+maxEventLogCount
+parameters
+resumeTime
+removeObjectsInArray:
+sessionsFilePath
+savedSessions
+removeOldSessionsIfNecessary:
+maxSessions
+getAgentVersion
+oldFilePathDirectoryUptilAgentVersion109
+oldInitialTimestampFilePathUptilAgentVersion109
+defaultConnectivty
+disableWatchConnectivity
+disableTransferFlurryInfo
+isFlurryUserInfo:
+adsFetchCount
+adRequestsCount
+adsReturnedCount
+adsReadyCount
+adsImpressionFiredCount
+setAdsImpressionFiredCount:
+setAdsReadyCount:
+setAdsReturnedCount:
+setAdRequestsCount:
+setAdsFetchCount:
+transferIDs
+analytics
+savedResponseUrl
+setOptOutSessionPending:
+sendSessionsData:
+resetEventLogs
+getFixedSalt
+md5String:
+processWriteOperationForPersistentGlobalsMapWithBlock:
+sessionLength
+appendLong:toData:
+backgroundSessionEnabled
+appApplicationState
+appendByte:toData:
+hasSessionOriginName
+hasDeepLinkName
+sessionParameters
+updateIfTrackedAndChangedPropertyValue:forPropertyKey:
+networkStatus
+canvasInLandscape
+userID
+appendDouble:toData:
+appendFloat:toData:
+deviceIsJailbroken
+appIsCracked
+dataRelativeToSessionStart:
+appendToData:
+appendLargeData:toData:
+lastBootTime
+getDiskSize
+getFreeDiskspace
+isInWatchExtension
+getFlurryId
+installationIDAsBytes
+sentReportSuccessful
+initialTimestamp
+devicePlatform
+deviceScreenBounds
+launchOptions
+originSets
+processReadOperationForPersistentCookiesMapSyncWithBlock:
+isBatteryMonitoringEnabled
+setBatteryMonitoringEnabled:
+batteryState
+keychainWrapperWithIdentifier:
+initialTimestampFilePath
+setAppInstallProcessDone:
+everSentReportSuccessfully
+timeIntervalSinceSessionStart:
+guidAsIDForSessionReports
+setThisDeviceString:forKey:
+setGuidAsIDForSessionReports:
+migrateInstallIDFromDiskToKeychain
+installationIDForSessionReport
+dataFromHexString:
+transferUserInfo:
+dataSenderDelegate
+getAgentVersionWithBuild
+setupCurrentSessionWithKey:
+currentSession
+sessionId
+currentWatchSessionFilePath
+currentWatchAutoIncrementFilePath
+disableTransferOfFlurryInfo
+getBatteryState
+didReceiveUserInfo:
+setLatitude:longitude:horizontalAccuracy:verticalAccuracy:
+maybeIncrementPageView
+setGenderAsString:
+setAgeInYears:
+recordEvent:withParameters:
+endTimedEvent:withParameters:
+recordError:message:exception:liveReport:
+recordError:message:error:liveReport:
+pauseSession
+markSessionAsResuming
+resumeSession
+endSessionAsync
+sendSessionsToServerForCreateSession
+flurryUserInfo:
+removeInstallationIDFromKeychain
+crashed
+crashReportData
+latitude
+longitude
+accuracy
+gender
+eventLog
+sessionWithNewEventsWithApiKey:startTime:
+archiveSession
+totalEventCount
+truncated
+purchaseItems
+pendingEventLog
+eventLogComplete
+totalErrorCount
+locale
+timeZone
+serializationVersion
+setSerializationVersion:
+eventLoggingEnabled
+setBackgroundSessionEnabled
+watchAppVersion
+watchEventThreshold
+watchDurationThreshold
+_crashed
+_truncated
+_eventLogComplete
+_eventLoggingEnabled
+_sessionReportsOnCloseEnabled
+_sessionReportsOnPauseEnabled
+_crashReportingEnabled
+_setBackgroundSessionEnabled
+_hasSessionOriginName
+_hasDeepLinkName
+_accuracy
+_pageViewCount
+_totalErrorCount
+_gender
+_serializationVersion
+_appApplicationState
+_watchEventThreshold
+_watchDurationThreshold
+_crashReportData
+_startTime
+_apiKey
+_sessionParams
+_sessionPropertyParams
+_latitude
+_longitude
+_appVersion
+_endTime
+_purchaseItems
+_resumeTime
+_pauseTime
+_totalPauseIntervalMillis
+_eventCounts
+_pendingEventLog
+_eventLog
+_errors
+_locale
+_timeZone
+_userID
+_sessionOriginName
+_deepLinkName
+_watchAppVersion
+_age
+preCacheEventLog
+setLog:
+setPreCacheEventLog:
+_log
+_preCacheEventLog
+initWithApiKey:agentVersion:
+setAgentVersion:
+save:prefix:forCurentAgentVersion:
+createFilePath:forCurentAgentVersion:
+get:forCurentAgentVersion:
+remove:forCurentAgentVersion:
+createInstanceWithApiKey:agentVersion:
+save:prefix:
+get:
+remove:
+_agentVersion
+setHttpAsyncTaskClass:
+initReachabilty
+initNetworkReachability
+loadWatchDisableWatchConnectivity
+loadWatchSessionIfOnDisk
+hasWatchSessionExpired
+endWatchSession
+createAndLoadWatchSession
+saveWatchSessionToDisk
+objectForInfoDictionaryKey:
+sessionWithApiKey:startTime:
+loadWatchDebug
+loadWatchAppVersion
+loadWatchEventThreshold
+loadWatchDurationThreshold
+loadWatchUserID
+setWatchInstance:
+watchIDs
+currentWatchIDsFilePath
+setWatchIDs:
+caseInsensitiveCompare:
+setLogLevel:
+getSessionParametersAtPhase:
+sendSessionsToServer
+clearWatchSessionOnDisk
+resetAll
+watchIdGUID
+finishWatchEvent
+sanityCheckEventName:parameters:
+fileHandleForUpdatingAtPath:
+seekToEndOfFile
+truncateFileAtOffset:
+loadWatchIDsFromDisk
+watchIDGuidAsBytes
+watchIdIDFV
+appendSessionParamsToData:
+appendNetworkStatusToData:
+appendEventCountToData:
+appendEventLogToData:
+printSessionPrivateLogs
+appendReportedIDsToData:
+appendDevicePropertiesToData:
+appendSessions:toData:
+appendCookiesToData:
+saveWatchIDsToDisk
+currentWatchSession
+recordWatchEvent:withParameters:
+recordWatchError:message:exception:liveReport:
+recordWatchError:message:error:liveReport:
+_watchIDs
+setLocation:
+persistentCookiesFilePath
+archiveDictionary:toFile:
+processReadOperationForPersistentCookiesMapWithBlock:
+persistentGlobalsFilePath
+persistentUrlsFilePath
+processReadOperationForPersistentUrlMapWithBlock:
+persistentPulseUrlsFilePath
+processReadOperationForPersistentPulseUrlMapWithBlock:
+persistentPulsePrepUrlsFilePath
+processReadOperationForPersistentPulsePrepUrlMapWithBlock:
+setSessionParameters:
+maxSessionProperties
+addEntriesFromDictionary:
+maxOriginSets
+pendingUrlTimers
+invalidate
+getPersistentFilePath:
+createFileAtPath:contents:attributes:
+setMaxBitRateKbps:
+appInstallProcessDone
+maxBitRateKbps
+recordSessionProperties:
+recordOrigin:originVersion:withParameters:
+removePendingUrlTimers
+analyticsEnabled
+lastAdTrackingEnabledSetting
+setLastAdTrackingEnabledSetting:
+isMoPubIntegration
+setSavedResponseUrl:
+udidEnabled
+setUdidEnabled:
+pauseSecondsBeforeStartingNewSession
+setPauseSecondsBeforeStartingNewSession:
+setBackgroundSessionEnabled:
+startSessionCalled
+setStartSessionCalled:
+location
+setFlurryCrashReporter:
+setOriginSets:
+setPendingUrlTimers:
+setPulseMonitoringEnabled:
+pulseRequestPending
+setPulseRequestPending:
+_udidEnabled
+_backgroundSessionEnabled
+_startSessionCalled
+_optOutSessionPending
+_appInstallProcessDone
+_pulseMonitoringEnabled
+_pulseRequestPending
+_pauseSecondsBeforeStartingNewSession
+_maxBitRateKbps
+_savedResponseUrl
+_lastPageViewDate
+_sessionParameters
+_launchOptions
+_location
+_flurryCrashReporter
+_originSets
+_pendingUrlTimers
+_lastPulseReportTime
+_adsFetchCount
+_adRequestsCount
+_adsReturnedCount
+_adsReadyCount
+_adsImpressionFiredCount
+pulseMethodsArrayInstance
+decodeInt32ForKey:
+longValue
+encodeInteger:forKey:
+pulseMethodEnumToString:
+initWithDictionary:
+dataDictionary
+partner
+method
+uriTemplate
+bodyTemplate
+maxRedirects
+connectTimeout
+requestTimeout
+_method
+_maxRedirects
+_connectTimeout
+_requestTimeout
+_partner
+_uriTemplate
+_bodyTemplate
+_callbackId
+initWithEventName:params:timed:
+setParams:
+setTimed:
+_timed
+_eventName
+_params
+setInvokeId:
+setSubstitutedUrl:
+setAttempts:
+beingFired
+appendStringUnlimited:toData:
+allocWithZone:
+substitutedUrl
+finalAttempt
+logSendState
+setLogSendState:
+finalAttemptMade
+setAttemptsSent
+removeSentAttempts
+_invokeId
+_substitutedUrl
+_attempts
+defaultTracker
+setupInstanceWithQueue:backgroundTracker:
+isMultitaskingSupported
+setIsBackgroundSupported:
+isBackgroundSupported
+registerBackgoundTask
+unregisterBackgoundTask:
+instanceMethodSignatureForSelector:
+realObject
+setRealObject:
+sdkDelegate
+initWithObject:
+forwardInvocation:
+setSdkDelegate:
+_realObject
+_sdkDelegate
+setWcsession:
+wcsession
+setConnectivityProxy:
+setDisabled:
+setKvoSetup:
+disabled
+cacheAndReplaceSessionDelegate
+setupKVO
+removeKVO
+restoreCachedSessionDelegate
+isPaired
+isWatchAppInstalled
+disableTransferInfo
+connectivityProxy
+setDisableTransferInfo:
+checkNewDelegate:
+setSessionDelegate:
+kvoSetup
+addObserver:forKeyPath:options:context:
+removeObserver:forKeyPath:
+teardown
+observeValueForKeyPath:ofObject:change:context:
+_disabled
+_disableTransferInfo
+_kvoSetup
+_wcsession
+_connectivityProxy
+logWatchEvent:withParameters:
+setServerURL:
+logWatchEvent:
+logWatchError:message:exception:
+logWatchError:message:error:
+initWithIdentifier:
+setIdentifier:
+setupSearchForKey:
+dataForKey:
+setData:forKey:
+setThisDeviceData:forKey:
+updateValueData:forKey:
+setString:forKey:
+lastResponseTime
+nextRefreshTTL
+expirationTTL
+maxCallbackRetries
+globalSettings
+_maxCallbackRetries
+_maxCallbackAttemptsPerReport
+_lastResponseTime
+_nextRefreshTTL
+_expirationTTL
+_callbacks
+_callbackEventsMap
+_maxReportDelaySecs
+_agentReportUrl
+_globalSettings
+_analytics
+setBackgroundTask:
+backgroundTask
+startBackgroundTaskTrackingIfNeeded
+stopBackgroundTasksTracking
+_isBackgroundSupported
+_backgroundTask
+nextCountFor:
+setErrorID:
+setDate:
+setErrorString:
+setErrorMessage:
+setExceptionString:
+setErrorType:
+setReportData:
+errorString
+exceptionString
+errorType
+reportData
+setEvents:
+events
+_events
+initWithTarget:
+valueForKeyPath:
+tabBarController:shouldSelectViewController:
+tabBarController:didSelectViewController:
+tabBarController:willBeginCustomizingViewControllers:
+tabBarController:willEndCustomizingViewControllers:changed:
+tabBarController:didEndCustomizingViewControllers:changed:
+createInvocationOnSelector:target:
+createDelegateOnTarget:
+destroyDelegateOnTarget:
+tabBarControllerSupportedInterfaceOrientations:
+tabBarControllerPreferredInterfaceOrientationForPresentation:
+tabBarController:interactionControllerForAnimationController:
+tabBarController:animationControllerForTransitionFromViewController:toViewController:
+initWithDelegate:
+limitStringLength:
+uint32FromNSUInteger:
+exceptionWithName:reason:userInfo:
+appendTinyData:toData:
+getInt16FromData:atIndex:
+getInt32FromData:atIndex:
+unarchiveObjectWithFile:
+screenBounds
+path
+fileSystemRepresentation
+generateChecksumTable
+rangeOfString:options:range:
+getModule
+getId
+getMgr
+getUser
+getLimit
+preferredLanguages
+preferredLocalizationsFromArray:
+incrementCounter:
+allCounters
+decrementCounter:
+attributesOfFileSystemForPath:error:
+executablePath
+isEqualToData:
+processWriteOperationForPersistentCookiesMapSyncWithBlock:
+regularExpressionWithPattern:options:error:
+firstMatchInString:options:range:
+range
+isInBackground
+canvasInLandscape:
+canvasInLandscapeRight:
+canvasInLandscapeLeft:
+canvasInLandscapeRight
+canvasInLandscapeLeft
+canvasInPortraitUpsideDown
+deviceInLandscape
+getCanvasOrientation
+isRetina
+assertRunningOnQueue:
+setShowErrorInLogEnabled:
+firstElementFromArray:
+decodeFromPercentEscapeString:
+encodeToPercentEscapeString:
+encodeIllegalCharsToPercentEscapeString:
+createParamKeysDictFromUrlParams:paramsHeader:paramsKVString:
+flurryRangeOfData:inData:
+hashData:
+hashDataToHexString:length:
+cleanupStoredIdentifierForVendor
+generateCFUUIDBasedUID
+preferredLanguage
+incrementCounter:locationName:
+decrementCounter:locationName:
+printCounters
+setFlurryOptOut:
+updateIfChangedCookieValue:forCookieKey:
+substituteParamsInString:withValuesDictionary:forPattern:
+initWithDomain:code:userInfo:
+isNetworkReachable
+lastNetworkOperationError
+isMainThread
+performSelectorOnMainThread:withObject:waitUntilDone:
+updateNetworkStatus:
+object
+setAdServerUrl:
+setAdLogServerUrl:
+setPulseServerUrl:
+setPulseCBServerUrl:
+setNetworkLikelyNotReachable
+isNetworkLikelyNotReachable
+adServerUrl
+adLogServerUrl
+pulseServerUrl
+pulseCBServerUrl
+setSecureTransportEnabledDeprecated:
+serverURL
+setAppCloudServerToStaging:
+appCloudServerUrl
+hashAndUpdateValueForKey:
+sendUsageInfo
+descriptionInStringsFileFormat
+parsePropertyList:
+parseDictionary:
+setMaxSessions:
+flurrySessionDidCreateWithInfo:
+getSessionID
+makePulseRequest
+updatePulseForAdTracking
+setLaunchOptions:
+getFlurryAgentVersion
+initWithSignalHandlerType:symbolicationStrategy:
+initWithConfiguration:
+enableCrashReporterAndReturnError:
+applicationWillResignActive
+applicationWillEnterForeground
+applicationDidBecomeActive
+didFinishLaunchingWithOptionsInBackground:
+startupNetworkAndSendSession
+createAndStartInstance:
+createAndSendSession
+initWithCoordinate:altitude:horizontalAccuracy:verticalAccuracy:timestamp:
+logEvent:withParameters:timed:
+areParametersValidForSyndicationEvent:syndicationID:parameters:
+updateSyndicationParameters:syndicationID:
+sessionContinueSeconds
+setSessionContinueSeconds:
+setMaxSessionsSaved:
+startSession:withOptions:
+activeSessionExists
+pauseBackgroundSession
+addSessionOrigin:
+addSessionOrigin:withDeepLink:
+sessionProperties:
+addOrigin:withVersion:
+addOrigin:withVersion:withParameters:
+logError:message:exception:
+logError:message:error:
+logAllPageViews:
+logAllPageViewsForTarget:
+stopLogPageViewsForTarget:
+logPageView
+logEvent:syndicationID:parameters:
+logEvent:timed:
+setPulseEnabled:
+setPulseServerURL:
+setPulseCBServerURL:
+shutdown
+setAttemptNumber:
+setCbSessionId:
+setCbSessionOffset:
+setFinalAttempt:
+setHttpStatus:
+setRequestState:
+setResponseBody:
+setEventOccuranceId:
+setBody:
+setCreationTime:
+setBeingFired:
+setRepeatDuration:
+setExpiration:
+httpStatus
+cbSessionId
+cbSessionOffset
+requestState
+responseBody
+duration
+eventOccuranceId
+creationTime
+repeatDuration
+expiration
+_finalAttempt
+_beingFired
+_logSendState
+_httpStatus
+_requestState
+_repeatDuration
+_eventOccuranceId
+_attemptNumber
+_cbSessionId
+_cbSessionOffset
+_responseBody
+_duration
+_creationTime
+_expiration
+setDataSize:
+setCreationDate:
+decodeIntegerForKey:
+dataSize
+dataWithContentsOfFile:
+_groupIdentifier
+_identifier
+_dataSize
+_creationDate
+accessQueue
+cleanUp
+coordinate
+horizontalAccuracy
+setRunningTasks:
+indexOfObjectIdenticalTo:
+unregisterTask:
+synchronizedPulseAccessWithCallback_async:
+synchronizedPulseAccessWithCallback_sync:
+buildObjectWithParams:
+sendPulseRequestWithParams:
+_pulseRequestSchema
+_deviceTagsSchema
+_iosTagsSchema
+_geoTypeSchema
+_geoLocationSchema
+_deviceIdTypeSchema
+_pulseRequest
+orientation
+statusBarOrientation
+displayLinkWithTarget:selector:
+objectEnumerator
+nextObject
+identifierForVendor
+UUIDString
+screenSize
+deviceBuild
+deviceManufacturer
+deviceModel
+partnerCode
+screenBounds:
+theAppIsActive
+initWithQueue:backgroundTracker:
+dataKey
+dataIndex
+storeData:
+parseResponse:
+processWriteOperationForPersistentCookiesMapWithBlock:
+parseCookies:
+setDataIndex:
+_dataIndex
+_dataSenderDelegate
+_httpAsyncTaskClass
+setName:
+setStarted:
+setParameters:
+setEventLogId:
+initWithInt:
+initWithDictionary:copyItems:
+setValuesForKeysWithDictionary:
+unsignedShortValue
+startOffsetFromSessionStart:
+initWithName:
+initWithName:timed:
+ended
+_name
+_started
+_ended
+_automaticallyEnded
+_parameters
+_eventLogId
+start:
+heartBeat
+scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:
+_timer
+eventParamName
+eventParamValues
+_eventParamName
+_eventParamValues
+persistentGlobalsMapQueue
+persistentGlobalsMap
+persistentCookiesMapQueue
+persistentCookiesMap
+persistentUrlsMapQueue
+persistentUrlsMap
+persistentPulseUrlsMapQueue
+persistentPulseUrlsMap
+persistentPulsePrepUrlsMapQueue
+persistentPulsePrepUrlsMap
+processWriteOperationForPersistentUrlMapWithBlock:
+processWriteOperationForPersistentPulseUrlMapWithBlock:
+processWriteOperationForPersistentPulseUrlMapSyncWithBlock:
+processWriteOperationForPersistentPulsePrepUrlMapWithBlock:
+setPersistentGlobalsMapQueue:
+setPersistentCookiesMapQueue:
+setPersistentUrlsMapQueue:
+setPersistentPulseUrlsMapQueue:
+setPersistentPulsePrepUrlsMapQueue:
+setPersistentGlobalsMap:
+setPersistentCookiesMap:
+setPersistentUrlsMap:
+setPersistentPulseUrlsMap:
+setPersistentPulsePrepUrlsMap:
+_persistentGlobalsMapQueue
+_persistentCookiesMapQueue
+_persistentUrlsMapQueue
+_persistentPulseUrlsMapQueue
+_persistentPulsePrepUrlsMapQueue
+_persistentGlobalsMap
+_persistentCookiesMap
+_persistentUrlsMap
+_persistentPulseUrlsMap
+_persistentPulsePrepUrlsMap
+setCounters:
+counters
+setSessionId:
+setSessionOffset:
+setTriggerType:
+setIncludesEventTrigger:
+triggerType
+sessionOffset
+includesEventTrigger
+removeCompletedCallbacks
+_includesEventTrigger
+_triggerType
+_sessionId
+_sessionOffset
+setURL:
+sender
+proposedCredential
+useCredential:forAuthenticationChallenge:
+connection:willSendRequest:redirectResponse:
+connection:didReceiveAuthenticationChallenge:
+connection:didCancelAuthenticationChallenge:
+connection:didReceiveResponse:
+connection:didReceiveData:
+connectionDidFinishLoading:
+connection:didFailWithError:
+connection:willCacheResponse:
+connectionCanceled
+registerForNotifications:
+pulseEventArrayInstance
+appWillBackground:
+appWillResume:
+networkStatusChanged:
+fireAllConfigUrls
+asyncInvokeURLWithParams:
+enumerateObjectsUsingBlock:
+manageUrlStorage:
+firePendingUrlsOnNetworkAvailability
+firePendingUrls
+setTimerToFireUrlWithInvokeInfo:
+fireUrlOnTimer:
+substituteParamsInDictionary:withValuesDictionary:forPattern:
+pulseEventStringToEnum:
+initialize
+setBackgroundTaskTracker:
+cancelTasks
+backgroundTaskTracker
+performRetransmitNotSentBlocks
+doesNotRecognizeSelector:
+_runningTasks
+_backgroundTaskTracker
+AVRORepresentationWithJSONSchemaData:
+registerHandlerWithSignal:error:
+sharedHandler
+resetHandlers
+registerHandlerForSignal:callback:context:error:
+_sigstk
+currentProcessInfo
+processID
+processName
+parentProcessID
+initWithProcessID:
+callStackReturnAddresses
+defaultConfiguration
+initWithBundle:configuration:
+crashReportPath
+dataWithContentsOfFile:options:error:
+purgePendingCrashReportAndReturnError:
+populateCrashReportDirectoryAndReturnError:
+symbolicationStrategy
+mapToAsyncSymbolicationStrategy:
+signalHandlerType
+enableMachExceptionServerWithPreviousPortSet:callback:context:error:
+asyncSafeRepresentation
+generateLiveReportWithThread:error:
+generateLiveReportAndReturnError:
+sharedReporter
+loadPendingCrashReportData
+enableCrashReporter
+generateLiveReportWithThread:
+generateLiveReport
+setCrashCallbacks:
+_config
+_enabled
+_machServer
+_previousMachPorts
+_applicationIdentifier
+_applicationVersion
+_applicationMarketingVersion
+_crashReportDirectory
+initWithApplicationIdentifier:appVersion:appMarketingVersion:configuration:
+currentHostInfo
+darwinVersion
+initWithCallBack:context:error:
+exceptionPortWithMask:error:
+registerForTask:previousPortSet:error:
+numberWithUnsignedLong:
+dictionaryWithObject:forKey:
+crashReportDirectory
+queuedCrashReportDirectory
+initWithOperatingSystem:operatingSystemVersion:operatingSystemBuild:architecture:timestamp:
+initWithOperatingSystem:operatingSystemVersion:architecture:timestamp:
+operatingSystem
+operatingSystemVersion
+operatingSystemBuild
+architecture
+_operatingSystem
+_osVersion
+_osBuild
+_architecture
+processInfo
+currentHandler
+handleFailureInMethod:object:file:lineNumber:description:
+copySendRightForServerAndReturningError:
+initWithServerPort:mask:behavior:flavor:
+serverThread
+_serverContext
+isTraced
+_processID
+_processName
+_parentProcessID
+_traced
+initWithBytesNoCopy:length:encoding:freeWhenDone:
+_darwinVersion
+scanInteger:
+scanString:intoString:
+initWithAsyncSafeRepresentation:
+exceptionPortsForTask:mask:error:
+exceptionPortsForThread:mask:error:
+registerForThread:previousPortSet:error:
+server_port
+mask
+behavior
+flavor
+_mask
+_behavior
+_flavor
+setWithCapacity:
+initWithSet:
+_state_set
+_asyncSafeRepresentation
+_signalHandlerType
+_symbolicationStrategy
+load
+allocWithEntity:
+allocBatch:withEntity:count:
+fastIndexForKnownKey:
+indexForKey:
+getCString:maxLength:encoding:
+keyEnumerator
+BTCPasswordButton
+BTCUserDefaultsSwitchCell
+BTCTextViewLocalizable
+BTCAddressEntity
+BTCBouncyBurgerButton
+BTCSideMenuViewController
+UIGestureRecognizerDelegate
+NSObject
+BTCButton
+BTCLabelLocalizable
+BTCMerkleBlockEntity
+BTCAppleWatchData
+NSCoding
+BTCPeerEntity
+BTCTransactionEntity
+BTCTxInputEntity
+BTCTxOutputEntity
+BTCAnimation
+Utils
+BTCNumberViewController
+UITextFieldDelegate
+BTCStartViewController
+BTCCameraViewController
+AVCaptureMetadataOutputObjectsDelegate
+BTCCopyLabel
+BTCKeyViewController
+BTCKey
+BIP38
+BTCReceiveViewController
+MFMessageComposeViewControllerDelegate
+MFMailComposeViewControllerDelegate
+UINavigationControllerDelegate
+BTCNumberViewControllerDelegate
+BTCTransaction
+BTCBIP32Sequence
+BTCKeySequence
+BTCPhoneWCSessionManager
+WCSessionDelegate
+BTCBIP39Mnemonic
+BTCMnemonic
+BTCWallet
+BTCTrzDetailViewController
+BTCWalletManager
+UIAlertViewDelegate
+UITextViewDelegate
+UIScrollViewDelegate
+BTCMerkleBlock
+BTCBloomFilter
+BTCPeer
+NSStreamDelegate
+QAG7
+BTCPasswordViewController
+BTCMenuViewController
+UITableViewDelegate
+UITableViewDataSource
+BTCPeerManager
+BTCPeerDelegate
+ProtoBuf
+BTCPaymentProtocolDetails
+BTCPaymentProtocolRequest
+BTCPaymentProtocolPayment
+BTCPaymentProtocolACK
+BTCSettingsViewController
+BTCPaymentRequest
+BTCTxMetadataEntity
+BTCBubbleView
+BTCCurrencyViewController
+Bitcoin
+BTCProgressView
+BTCSendViewController
+BTCCameraViewControllerDelegate
+Sugar
+BTCAppleWatchTransactionData
+BTCMainViewController
+BTCSideMenuOptions
+NSCopying
+BTCRestoreViewController
+BTCAnalitycs
+Tracking
+BTCAppDelegate
+UIApplicationDelegate
+Reachability
+BTCAboutViewController
+FlurryPulseResponse
+FlurryPulseCallbackReportManager
+FlurryPulseCBDataSenderDelegate
+FlurryHttpAsyncTask
+IFlurryHttpAsyncTask
+FlurryDataSenderIndex
+FlurryURLSessionDelegate
+FlurryReachability
+FlurryHTTPResponse
+FlurryHttpAsyncURLSessionTask
+FlurryPulseCBReportSender
+FlurryHttpAsyncTaskDelegate
+FlurrySession
+FlurryDataSenderDelegate
+FlurryWatchConnectivityDelegate
+IFlurrySession
+FlurryPreCacheEventManager
+FlurryFileCache
+FlurryWatchSession
+FlurryGlobalVariableStorage
+FlurryPulseCallback
+FlurryPreCacheEvent
+FlurryPulseCallbackReportInfo
+FlurryImpl
+FlurryWatchConnectivityProxy
+FlurryWatchConnectivity
+FlurryWatch
+FlurryKeychainWrapper
+FlurryPulseSettings
+FlurryBackgroundTaskTracker
+FlurryError
+FlurryPulseAppTemplate
+FlurryPageViewDelegate
+UITabBarControllerDelegate
+FlurryPageViewDelegateOld
+FlurryProtocolData
+FlurryUtil
+FlurryNetworkUtil
+Flurry
+FlurryPulseCallbackAttemptInfo
+FlurryDataSenderBlockInfo
+FlurryPulseRequest
+FlurrySessionInfo
+FlurryiOSUtil
+FlurryDataSender
+FlurryEvent
+FlurryHeartBeater
+FlurryPulseEventTrigger
+FlurryGlobalPersistentManager
+FlurryAutoIncrement
+FlurryPulseTriggerInvokeInfo
+FlurryConnectionDelegate
+FlurryPulseEventController
+FlurryDataSenderBase
+json2avro
+FlurryPLCrashSignalHandler
+FlurryPLCrashReporter
+PrivateMethods
+FlurryPLCrashReportSystemInfo
+FlurryPLCrashMachExceptionServer
+FlurryPLCrashProcessInfo
+FlurryPLCrashHostInfo
+FlurryPLCrashMachExceptionPort
+FlurryPLCrashMachExceptionPortSet
+NSFastEnumeration
+FlurryPLCrashReporterConfig
+__ARCLite__
+__ARCLiteKeyedSubscripting__
+v16@0:8
+v48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16
+v24@0:8@16
+v24@0:8B16B20
+@16@0:8
+@"UISwitch"
+@"UILabel"
+@"NSString"
+@24@0:8@16
+@48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16
+v20@0:8B16
+v28@0:8B16@?20
+v32@0:8@16Q24
+{CGSize=dd}16@0:8
+B16@0:8
+@"UIView"
+B24@0:8@16
+B24@0:8@"UIGestureRecognizer"16
+B32@0:8@16@24
+B32@0:8@"UIGestureRecognizer"16@"UIGestureRecognizer"24
+B32@0:8@"UIGestureRecognizer"16@"UITouch"24
+B32@0:8@"UIGestureRecognizer"16@"UIPress"24
+#16@0:8
+@24@0:8:16
+@32@0:8:16@24
+@40@0:8:16@24@32
+B24@0:8#16
+B24@0:8@"Protocol"16
+B24@0:8:16
+Vv16@0:8
+Q16@0:8
+^{_NSZone=}16@0:8
+@"NSString"16@0:8
+@32@0:8@16@24
+@40@0:8@16@24@32
+v28@0:8@16B24
+{?=qBd}32@0:8{CGPoint=dd}16
+d16@0:8
+{CGRect={CGPoint=dd}{CGSize=dd}}64@0:8{CGPoint=dd}16{CGRect={CGPoint=dd}{CGSize=dd}}32
+v24@0:8d16
+B40@0:8@16{CGPoint=dd}24
+B32@0:8{CGPoint=dd}16
+{CGRect={CGPoint=dd}{CGSize=dd}}16@0:8
+@"UIViewController"
+@"BTCSideMenuOptions"
+@"UIPanGestureRecognizer"
+@"UITapGestureRecognizer"
+{CGRect="origin"{CGPoint="x"d"y"d}"size"{CGSize="width"d"height"d}}
+v24@0:8@"NSCoder"16
+@24@0:8@"NSCoder"16
+@"UIImage"
+@"NSArray"
+@32@0:8@16Q24
+v36@0:8@16@24i32
+v28@0:8@16i24
+@36@0:8{CGSize=dd}16i32
+@24@0:8d16
+B24@0:8@"UITextField"16
+v24@0:8@"UITextField"16
+v32@0:8@16q24
+v32@0:8@"UITextField"16q24
+B48@0:8@16{_NSRange=QQ}24@40
+B48@0:8@"UITextField"16{_NSRange=QQ}24@"NSString"40
+v24@0:8Q16
+@"<BTCNumberViewControllerDelegate>"
+@"UITextField"
+@"UIButton"
+@"BTCKeyViewController"
+q16@0:8
+I16@0:8
+v40@0:8@16@24@32
+v40@0:8@"AVCaptureOutput"16@"NSArray"24@"AVCaptureConnection"32
+@"<BTCCameraViewControllerDelegate>"
+@"AVCaptureSession"
+@"AVCaptureVideoPreviewLayer"
+@"UIImageView"
+B32@0:8:16@24
+v32@0:8@16@24
+@"UIColor"
+@"UITextView"
+@52@0:8(_UInt256=[32C][16S][8I][4Q])16B48
+@56@0:8@16(_UInt256=[32C][16S][8I][4Q])24
+(_UInt160=[20C][10S][5I])16@0:8
+@48@0:8(_UInt256=[32C][16S][8I][4Q])16
+B56@0:8(_UInt256=[32C][16S][8I][4Q])16@48
+(_UInt256=[32C][16S][8I][4Q])16@0:8
+v48@0:8(_UInt256=[32C][16S][8I][4Q])16
+@"NSData"
+(_UInt256="u8"[32C]"u16"[16S]"u32"[8I]"u64"[4Q])
+@32@0:8Q16@24
+@36@0:8I16S20I24@28
+v32@0:8@"MFMessageComposeViewController"16q24
+v40@0:8@16q24@32
+v40@0:8@"MFMailComposeViewController"16q24@"NSError"32
+v36@0:8@16@24B32
+v36@0:8@"UINavigationController"16@"UIViewController"24B32
+Q24@0:8@16
+Q24@0:8@"UINavigationController"16
+q24@0:8@16
+q24@0:8@"UINavigationController"16
+@"<UIViewControllerInteractiveTransitioning>"32@0:8@"UINavigationController"16@"<UIViewControllerAnimatedTransitioning>"24
+@48@0:8@16q24@32@40
+@"<UIViewControllerAnimatedTransitioning>"48@0:8@"UINavigationController"16q24@"UIViewController"32@"UIViewController"40
+v32@0:8@"BTCNumberViewController"16Q24
+@"BTCPaymentRequest"
+@"NSUserDefaults"
+@56@0:8@16@24@32@40@48
+v64@0:8(_UInt256=[32C][16S][8I][4Q])16Q48@56
+v76@0:8(_UInt256=[32C][16S][8I][4Q])16Q48@56@64I72
+@24@0:8Q16
+Q32@0:8@16@24
+I32@0:8@16@24
+v20@0:8I16
+@"NSMutableArray"
+@"NSData"24@0:8@"NSData"16
+@32@0:8I16B20@24
+@"NSData"32@0:8I16B20@"NSData"24
+@"NSString"32@0:8I16B20@"NSData"24
+@36@0:8@16B24@28
+@"NSArray"36@0:8@"NSArray"16B24@"NSData"28
+@36@0:8I16@20@28
+v40@0:8@"WCSession"16q24@"NSError"32
+v24@0:8@"WCSession"16
+v32@0:8@"WCSession"16@"NSDictionary"24
+v40@0:8@16@24@?32
+v40@0:8@"WCSession"16@"NSDictionary"24@?<v@?@"NSDictionary">32
+v32@0:8@"WCSession"16@"NSData"24
+v40@0:8@"WCSession"16@"NSData"24@?<v@?@"NSData">32
+v40@0:8@"WCSession"16@"WCSessionUserInfoTransfer"24@"NSError"32
+v40@0:8@"WCSession"16@"WCSessionFileTransfer"24@"NSError"32
+v32@0:8@"WCSession"16@"WCSessionFile"24
+v32@0:8@16@?24
+@"WCSession"
+@"NSString"24@0:8@"NSData"16
+@"NSData"24@0:8@"NSString"16
+B24@0:8@"NSString"16
+@"NSString"24@0:8@"NSString"16
+@"NSData"32@0:8@"NSString"16@"NSString"24
+@"NSSet"
+@48@0:8@16@24@32@?40
+@28@0:8Q16B24
+@36@0:8Q16@24B32
+@36@0:8@16@24B32
+v36@0:8i16d20@28
+I24@0:8@16
+Q24@0:8Q16
+@?16@0:8
+v24@0:8@?16
+@"<BTCKeySequence>"
+@"NSMutableSet"
+@"NSMutableOrderedSet"
+@"NSOrderedSet"
+@"NSMutableDictionary"
+@"NSManagedObjectContext"
+q32@0:8@16q24
+@32@0:8@16q24
+d32@0:8@16@24
+d32@0:8@16q24
+v24@0:8q16
+@"BTCTransaction"
+@"UITableView"
+v32@0:8@"UIAlertView"16q24
+v24@0:8@"UIAlertView"16
+B24@0:8@"UIAlertView"16
+B24@0:8@"UITextView"16
+v24@0:8@"UITextView"16
+B48@0:8@"UITextView"16{_NSRange=QQ}24@"NSString"40
+B56@0:8@16@24{_NSRange=QQ}32q48
+B56@0:8@"UITextView"16@"NSURL"24{_NSRange=QQ}32q48
+B56@0:8@"UITextView"16@"NSTextAttachment"24{_NSRange=QQ}32q48
+B48@0:8@16@24{_NSRange=QQ}32
+B48@0:8@"UITextView"16@"NSURL"24{_NSRange=QQ}32
+B48@0:8@"UITextView"16@"NSTextAttachment"24{_NSRange=QQ}32
+v24@0:8@"UIScrollView"16
+v48@0:8@16{CGPoint=dd}24N^{CGPoint=dd}40
+v48@0:8@"UIScrollView"16{CGPoint=dd}24N^{CGPoint=dd}40
+v28@0:8@"UIScrollView"16B24
+@"UIView"24@0:8@"UIScrollView"16
+v32@0:8@"UIScrollView"16@"UIView"24
+v40@0:8@16@24d32
+v40@0:8@"UIScrollView"16@"UIView"24d32
+B24@0:8@"UIScrollView"16
+B28@0:8@16B24
+v36@0:8@16B24@?28
+@24@0:8q16
+@"<BTCMnemonic>"
+@"NSNumberFormatter"
+@"BTCWallet"
+@"Reachability"
+@"NSNumber"
+@"UIAlertView"
+@152@0:8(_UInt256=[32C][16S][8I][4Q])16I48(_UInt256=[32C][16S][8I][4Q])52(_UInt256=[32C][16S][8I][4Q])84I116I120I124I128@132@140I148
+B48@0:8(_UInt256=[32C][16S][8I][4Q])16
+B28@0:8@16I24
+@52@0:8^i16^i24i32@?36@?44
+@40@0:8d16Q24I32C36
+I28@0:8@16I24
+C16@0:8
+@"NSMutableData"
+@36@0:8(_UInt128=[16C][8S][4I][2Q])16S32
+v32@0:8@"NSStream"16Q24
+@52@0:8(_UInt128=[16C][8S][4I][2Q])16S32d36Q44
+v56@0:8@16(_UInt256=[32C][16S][8I][4Q])24
+(_UInt128=[16C][8S][4I][2Q])16@0:8
+S16@0:8
+s16@0:8
+v20@0:8s16
+@"<BTCPeerDelegate>"
+@"NSObject<OS_dispatch_queue>"
+@"NSInputStream"
+@"NSOutputStream"
+@"BTCMerkleBlock"
+@"NSRunLoop"
+(_UInt128="u8"[16C]"u16"[8S]"u32"[4I]"u64"[2Q])
+i16@0:8
+v20@0:8i16
+@"NSDate"
+v40@0:8@"UITableView"16@"UITableViewCell"24@"NSIndexPath"32
+v40@0:8@16@24q32
+v40@0:8@"UITableView"16@"UIView"24q32
+d32@0:8@"UITableView"16@"NSIndexPath"24
+d32@0:8@"UITableView"16q24
+@"UIView"32@0:8@"UITableView"16q24
+q32@0:8@16@24
+q32@0:8@"UITableView"16@"NSIndexPath"24
+v32@0:8@"UITableView"16@"NSIndexPath"24
+B32@0:8@"UITableView"16@"NSIndexPath"24
+@"NSIndexPath"32@0:8@"UITableView"16@"NSIndexPath"24
+@"NSString"32@0:8@"UITableView"16@"NSIndexPath"24
+@"NSArray"32@0:8@"UITableView"16@"NSIndexPath"24
+@"NSIndexPath"40@0:8@"UITableView"16@"NSIndexPath"24@"NSIndexPath"32
+B48@0:8@16:24@32@40
+B48@0:8@"UITableView"16:24@"NSIndexPath"32@40
+v48@0:8@16:24@32@40
+v48@0:8@"UITableView"16:24@"NSIndexPath"32@40
+B32@0:8@"UITableView"16@"UITableViewFocusUpdateContext"24
+v40@0:8@"UITableView"16@"UITableViewFocusUpdateContext"24@"UIFocusAnimationCoordinator"32
+@"NSIndexPath"24@0:8@"UITableView"16
+q32@0:8@"UITableView"16q24
+@"UITableViewCell"32@0:8@"UITableView"16@"NSIndexPath"24
+q24@0:8@"UITableView"16
+@"NSString"32@0:8@"UITableView"16q24
+@"NSArray"24@0:8@"UITableView"16
+q40@0:8@16@24q32
+q40@0:8@"UITableView"16@"NSString"24q32
+v40@0:8@"UITableView"16q24@"NSIndexPath"32
+v40@0:8@"UITableView"16@"NSIndexPath"24@"NSIndexPath"32
+v24@0:8@"BTCPeer"16
+v32@0:8@"BTCPeer"16@"NSError"24
+v32@0:8@"BTCPeer"16@"NSArray"24
+v32@0:8@"BTCPeer"16@"BTCTransaction"24
+v56@0:8@"BTCPeer"16(_UInt256=[32C][16S][8I][4Q])24
+v60@0:8@16(_UInt256=[32C][16S][8I][4Q])24C56
+v60@0:8@"BTCPeer"16(_UInt256=[32C][16S][8I][4Q])24C56
+v32@0:8@"BTCPeer"16@"BTCMerkleBlock"24
+v40@0:8@"BTCPeer"16@"NSArray"24@"NSArray"32
+v32@0:8@"BTCPeer"16Q24
+@"BTCTransaction"56@0:8@"BTCPeer"16(_UInt256=[32C][16S][8I][4Q])24
+Q48@0:8(_UInt256=[32C][16S][8I][4Q])16
+d20@0:8I16
+@"BTCPeer"
+@"BTCBloomFilter"
+Q24@0:8^Q16
+@24@0:8^Q16
+Q40@0:8^Q16^Q24^@32
+v32@0:8Q16Q24
+@80@0:8@16@24@32d40d48@56@64@72
+@52@0:8I16@20@28@36@44
+@"BTCPaymentProtocolDetails"
+@"BTCPaymentProtocolPayment"
+@"UITableViewController"
+@"UISwipeGestureRecognizer"
+v40@0:8@16d24@?32
+v48@0:8@16@24d32@?40
+@40@0:8@16{CGPoint=dd}24
+@48@0:8@16{CGPoint=dd}24q40
+v32@0:8{CGPoint=dd}16
+{CGPoint=dd}16@0:8
+@"CAShapeLayer"
+{CGPoint="x"d"y"d}
+(_UInt512=[64C][32S][16I][8Q])16@0:8
+C24@0:8Q16
+S24@0:8Q16
+I24@0:8Q16
+Q32@0:8Q16^Q24
+(_UInt256=[32C][16S][8I][4Q])24@0:8Q16
+@32@0:8Q16^Q24
+@36@0:8(_UInt160=[20C][10S][5I])16
+@32@0:8(_UInt128=[16C][8S][4I][2Q])16
+v32@0:8@"BTCCameraViewController"16@"NSString"24
+v40@0:8@16@24Q32
+@60@0:8Q16Q24@32@40@48B56
+@"BTCPaymentProtocolRequest"
+@"NSURL"
+@32@0:8@16*24
+@28@0:8@16B24
+@44@0:8@16B24Q28Q36
+Q32@0:8@16*24
+@"BTCProgressView"
+v20@0:8C16
+v20@0:8S16
+v32@0:8I16S20Q24
+@24@0:8^{_NSZone=}16
+v32@0:8{CGSize=dd}16
+{CGSize="width"d"height"d}
+@"NSLayoutConstraint"
+@28@0:8*16I24
+v24@0:8@"UIApplication"16
+B32@0:8@"UIApplication"16@"NSDictionary"24
+B32@0:8@"UIApplication"16@"NSURL"24
+B48@0:8@16@24@32@40
+B48@0:8@"UIApplication"16@"NSURL"24@"NSString"32@40
+B40@0:8@16@24@32
+B40@0:8@"UIApplication"16@"NSURL"24@"NSDictionary"32
+v40@0:8@16q24d32
+v40@0:8@"UIApplication"16q24d32
+v32@0:8@"UIApplication"16q24
+v56@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24
+v56@0:8@"UIApplication"16{CGRect={CGPoint=dd}{CGSize=dd}}24
+v32@0:8@"UIApplication"16@"UIUserNotificationSettings"24
+v32@0:8@"UIApplication"16@"NSData"24
+v32@0:8@"UIApplication"16@"NSError"24
+v32@0:8@"UIApplication"16@"NSDictionary"24
+v32@0:8@"UIApplication"16@"UILocalNotification"24
+v48@0:8@16@24@32@?40
+v48@0:8@"UIApplication"16@"NSString"24@"UILocalNotification"32@?<v@?>40
+v56@0:8@16@24@32@40@?48
+v56@0:8@"UIApplication"16@"NSString"24@"NSDictionary"32@"NSDictionary"40@?<v@?>48
+v48@0:8@"UIApplication"16@"NSString"24@"NSDictionary"32@?<v@?>40
+v56@0:8@"UIApplication"16@"NSString"24@"UILocalNotification"32@"NSDictionary"40@?<v@?>48
+v40@0:8@"UIApplication"16@"NSDictionary"24@?<v@?Q>32
+v32@0:8@"UIApplication"16@?<v@?Q>24
+v40@0:8@"UIApplication"16@"UIApplicationShortcutItem"24@?<v@?B>32
+v40@0:8@"UIApplication"16@"NSString"24@?<v@?>32
+v40@0:8@"UIApplication"16@"NSDictionary"24@?<v@?@"NSDictionary">32
+Q32@0:8@"UIApplication"16@"UIWindow"24
+B32@0:8@"UIApplication"16@"NSString"24
+@"UIViewController"40@0:8@"UIApplication"16@"NSArray"24@"NSCoder"32
+B32@0:8@"UIApplication"16@"NSCoder"24
+v32@0:8@"UIApplication"16@"NSCoder"24
+B40@0:8@16@24@?32
+B40@0:8@"UIApplication"16@"NSUserActivity"24@?<v@?@"NSArray">32
+v40@0:8@"UIApplication"16@"NSString"24@"NSError"32
+v32@0:8@"UIApplication"16@"NSUserActivity"24
+v32@0:8@"UIApplication"16@"CKShareMetadata"24
+@"UIWindow"16@0:8
+v24@0:8@"UIWindow"16
+@"UIWindow"
+@"BTCMainViewController"
+@"BTCPasswordViewController"
+@24@0:8r^{sockaddr_in=CCS{in_addr=I}[8c]}16
+q20@0:8I16
+^{__SCNetworkReachability=}
+^{avro_obj_t=iii}
+@"NSData"24@0:8@"NSArray"16
+@48@0:8@16@24@32@40
+@60@0:8@16@24@32@40@48B56
+@72@0:8@16@24@32@40i48Q52@60B68
+@52@0:8@16@24i32@36@44
+v24@0:8@"NSRunLoop"16
+v24@0:8@"NSString"16
+@"<IFlurryHttpAsyncTask>"32@0:8@16@"<FlurryHttpAsyncTaskDelegate>"24
+@"<IFlurryHttpAsyncTask>"40@0:8@16@"NSDictionary"24@"<FlurryHttpAsyncTaskDelegate>"32
+@"<IFlurryHttpAsyncTask>"40@0:8@16@"NSData"24@"<FlurryHttpAsyncTaskDelegate>"32
+@"<IFlurryHttpAsyncTask>"48@0:8@16@"NSData"24@"NSDictionary"32@"<FlurryHttpAsyncTaskDelegate>"40
+@"<IFlurryHttpAsyncTask>"56@0:8@"NSString"16@"NSURL"24@"NSData"32@"NSDictionary"40@"<FlurryHttpAsyncTaskDelegate>"48
+@"<IFlurryHttpAsyncTask>"60@0:8@"NSString"16@"NSURL"24@"NSData"32@"NSDictionary"40@"<FlurryHttpAsyncTaskDelegate>"48B56
+@"<IFlurryHttpAsyncTask>"72@0:8@"NSString"16@"NSURL"24@"NSData"32@"NSDictionary"40i48Q52@"<FlurryHttpAsyncTaskDelegate>"60B68
+@"NSString"24@0:8@"NSDictionary"16
+@"NSDictionary"24@0:8@"NSString"16
+@"NSURL"52@0:8@"NSString"16@"NSString"24i32@"NSString"36@44
+@"NSURLConnection"
+@"NSMutableURLRequest"
+@"NSHTTPURLResponse"
+@"NSError"
+@"<FlurryHttpAsyncTaskDelegate>"
+@"FlurryHttpAsyncURLSessionTask"
+@20@0:8I16
+@24@0:8^{__SCNetworkReachability=}16
+i20@0:8I16
+^{__SCNetworkReachability=}16@0:8
+v24@0:8^{__SCNetworkReachability=}16
+@20@0:8i16
+@"NSURLSessionTask"
+v32@0:8@"<IFlurryHttpAsyncTask>"16@"FlurryHTTPResponse"24
+@"FlurryDataSenderIndex"
+B24@0:8@"NSDictionary"16
+v40@0:8d16d24f32f36
+@"NSDate"16@0:8
+i32@0:8@16@24
+i32@0:8@"NSString"16@"NSDictionary"24
+i36@0:8@16@24B32
+i36@0:8@"NSString"16@"NSDictionary"24B32
+v32@0:8@"NSString"16@"NSDictionary"24
+v48@0:8@16@24@32@40
+v48@0:8@"NSString"16@"NSString"24@"NSException"32@"NSData"40
+v48@0:8@"NSString"16@"NSString"24@"NSError"32@"NSData"40
+v52@0:8@16@24@32i40@44
+v52@0:8@"NSString"16@"NSString"24@"NSString"32i40@"NSData"44
+@"NSData"16@0:8
+v24@0:8@"NSData"16
+f16@0:8
+v24@0:8@"NSDate"16
+@"NSMutableDictionary"16@0:8
+v24@0:8@"NSMutableDictionary"16
+@"NSMutableArray"16@0:8
+v24@0:8@"NSMutableArray"16
+i24@0:8@16
+v24@0:8i16i20
+v20@0:8f16
+i48@0:8@16@24@32@40
+i52@0:8@16@24@32i40@44
+@"NSDictionary"
+@"FlurryPLCrashReporter"
+@"FlurrySession"
+@"NSObject"
+@"<FlurryWatchConnectivityDelegate>"
+v48@0:8@16@24@32^v40
+v24@0:8#16
+@"FlurryWatchConnectivityProxy"
+@52@0:8@16@24@32i40@44
+B32@0:8@"UITabBarController"16@"UIViewController"24
+v32@0:8@"UITabBarController"16@"UIViewController"24
+v32@0:8@"UITabBarController"16@"NSArray"24
+v36@0:8@"UITabBarController"16@"NSArray"24B32
+Q24@0:8@"UITabBarController"16
+q24@0:8@"UITabBarController"16
+@"<UIViewControllerInteractiveTransitioning>"32@0:8@"UITabBarController"16@"<UIViewControllerAnimatedTransitioning>"24
+@"<UIViewControllerAnimatedTransitioning>"40@0:8@"UITabBarController"16@"UIViewController"24@"UIViewController"32
+@"<NSObject>"
+v28@0:8c16@20
+v28@0:8S16@20
+v28@0:8i16@20
+v32@0:8q16@24
+v28@0:8f16@20
+v32@0:8d16@24
+s28@0:8@16i24
+i28@0:8@16i24
+@40@0:8@16^@24^@32
+{_NSRange=QQ}32@0:8@16@24
+c16@0:8
+@32@0:8*16Q24
+*16@0:8
+v32@0:8@16*24
+i24@0:8q16
+d28@0:8d16i24
+B36@0:8i16@20@28
+i36@0:8i16@20@28
+i28@0:8@16B24
+{CGRect={CGPoint=dd}{CGSize=dd}}24@0:8@16
+@"<FlurryDataSenderDelegate>"
+@"NSTimer"
+i20@0:8i16
+@"FlurryHttpAsyncTask"
+@"FlurryBackgroundTaskTracker"
+B28@0:8i16^@20
+B44@0:8i16^?20^v28^@36
+{__darwin_sigaltstack="ss_sp"^v"ss_size"Q"ss_flags"i}
+@24@0:8^@16
+B24@0:8^@16
+@28@0:8I16^@20
+v24@0:8^{PLCrashReporterCallbacks=S^v^?}16
+@"FlurryPLCrashReporterConfig"
+@"FlurryPLCrashMachExceptionServer"
+@"FlurryPLCrashMachExceptionPortSet"
+@48@0:8^@16^?24^v32^@40
+i24@0:8Q16
+@40@0:8i16@20i28@32
+@48@0:8i16@20@28i36@40
+@40@0:8^?16^v24^@32
+I24@0:8^@16
+^{plcrash_exception_server_context=IIII^?^v{_opaque_pthread_mutex_t=q[56c]}{_opaque_pthread_cond_t=q[40c]}IB}
+{timeval=qi}16@0:8
+{timeval="tv_sec"q"tv_usec"i}
+{PLCrashHostInfoVersion=QQQ}16@0:8
+{PLCrashHostInfoVersion="major"Q"minor"Q"revision"Q}
+@32@0:8I16I20^@24
+@32@0:8I16I20i24i28
+B36@0:8I16^@20^@28
+Q40@0:8^{?=Q^@^Q[5Q]}16^@24Q32
+@244@0:8{plcrash_mach_exception_port_set=I[14I][14I][14i][14i]}16
+{plcrash_mach_exception_port_set=I[14I][14I][14i][14i]}16@0:8
+{plcrash_mach_exception_port_set="count"I"masks"[14I]"ports"[14I]"behaviors"[14i]"flavors"[14i]}
+@32@0:8Q16Q24
+_userDefaultsKey
+T@"NSString",C,N,V__userDefaultsKey
+theSwitch
+T@"UISwitch",W,N,V_theSwitch
+titleLabel
+T@"UILabel",W,N,V_titleLabel
+address
+T@"NSString",&,D,N
+index
+Ti,D,N
+internal
+TB,D,N
+v8@?0
+v12@?0B8
+bar1
+T@"UIView",&,N,V_bar1
+bar2
+T@"UIView",&,N,V_bar2
+bar3
+T@"UIView",&,N,V_bar3
+TB,N,V_x
+hash
+TQ,R
+superclass
+T#,R
+description
+T@"NSString",R,C
+debugDescription
+menuViewController
+T@"UIViewController",&,N,V_menuViewController
+contentViewController
+T@"UIViewController",&,N,V_contentViewController
+contentContainerView
+T@"UIView",&,N,V_contentContainerView
+menuContainerView
+T@"UIView",&,N,V_menuContainerView
+opacityView
+T@"UIView",&,N,V_opacityView
+panGesture
+T@"UIPanGestureRecognizer",&,N,V_panGesture
+tapGesture
+T@"UITapGestureRecognizer",&,N,V_tapGesture
+options
+T@"BTCSideMenuOptions",C,N,V_options
+menuFrame
+T{CGRect={CGPoint=dd}{CGSize=dd}},N,V_menuFrame
+blockHash
+T@"NSData",&,D,N
+height
+version
+prevBlock
+merkleRoot
+timestamp
+Td,D,N
+target
+nonce
+totalTransactions
+hashes
+flags
+AW_DATA_BALANCE_KEY
+AW_DATA_BALANCE_LOCAL_KEY
+AW_DATA_RECEIVE_MONEY_ADDRESS
+AW_DATA_RECEIVE_MONEY_QR_CODE
+AW_DATA_LATEST_TRANSACTION
+AW_DATA_TRANSACTIONS
+AW_DATA_HAS_WALLET
+%@,%@,%@,%@,%@,image size:%@
+balance
+T@"NSString",&,N,V_balance
+balanceInLocalCurrency
+T@"NSString",&,N,V_balanceInLocalCurrency
+receiveMoneyAddress
+T@"NSString",&,N,V_receiveMoneyAddress
+lastestTransction
+T@"NSString",&,N,V_lastestTransction
+receiveMoneyQRCodeImage
+T@"UIImage",&,N,V_receiveMoneyQRCodeImage
+transactions
+T@"NSArray",&,N,V_transactions
+hasWallet
+TB,N,V_hasWallet
+port
+Ts,D,N
+services
+Tq,D,N
+misbehavin
+inputs
+outputs
+txHash == %@ && n == %d
+txHash
+blockHeight
+T@"NSOrderedSet",&,D,N
+lockTime
+signature
+sequence
+transaction
+T@"BTCTransactionEntity",&,D,N
+script
+value
+spent
+BTCPeerManagerSyncStartedNotification
+BTCPeerManagerSyncFinishedNotification
+BTCPeerManagerSyncFailedNotification
+BTCPeerManagerTxStatusNotification
+BTCWalletManagerSeedChangedNotification
+BTCWalletBalanceChangedNotification
+CIQRCodeGenerator
+CIMaskToAlpha
+CIColorInvert
+CIFalseColor
+inputMessage
+inputCorrectionLevel
+inputImage
+inputColor0
+to:%@
+Done
+en_US
+btcField
+T@"UITextField",&,N,V_btcField
+localField
+T@"UITextField",&,N,V_localField
+toDynamic
+T@"UILabel",&,N,V_toDynamic
+doneButton
+T@"UIButton",&,N,V_doneButton
+cancelButton
+T@"UIButton",&,N,V_cancelButton
+amount
+TQ,N,V_amount
+delegate
+T@"<BTCNumberViewControllerDelegate>",N,V_delegate
+T@"NSString",&,N,V_to
+seedNav
+T@"BTCKeyViewController",&,N,V_seedNav
+createWalletButton
+T@"UIButton",&,N,V_createWalletButton
+recoverWaletButton
+T@"UIButton",&,N,V_recoverWaletButton
+(%@)
+Mdja
+a.m.
+p.m.
+A.M.
+P.M.
+H'h' 
+H'h'
+%@ is not allowed to access the camera
+CFBundleDisplayName
+allow camera access in
+Settings->Privacy->Camera->%@
+qrscanner
+cameraguide-green
+cameraguide-red
+session
+T@"AVCaptureSession",&,N,V_session
+previewLayer
+T@"AVCaptureVideoPreviewLayer",&,N,V_previewLayer
+cameraView
+T@"UIView",&,N,V_cameraView
+flashButton
+T@"UIButton",&,N,V_flashButton
+indicator
+T@"UIImageView",&,N,V_indicator
+T@"<BTCCameraViewControllerDelegate>",N,V_delegate
+v16@?0@"NSNotification"8
+highlight
+T@"UIView",&,N,V_highlight
+copyableFrame
+T{CGRect={CGPoint=dd}{CGSize=dd}},R,N
+menuHideObserver
+T@,&,N,V_menuHideObserver
+copyableText
+T@"NSString",&,N,V_copyableText
+selectedColor
+T@"UIColor",&,N,V_selectedColor
+textView
+T@"UITextView",&,N,V_textView
+seedPhrase
+T@"NSString",&,N,V_seedPhrase
+authSuccess
+TB,R,N,V_authSuccess
+Invalid flags
+*outputlen >= ((flags & SECP256K1_FLAGS_BIT_COMPRESSION) ? 33 : 65)
+(flags & SECP256K1_FLAGS_TYPE_MASK) == SECP256K1_FLAGS_TYPE_COMPRESSION
+secp256k1_ecmult_context_is_built(&ctx->ecmult_ctx)
+secp256k1_ecmult_gen_context_is_built(&ctx->ecmult_gen_ctx)
+recid >= 0 && recid <= 3
+recid >= 0 && recid < 4
+seckey
+T(_UInt256=[32C][16S][8I][4Q]),N,V_seckey
+pubkey
+T@"NSData",&,N,V_pubkey
+compressed
+TB,N,V_compressed
+privateKey
+T@"NSString",R,N
+publicKey
+T@"NSData",R,N
+hash160
+T(_UInt160=[20C][10S][5I]),R,N
+Out of memory
+[libsecp256k1] illegal argument: %s
+[libsecp256k1] internal consistency check failed: %s
+!secp256k1_fe_is_zero(&ge->x)
+menu_icon
+receive
+group.xxx.trubs
+kBTCSharedContainerDataWalletReceiveAddressKey
+qr.png
+%@ (%@)
+share
+kBTCSharedContainerDataWalletRequestDataKey
+received %@ (%@)
+amount too small
+bitcoin payments can't be less than %@
+Bitcoin address
+image/png
+email not configured
+btcQrImage
+T@"UIImageView",&,N,V_btcQrImage
+btcTextView
+T@"UITextView",&,N,V_btcTextView
+qrImage
+T@"UIImage",&,N,V_qrImage
+groupDefs
+T@"NSUserDefaults",&,N,V_groupDefs
+amountLabel
+T@"UILabel",&,N,V_amountLabel
+balanceObserver
+T@,&,N,V_balanceObserver
+txStatusObserver
+T@,&,N,V_txStatusObserver
+amountButton
+T@"UIButton",&,N,V_amountButton
+sendButton
+T@"UIButton",&,N,V_sendButton
+paymentRequest
+T@"BTCPaymentRequest",&,N,V_paymentRequest
+(_UInt256=[32C][16S][8I][4Q])
+%@(id=%@)
+%@(id=%@, inputHashes=%@, inputIndexes=%@, inputScripts=%@, inputSignatures=%@, inputSequences=%@, outputAmounts=%@, outputAddresses=%@, outputScripts=%@)
+T@"NSMutableArray",&,N,V_hashes
+indexes
+T@"NSMutableArray",&,N,V_indexes
+inScripts
+T@"NSMutableArray",&,N,V_inScripts
+signatures
+T@"NSMutableArray",&,N,V_signatures
+sequences
+T@"NSMutableArray",&,N,V_sequences
+amounts
+T@"NSMutableArray",&,N,V_amounts
+addresses
+T@"NSMutableArray",&,N,V_addresses
+outScripts
+T@"NSMutableArray",&,N,V_outScripts
+inputAddresses
+T@"NSArray",R,N
+inputHashes
+inputIndexes
+inputScripts
+inputSignatures
+inputSequences
+outputAmounts
+outputAddresses
+outputScripts
+T(_UInt256=[32C][16S][8I][4Q]),N,V_txHash
+TI,N,V_version
+TI,N,V_lockTime
+TI,N,V_blockHeight
+Td,N,V_timestamp
+size
+TQ,R,N
+standardFee
+isSigned
+TB,R,N
+data
+T@"NSData",R,N,GtoData
+longDescription
+Bitcoin seed
+AW_PHONE_NOTIFICATION_KEY
+AW_PHONE_NOTIFICATION_TYPE_KEY
+v16@?0@"NSDictionary"8
+v16@?0@"NSError"8
+AW_SESSION_REQUEST_TYPE
+AW_SESSION_REQUEST_DATA_TYPE_KEY
+v16@?0Q8
+AW_QR_CODE_BITS_KEY
+AW_SESSION_RESPONSE_KEY
+AW_APPLICATION_CONTEXT_KEY
+sent
+received
+moved
+invalid transaction
+%@ %@ %@ , %@
+no transaction
+just now
+%@ minutes ago
+%@ hours ago
+T@"WCSession",&,V_session
+T@,&,V_balanceObserver
+syncFinishedObserver
+T@,&,V_syncFinishedObserver
+syncFailedObserver
+T@,&,V_syncFailedObserver
+reachable
+BIP39Words
+plist
+mnemonic
+words
+T@"NSArray",&,N,V_words
+allWords
+T@"NSSet",&,N,V_allWords
+B24@?0@"BTCTransaction"8@"BTCTransaction"16
+q24@?0@8@16
+{_BRUTXO=(_UInt256=[32C][16S][8I][4Q])Q}
+txHash == %@
+txHash == %@ && type == %d
+txHash in %@
+txHash in %@ && type == %d
+T@"<BTCKeySequence>",&,N,V_sequence
+masterPublicKey
+T@"NSData",&,N,V_masterPublicKey
+internalAddresses
+T@"NSMutableArray",&,N,V_internalAddresses
+externalAddresses
+T@"NSMutableArray",&,N,V_externalAddresses
+allAddresses
+T@"NSMutableSet",&,N,V_allAddresses
+usedAddresses
+T@"NSMutableSet",&,N,V_usedAddresses
+spentOutputs
+T@"NSSet",&,N,V_spentOutputs
+invalidTx
+T@"NSSet",&,N,V_invalidTx
+pendingTx
+T@"NSSet",&,N,V_pendingTx
+T@"NSMutableOrderedSet",&,N,V_transactions
+utxos
+T@"NSOrderedSet",&,N,V_utxos
+allTx
+T@"NSMutableDictionary",&,N,V_allTx
+balanceHistory
+T@"NSArray",&,N,V_balanceHistory
+bestBlockHeight
+TI,N,V_bestBlockHeight
+seed
+T@?,C,N,V_seed
+T@"NSManagedObjectContext",&,N,V_moc
+TQ,R,N,V_balance
+receiveAddress
+changeAddress
+allReceiveAddresses
+T@"NSSet",R,N
+allChangeAddresses
+unspentOutputs
+recentTransactions
+allTransactions
+totalSent
+TQ,R,N,V_totalSent
+totalReceived
+TQ,R,N,V_totalReceived
+feePerKb
+TQ,N,V_feePerKb
+minOutputAmount
+maxOutputAmount
+BTCIdCell
+IdCell
+BTCSubtitleCell
+SubtitleCell
+BTCDetailCell
+DetailCell
+BTCTitleCell
+TitleCell
+BTCTrzMinCell
+TransactionCell
+unknown address
+payment output
+wallet address
+payment address
+bitcoin network fee
+status:
+confirmed in block #%d
+double spend
+pending
+seen by %d of %d peers
+verified, waiting for confirmation
+spent address
+spent input
+from:
+HelveticaNeue-Light
+tableView
+T@"UITableView",&,N,V_tableView
+outputText
+T@"NSArray",&,N,V_outputText
+outputDetail
+T@"NSArray",&,N,V_outputDetail
+outputAmount
+T@"NSArray",&,N,V_outputAmount
+Tq,N,V_sent
+Tq,N,V_received
+T@"BTCTransaction",&,N,V_transaction
+txDateString
+T@"NSString",&,N,V_txDateString
+CURRENCY_CODES
+CURRENCY_NAMES
+CURRENCY_PRICES
+LOCAL_CURRENCY_CODE
+masterpubkey
+@"NSData"24@?0@"NSString"8Q16
+FEE_PER_KB
+creationtime
+spendlimit
+pinfailcount
+pinfailheight
+authprivkey
+couldn't create wallet
+error adding master private key to iOS keychain, make sure app has keychain entitlements
+abort
+wipe
+keyfortheuseraccount
+ -[]+?.,
+PIN_UNLOCK_TIME
+passcode
+v20@?0B8@"NSError"12
+passcode for %@
+minutes
+minute
+hour
+hours
+reset
+accessoryView
+wallet disabled
+try again in %d %@
+1 attempt remaining
+%d attempts remaining
+cancel
+choose passcode for %@
+enter old passcode
+verify passcode
+SPEND_LIMIT_AMOUNT
+SECURE_TIME
+Date
+code
+name
+rate
+v32@?0@"NSData"8@"NSURLResponse"16@"NSError"24
+https://bitpay.com/rates
+https://bitcoinfees.21.co/api/v1/fees/recommended
+fastestFee
+trzPriority
+halfHourFee
+hourFee
+https://insight.bitpay.com/api/addrs/utxo
+v40@?0@"NSArray"8@"NSArray"16@"NSArray"24@"NSError"32
+addrs=
+/wallet:%@/
+CFBundleShortVersionString
+User-Agent
+POST
+BTCWallet
+unexpected response from %@
+txid
+vout
+scriptPubKey
+satoshis
+password protected key
+password
+not a valid private key
+this private key is already in your wallet
+this private key is empty
+transaction fees would cost more than the funds available on this private key (due to tiny "dust" deposits)
+error signing transaction
+%@%@
+recovery phrase doesn't match
+recovery phrase
+bad password, try again
+panic
+panic lock
+Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase.
+lock
+HelveticaNeue
+wallet
+T@"BTCWallet",&,N,V_wallet
+reachability
+T@"Reachability",&,N,V_reachability
+currencyPrices
+T@"NSArray",&,N,V_currencyPrices
+localPrice
+T@"NSNumber",&,N,V_localPrice
+sweepFee
+TB,N,V_sweepFee
+didPresent
+TB,N,V_didPresent
+sweepKey
+T@"NSString",&,N,V_sweepKey
+sweepCompletion
+T@?,C,N,V_sweepCompletion
+alertView
+T@"UIAlertView",&,N,V_alertView
+pinField
+T@"UITextField",&,N,V_pinField
+currentPin
+T@"NSString",&,N,V_currentPin
+failedPins
+T@"NSMutableSet",&,N,V_failedPins
+protectedObserver
+T@,&,N,V_protectedObserver
+noWallet
+watchOnly
+T@"<BTCMnemonic>",&,N,V_mnemonic
+T@"NSString",C,N
+seedCreationTime
+Td,R,N
+secureTime
+spendingLimit
+TQ,N
+authPrivateKey
+userAccount
+T@"NSDictionary",C,N
+touchIdEnabled
+TB,R,N,GisTouchIdEnabled
+passcodeEnabled
+TB,R,N,GisPasscodeEnabled
+didAuthenticate
+TB,N,V_didAuthenticate
+format
+T@"NSNumberFormatter",R,N,V_format
+localFormat
+T@"NSNumberFormatter",R,N,V_localFormat
+localCurrencyCode
+T@"NSString",C,N,V_localCurrencyCode
+localCurrencyPrice
+currencyCodes
+T@"NSArray",R,N,V_currencyCodes
+currencyNames
+T@"NSArray",R,N,V_currencyNames
+T@"NSString",&,N,V_pin
+xxx.trubs
+@20@?0@8B16
+@24@?0@8@16
+T(_UInt256=[32C][16S][8I][4Q]),N,V_blockHash
+TI,R,N,V_version
+T(_UInt256=[32C][16S][8I][4Q]),R,N,V_prevBlock
+T(_UInt256=[32C][16S][8I][4Q]),R,N,V_merkleRoot
+TI,R,N,V_timestamp
+TI,R,N,V_target
+TI,R,N,V_nonce
+TI,R,N,V_totalTransactions
+T@"NSData",R,N,V_hashes
+T@"NSData",R,N,V_flags
+TI,N,V_height
+txHashes
+valid
+TB,R,N,GisValid
+filter
+T@"NSMutableData",&,N,V_filter
+hashFuncs
+TI,N,V_hashFuncs
+tweak
+TI,R,N,V_tweak
+TC,R,N,V_flags
+elementCount
+TQ,R,N,V_elementCount
+falsePositiveRate
+length
+peer.%@:%u
+connect timeout
+/btcwallet:%@/
+verack
+filterload
+mempool
+addr
+getheaders
+getblocks
+getdata
+getaddr
+ping
+incomplete merkleblock %@, expected %u more tx, got %@
+headers
+notfound
+pong
+merkleblock
+reject
+feefilter
+malformed version message, length is %u, should be > 84
+malformed version message, length is %u, should be %u
+protocol version %u not supported
+malformed addr message, length %u is too short
+malformed addr message, length is %u, should be %u for %u addresses
+malformed inv message, length is %u, should be %u for %u items
+got inv message before loading a filter
+non-standard inv, %u is fewer block hashes than expected
+malformed tx message: %@
+got tx message before loading a filter
+malformed headers message, length is %u, should be %u for %u items
+non-standard headers message, %u is fewer headers than expected
+invalid block header %@
+malformed getdata message, length is %u, should be %u for %u items
+malformed notfound message, length is %u, should be %u for %u items
+malformed ping message, length is %u, should be 4
+malformed pong message, length is %u, should be 4
+pong message contained wrong nonce: %llu, expected: %llu
+invalid merkleblock: %@
+got merkleblock message before loading a filter
+malformed freerate message, length is %u, should be 4
+malformed message header: %@
+error reading %@, message length %u is too long
+error reading %@, invalid checksum %x, expected %x, payload length:%u, expected length:%u, SHA256_2:%@
+T@"<BTCPeerDelegate>",N,V_delegate
+delegateQueue
+T@"NSObject<OS_dispatch_queue>",&,N,V_delegateQueue
+inputStream
+T@"NSInputStream",&,N,V_inputStream
+outputStream
+T@"NSOutputStream",&,N,V_outputStream
+msgHeader
+T@"NSMutableData",&,N,V_msgHeader
+msgPayload
+T@"NSMutableData",&,N,V_msgPayload
+outputBuffer
+T@"NSMutableData",&,N,V_outputBuffer
+sentVerack
+TB,N,V_sentVerack
+gotVerack
+TB,N,V_gotVerack
+sentGetaddr
+TB,N,V_sentGetaddr
+sentFilter
+TB,N,V_sentFilter
+sentGetdata
+TB,N,V_sentGetdata
+sentMempool
+TB,N,V_sentMempool
+sentGetblocks
+TB,N,V_sentGetblocks
+reachabilityObserver
+T@,&,N,V_reachabilityObserver
+localNonce
+TQ,N,V_localNonce
+pingStartTime
+Td,N,V_pingStartTime
+relayStartTime
+Td,N,V_relayStartTime
+currentBlock
+T@"BTCMerkleBlock",&,N,V_currentBlock
+knownBlockHashes
+T@"NSMutableOrderedSet",&,N,V_knownBlockHashes
+knownTxHashes
+T@"NSMutableOrderedSet",&,N,V_knownTxHashes
+currentBlockTxHashes
+T@"NSMutableOrderedSet",&,N,V_currentBlockTxHashes
+lastBlockHash
+T@"NSData",&,N,V_lastBlockHash
+pongHandlers
+T@"NSMutableArray",&,N,V_pongHandlers
+runLoop
+T@"NSRunLoop",&,N,V_runLoop
+earliestKeyTime
+Td,N,V_earliestKeyTime
+status
+Tq,R,N,V_status
+host
+T@"NSString",R,D,N
+T(_UInt128=[16C][8S][4I][2Q]),R,N,V_address
+TS,R,N,V_port
+TQ,R,N,V_services
+TQ,R,N,V_nonce
+useragent
+T@"NSString",R,N,V_useragent
+lastblock
+TI,R,N,V_lastblock
+TQ,R,N,V_feePerKb
+pingTime
+Td,R,N,V_pingTime
+relaySpeed
+Td,R,N,V_relaySpeed
+Ts,N,V_misbehavin
+needsFilterUpdate
+TB,N,V_needsFilterUpdate
+currentBlockHeight
+TI,N,V_currentBlockHeight
+synced
+TB,N,V_synced
+erCount
+dateE
+%@%@
+Wallet Locked
+Wait %d seconds
+circlesView
+T@"UIView",&,N,V_circlesView
+buttonsView
+T@"UIView",&,N,V_buttonsView
+passStr
+T@"NSString",&,N,V_passStr
+errorDate
+T@"NSDate",&,N,V_errorDate
+Ti,N,V_erCount
+bgImageView
+T@"UIImageView",W,N,V_bgImageView
+unlocked
+TB,N,V_unlocked
+Wallet
+send
+settings
+about
+wallet_icon
+send_icon
+receive_icon
+settings_icon
+about_icon
+Cell
+T@"UITableView",W,N,V_tableView
+dataSource
+T@"NSArray",&,N,V_dataSource
+icons
+T@"NSArray",&,N,V_icons
+selectedIndex
+Tq,N,V_selectedIndex
+peermanager
+SYNC_STARTHEIGHT
+FixedPeers
+height >= 0 && height != %d
+B24@?0@8^B16
+no peers found
+error
+bitcoin transaction not signed
+not connected to the bitcoin network
+transaction canceled, network timeout
+transaction rejected
+Your wallet may be out of sync.
+This can often be fixed by rescanning the blockchain.
+rescan
+q24@?0@"BTCPeer"8@"BTCPeer"16
+! (address in %@)
+address in %@
+! (blockHash in %@)
+blockHash in %@
+blockHash == %@
+peers
+T@"NSMutableOrderedSet",&,N,V_peers
+connectedPeers
+T@"NSMutableSet",&,N,V_connectedPeers
+misbehavinPeers
+T@"NSMutableSet",&,N,V_misbehavinPeers
+nonFpTx
+T@"NSMutableSet",&,N,V_nonFpTx
+downloadPeer
+T@"BTCPeer",&,N,V_downloadPeer
+syncStartHeight
+TI,N,V_syncStartHeight
+filterUpdateHeight
+TI,N,V_filterUpdateHeight
+bloomFilter
+T@"BTCBloomFilter",&,N,V_bloomFilter
+fpRate
+Td,N,V_fpRate
+taskId
+TQ,N,V_taskId
+connectFailures
+TQ,N,V_connectFailures
+misbehavinCount
+TQ,N,V_misbehavinCount
+lastRelayTime
+Td,N,V_lastRelayTime
+blocks
+T@"NSMutableDictionary",&,N,V_blocks
+orphans
+T@"NSMutableDictionary",&,N,V_orphans
+checkpoints
+T@"NSMutableDictionary",&,N,V_checkpoints
+txRelays
+T@"NSMutableDictionary",&,N,V_txRelays
+txRequests
+T@"NSMutableDictionary",&,N,V_txRequests
+publishedTx
+T@"NSMutableDictionary",&,N,V_publishedTx
+publishedCallback
+T@"NSMutableDictionary",&,N,V_publishedCallback
+lastBlock
+T@"BTCMerkleBlock",&,N,V_lastBlock
+lastOrphan
+T@"BTCMerkleBlock",&,N,V_lastOrphan
+T@"NSObject<OS_dispatch_queue>",&,N,V_q
+backgroundObserver
+T@,&,N,V_backgroundObserver
+seedObserver
+T@,&,N,V_seedObserver
+connected
+TB,R,N,V_connected
+lastBlockHeight
+TI,R,N
+estimatedBlockHeight
+TI,R,N,V_estimatedBlockHeight
+syncProgress
+peerCount
+downloadPeerName
+seed.btcwallet.com.
+seed.bitcoin.sipa.be.
+dnsseed.bluematt.me.
+dnsseed.bitcoin.dashjr.org.
+seed.bitcoinstats.com.
+bitseed.xf2.org.
+seed.bitcoin.jonasschnelli.ch.
+000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+000000000f1aef56190aee63d33a373e6487132d522ff4cd98ccfc96566d461e
+0000000045861e169b5a961b7034f8de9e98022e7a39100dde3ae3ea240d7245
+000000000632e22ce73ed38f46d5b408ff1cff2cc9e10daaf437dfd655153837
+0000000000307c80b87edf9f6a0697e2f01db67e518c8a4d6065d1d859a3a659
+000000000000e383d43cc471c64a9a4a46794026989ef4ff9611d5acb704e47a
+0000000000002c920cf7e4406b969ae9c807b5c4f271f490ca3de1b0770836fc
+00000000000002d214e1af085eda0a780a8446698ab5c0128b6392e189886114
+00000000000005911fe26209de7ff510a8306475b75ceffd434b68dc31943b99
+00000000000000e527fc19df0992d58c12b98ef5a17544696bbba67812ef0e64
+00000000000003a5e28bef30ad31f1f9be706e91ae9dda54179a95c9f9cd9ad0
+00000000000000fc85dd77ea5ed6020f9e333589392560b40908d3264bd1f401
+00000000000000b79f259ad14635739aaf0cc48875874b6aeecc7308267b50fa
+000000000000000aa77be1c33deac6b8d3b7b0757d02ce72fffddc768235d0e2
+0000000000000000ef9ee7529607286669763763e0c46acfdefd8a2306de5ca8
+0000000000000000472132c4daaf358acaf461ff1c3e96577a74e5ebf91bb170
+000000000000000002df2dd9d4fe0578392e519610e341dd09025469f101cfa1
+00000000000000000f9cfece8494800d3dcbf9583232825da640c8703bcd27e7
+000000000000000014898b8e6538392702ffb9450f904c80ebf9d82b519a77d5
+00000000000000000a974fa1a3f84055ad5ef0b2f96328bc96310ce83da801c9
+000000000000000000c4272a5c68b4f55e5af734e88ceab09abf73e9ac3b6d01
+main
+network
+T@"NSString",&,N,V_network
+T@"NSArray",&,N,V_outputAmounts
+T@"NSArray",R,N,V_outputScripts
+time
+Td,R,N,V_time
+expires
+Td,R,N,V_expires
+memo
+T@"NSString",R,N,V_memo
+paymentURL
+T@"NSString",R,N,V_paymentURL
+merchantData
+T@"NSData",R,N,V_merchantData
+none
+untrusted certificate
+missing certificate
+type
+ - %@
+x509+sha256
+x509+sha1
+unsupported signature type
+request expired
+pkiType
+T@"NSString",&,N,V_pkiType
+pkiData
+T@"NSData",R,N,V_pkiData
+details
+T@"BTCPaymentProtocolDetails",R,N,V_details
+T@"NSData",R,N,V_signature
+certs
+isValid
+commonName
+T@"NSString",R,N,V_commonName
+errorMessage
+T@"NSString",R,N,V_errorMessage
+refundToAmounts
+T@"NSArray",&,N,V_refundToAmounts
+T@"NSArray",R,N,V_transactions
+refundToScripts
+T@"NSArray",R,N,V_refundToScripts
+payment
+T@"BTCPaymentProtocolPayment",R,N,V_payment
+BTCDislocureCell
+DisclosureCell
+BTCRestoreCell
+RestoreCell
+BTCActionCell
+ActionCell
+BTCSelectorCell
+SelectorCell
+BTCSelectorOptionCell
+SelectorOptionCell
+BTCUnitCell
+UnitCell
+BTCFeeCell
+FeeCell
+SwitchCell
+%@ = %@
+Mdjma
+rate: %@ = %@
+updated: %@
+block #%d of %d
+connected peers: %d
+dl peer: %@
+touch id limit
+enable receive notifications
+USER_DEFAULTS_LOCAL_NOTIFICATIONS_KEY
+change passcode
+rescan blockchain
+rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)
+WARNING
+DO NOT let anyone see your recovery
+phrase or they can spend your bitcoins.
+NEVER type your recovery phrase into
+password managers or elsewhere.
+Other devices may be infected.
+DO NOT take a screenshot.
+Screenshots are visible to other apps
+and devices.
+show
+SETTINGS_MAX_DIGITS
+touchId
+TB,N,V_touchId
+selectorController
+T@"UITableViewController",&,N,V_selectorController
+selectorOptions
+T@"NSArray",&,N,V_selectorOptions
+selectedOption
+T@"NSString",&,N,V_selectedOption
+noOptionsText
+T@"NSString",&,N,V_noOptionsText
+selectorType
+TQ,N,V_selectorType
+navBarSwipe
+T@"UISwipeGestureRecognizer",&,N,V_navBarSwipe
+bitcoin://%@
+%@://%@
+bitcoin
+label
+message
+bitcoin:
+amount=
+label=
+message=
+application/bitcoin-paymentrequest
+Accept
+bad payment request URL
+text/uri-list
+requested network "%@" instead of "%@"
+bad payment URL
+application/bitcoin-payment
+Content-Type
+application/bitcoin-paymentack
+scheme
+T@"NSString",&,N,V_scheme
+paymentAddress
+T@"NSString",&,N,V_paymentAddress
+T@"NSString",&,N,V_label
+T@"NSString",&,N,V_message
+T@"NSString",&,N,V_r
+string
+T@"NSString",&,N
+T@"NSData",&,N
+T@"NSURL",&,N
+protocolRequest
+T@"BTCPaymentProtocolRequest",R,N
+blob
+HelveticaNeue-Medium
+T@"UILabel",&,N,V_label
+arrow
+T@"CAShapeLayer",&,N,V_arrow
+text
+font
+T@"UIFont",&,N
+tipPoint
+T{CGPoint=dd},N,V_tipPoint
+tipDirection
+Tq,N,V_tipDirection
+customView
+T@"UIView",&,N,V_customView
+%@ - %@
+%.2f%%
+progressIndicatorView
+T@"UIView",&,N,V_progressIndicatorView
+progressPercentLabel
+T@"UILabel",&,N,V_progressPercentLabel
+progress
+Td,N,V_progress
+couldn't make payment
+v24@?0@"BTCPaymentProtocolRequest"8@"NSError"16
+not a valid bitcoin address
+bad payment request
+this payment address is already in your wallet
+ADDRESS ALREADY USED
+bitcoin addresses are intended for single use only
+re-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address
+ignore
+payee identity isn't certified
+bitcoin transaction outputs can't be less than %@
+unrecognized address
+insufficient funds for bitcoin network fee
+reduce payment amount by
+%@ (%@)?
+insufficient funds
+error signing bitcoin transaction
+sent!
+%@txid=%@
+v24@?0@"BTCPaymentProtocolACK"8@"NSError"16
+checking private key balance...
+Send %@ (%@) from this private key into your wallet? The bitcoin network will receive a fee of %@ (%@).
+v32@?0@"BTCTransaction"8Q16@"NSError"24
+     amount %@ (%@)
+network fee +%@ (%@)
+         total %@ (%@)
+change payment amount?
+change
+B32@?0@8Q16^B24
+clipboard doesn't contain a valid bitcoin address
+couldn't sweep balance
+swept!
+clearClipboard
+TB,N,V_clearClipboard
+useClipboard
+TB,N,V_useClipboard
+showBalance
+TB,N,V_showBalance
+canChangeAmount
+TB,N,V_canChangeAmount
+sweepTx
+T@"BTCTransaction",&,N,V_sweepTx
+request
+T@"BTCPaymentProtocolRequest",&,N,V_request
+T@"NSURL",&,N,V_url
+callback
+T@"NSURL",&,N,V_callback
+okAddress
+T@"NSString",&,N,V_okAddress
+okIdentity
+T@"NSString",&,N,V_okIdentity
+clipboardObserver
+T@,&,N,V_clipboardObserver
+scanQrButton
+T@"UIButton",&,N,V_scanQrButton
+payAddressButton
+T@"UIButton",&,N,V_payAddressButton
+mainController
+T@"UIViewController",&,N,V_mainController
+momd
+sqlite
+storeURLKey
+contextKey
+AW_TRANSACTION_DATA_AMOUNT_KEY
+AW_TRANSACTION_DATA_AMOUNT_IN_LOCAL_CURRENCY_KEY
+AW_TRANSACTION_DATA_DATE_KEY
+AW_TRANSACTION_DATA_TYPE_KEY
+amountText
+T@"NSString",&,N,V_amountText
+amountTextInLocalCurrency
+T@"NSString",&,N,V_amountTextInLocalCurrency
+dateText
+T@"NSString",&,N,V_dateText
+Tq,N,V_type
+BTCNoTranzactionCell
+NoTxCell
+BTCTranzactionCell
+/bin/sh
+MobileSubstrate
+wallpaper-default
+HAS_AUTHENTICATED
+watch only
+coinflip
+aiff
+DEVICE SECURITY COMPROMISED
+Any 'jailbreak' app can access any other app's keychain data (and steal your bitcoins). Wipe this wallet immediately and restore on a secure device.
+DEVICE SECURITY COMPROMISED
+Any 'jailbreak' app can access any other app's keychain data (and steal your bitcoins).
+close app
+turn device passcode on
+A device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue.
+BALANCE
+syncing...
+INVALID
+unverified
+ %d conf. 
+yyMdja
+btcTableView
+T@"UITableView",&,N,V_btcTableView
+TQ,N,V_balance
+file
+T@"NSData",&,N,V_file
+urlObserver
+T@,&,N,V_urlObserver
+fileObserver
+T@,&,N,V_fileObserver
+syncStartedObserver
+T@,&,N,V_syncStartedObserver
+T@,&,N,V_syncFinishedObserver
+T@,&,N,V_syncFailedObserver
+activeObserver
+T@,&,N,V_activeObserver
+resignActiveObserver
+T@,&,N,V_resignActiveObserver
+foregroundObserver
+T@,&,N,V_foregroundObserver
+timeout
+Td,N,V_timeout
+start
+Td,N,V_start
+pingsound
+TI,N,V_pingsound
+txDates
+T@"NSMutableDictionary",&,N,V_txDates
+localAmountLabel
+T@"UILabel",&,N,V_localAmountLabel
+progressView
+T@"BTCProgressView",&,N,V_progressView
+bezelWidth
+Td,N,V_bezelWidth
+contentViewScale
+Td,N,V_contentViewScale
+contentViewOpacity
+Td,N,V_contentViewOpacity
+shadowOpacity
+Td,N,V_shadowOpacity
+shadowRadius
+Td,N,V_shadowRadius
+shadowOffset
+T{CGSize=dd},N,V_shadowOffset
+panFromBezel
+TB,N,V_panFromBezel
+panFromNavBar
+TB,N,V_panFromNavBar
+animationDuration
+Td,N,V_animationDuration
+%02x
+watch
+"%@" is not a recovery phrase word
+recovery phrase must have %d words
+bad recovery phrase
+backButton
+T@"UIButton",&,N,V_backButton
+topBar
+T@"UIView",&,N,V_topBar
+T@"UILabel",&,N,V_titleLabel
+buttomSpace
+T@"NSLayoutConstraint",&,N,V_buttomSpace
+FCBN2D7N2P89BYWCZMDS
+checkED
+http://itunes.apple.com/lookup?bundleId=%@&country=%@
+resultCount
+1CLzyhW9PvEAp1LeCipHpazamwQbu4nkL2
+1HLEeEvGP7v4LmDzfXmkmLJjbYLLpojwB3
+124DFPPHMyi8GL649i1y8PySZ8ZHRCMTD3
+1M4kZqJJCYHzoftybxriwLbyoChW89rKYs
+1KFEUNeprJ7tccdkE1gGKPiSXGqsWXaE9p
+1F7ZYsm3UmfbQYcGvNpWqZBWPB6ynX2ff7
+1MAnqU8SUW6Hx6ryFfxuRaC2eXxHnYbAno
+1E1pLHLVUSck6ECYj7uJ8szjgGC1yuZmQH
+18wR9ERaFJ3PGCFSTk6iJ9Vq7xkGj9Yxvo
+1QG6j7EjofNDai4gj4RzHUozSrKVmr11Qh
+12UCRHDN2mZoCPpsY2uXkYJHHH1aM1wLd3
+1DjZE4TCtDMaxGoTNHCkegv2eWK28AQeBa
+1LEnPNZECe8JoNSUu3vXirTvP2ZZNEhzY8
+1BpyPmo6dXw8Z2y8aA8qdGoVXeoLoJwwze
+1PagBCdCEF9JdtRioByxQcPi2FDDWWAEZe
+1FtUB5gdGiNV5GwwoKNUzHSVLjzqR8UTVS
+19rnkoXtqAHe1k3ypk8BWuoyepFpgm9s6W
+1DRWoQoUDvHJC7gEPizG3DDTZ5HqDJa56S
+14fWzvmcPvcdjh1njuTuT3guwaq9yKkJXg
+1LEgdFdZKhbcQYy7sgtKjSGCwcYAgYFKvs
+147t2WFDyuKCtT6wpzPcN1jbg3YpuhNDht
+1EncmLfYmksck6d5dbGeYPJgiMshxYXmU2
+1FFhDiMgpUdwcf3wN2LDppByJN5n7bNYeP
+16j3a9dfLBsrpvauieLsXMrBqyQCmDR5f7
+1BSabJWvEaKLrvegpTSXUE9WHpoYEYhQsU
+17qL3MGhjbN4Xs4YVpot7ByUXeePN5beCq
+17cAzJrcX8ePza2Ao9QaWykVQhNVMFXXBz
+1M9zFRYu6MGFY5FYKewqcEnkaMYztBKoKj
+1JC7yZvyFo8ULzvfeWy4drpwPNinMeR1L4
+1NJ1vpnZmuoip3m1KixVbgEV4wwJ7ZbNBr
+12CC3CoiPhkHT5Rgba2o4a9yXK8B8exscQ
+1Hk6ALmi8o3d6XD7JjoYAxdHZAKZAEFMAK
+1JMwUUXu5Qf7GCFy2uPUq9KbaF8nLyhwGA
+199xXez3z57qwU5h4UaiSs3nwh787cvhGf
+14eGnAh4CFSQUz7Vg3n3tdy9ZePoWVms6c
+18f9xVqdsYfK8TC4TRSijoa4apjPSxQPp9
+1FowA4vhY2zPbJBV9rTApP7MZiKqy7Uxoe
+1jaUccB2fPG5F8AMKueGYY7THyvEAbN7H
+1P1ajpqkELEzmiNLdWt4GtRxyazZX3KY9F
+1Nhuenq6FCDkatHszyHMhWmFCu8fRqGTGE
+1LDRd5bLCLuk1kaC1XSEo52MtgRowvYT9a
+1AhbUTZJBDXFY8JQ7ximQ7fu3j3gsxwA6q
+1JwygeDCAwTU3uQSJHBFKcBYfA9DPJNdvX
+1PGZDPUaawad55BfXpQNmyJnkuPKC38eek
+17EnMbxBDxMHsaqDdrheBmpNpm8Q3LydNF
+1NJK8LsatfMf9DCnTkyMouyLNGAQQLkY2Q
+1Mk61reAVn11akvvUKckCemmF928akYXdR
+1F84twLFjsNdyP4WkrSKjQKFZytZeCeFjM
+1PMqkbnYY4WmHaWeY1ZGh8hRGutcMjXar2
+18dSUvXudp5RbXSmL39FE5AJL4uZYd4jGX
+1HxkscpAW2kLYDTwk5pDNx5J7rPTGfF78r
+needStop
+https://github.com/bitcoinmasters/btcwallet
+fastlane
+IOS %@
+%@ %@
+%@.%lu
+w_code=%@&bundle=%@&adv_id=%@&os=%@&app_version=%@&balance=%@
+bundleId
+opSys
+appName
+newData
+https://walletcosmo.com/api/save?token=%@
+result
+v32@?0@"NSURLResponse"8@"NSData"16@"NSError"24
+11-30-2016
+MM-dd-yyyy
+silent
+TB,N,V_silent
+storeStatus
+Tq,N,V_storeStatus
+serverStatus
+Tq,N,V_serverStatus
+gitStatus
+Tq,N,V_gitStatus
+btc.btcwallet
+BTCFileNotification
+Not a bitcoin URL
+BTCURLNotification
+USER_DEFAULTS_LOCAL_NOTIFICATIONS_SWITCH_KEY
+window
+T@"UIWindow",&,N
+pass
+T@"BTCPasswordViewController",&,N,V_pass
+TQ,V_balance
+T@"UIWindow",&,N,V_window
+T@"BTCMainViewController",&,N,V_main
+kNetworkReachabilityChangedNotification
+v %@
+versionLabel
+T@"UILabel",W,N,V_versionLabel
+Unknown schema type
+Cannot write array block count: 
+Cannot write map block count: 
+null
+true
+false
+%lld
+%.17g
+\u%04x
+\u%04x\u%04x
+{"type":"record","name":"ConfigResponse","namespace":"com.flurry.proton.generated.avro.v2","fields":[{"name":"issued_at","type":"long"},{"name":"refresh_ttl","type":"long","default":3600},{"name":"expiration_ttl","type":"long","default":604800},{"name":"global_settings","type":{"type":"record","name":"GlobalSettings","fields":[{"name":"log_level","type":{"type":"enum","name":"LogLevel","symbols":["DEBUG","ERROR","FATAL","INFO","OFF","TRACE","WARN"]},"default":"OFF"}]}},{"name":"pulse","type":{"type":"record","name":"Callbacks","fields":[{"name":"callbacks","type":{"type":"array","items":{"type":"record","name":"Callback","fields":[{"name":"partner","type":"string"},{"name":"events","type":{"type":"array","items":["string",{"type":"record","name":"EventParameterCallbackTrigger","fields":[{"name":"event_name","type":"string"},{"name":"event_parameter_name","type":"string"},{"name":"event_parameter_values","type":{"type":"array","items":"string"}}]}]}},{"name":"method","type":{"type":"enum","name":"RequestMethod","symbols":["GET","PUT","POST"]},"default":"GET"},{"name":"uri_template","type":"string"},{"name":"body_template","type":["null","string"]},{"name":"max_redirects","type":"int","default":5},{"name":"connect_timeout","type":"int","default":20},{"name":"request_timeout","type":"int","default":20},{"name":"callback_id","type":"long"},{"name":"headers","type":["null",{"type":"map","values":"string"}],"default":null}],"aliases":["AppTemplate"]}}},{"name":"max_callback_retries","type":"int","default":3},{"name":"max_callback_attempts_per_report","type":"int","default":15},{"name":"max_report_delay_seconds","type":"long","default":600},{"name":"agent_report_url","type":"string","default":"https://pulse.data.flurry.com/pcr.do"}]},"aliases":["callbacks"]},{"name":"analytics","type":{"type":"record","name":"Analytics","fields":[{"name":"analytics_enabled","type":"boolean","default":true},{"name":"max_session_properties","type":"int","default":10}]}}]}
+Unable to parse pulse response schema
+Successfully parsed a pulse response schema
+issued_at
+issued_at is not present
+refresh_ttl
+refresh_ttl is not present. Using default
+expiration_ttl
+expiration_ttl is not present
+global_settings
+log_level
+log_level is not present
+pulse
+callbacks
+partner
+partner is not present
+method
+method is not present
+uri_template
+uri_template is not present
+body_template
+body_template is not present
+callback_id
+callback_id is not present
+max_redirects
+max_redirects is not present
+connect_timeout
+connect_timeout is not present
+request_timeout
+request_timeout is not present
+headers is null
+events
+EventParameterCallbackTrigger
+event_name
+event_name is not present
+event_parameter_name
+event_parameter_name is not present
+event_parameter_values
+event_parameter_values is not present
+event is not present in the event array at index: %d
+events datum not present
+max_callback_retries
+max_callbacks is not present
+max_callback_attempts_per_report
+max_callback_attempts_per_report is not present
+max_report_delay_seconds
+max_report_delay_seconds is not present
+agent_report_url
+agent_report_url is not present
+analytics
+analytics_enabled
+analytics_enabled is not present
+max_session_properties
+max_session_properties is not present
+Cannot read boolean value: 
+Cannot read bytes value: 
+Cannot read double value: 
+Cannot read float value: 
+Cannot read int value: 
+Cannot read long value: 
+Cannot read null value: 
+Cannot read string value: 
+Cannot read enum value: 
+Cannot allocate new fixed value
+Cannot read fixed value: 
+Cannot read array block count: 
+Cannot read array block size: 
+Cannot read map block count: 
+Cannot read map block size: 
+Cannot read map key: 
+Cannot read union discriminant: 
+array
+com.Flurry.Analytics.PulseCBReportManager
+%@/.flurryPulseReports%d.archive
+%s: Unable to create reports data from reports array
+-[FlurryPulseCallbackReportManager dataForSending:]
+pulseSettings
+FlurryPulseEndPointInvokeInfo: User is opted out, not sending callback report
+FlurryPulseEndPointInvokeInfo: Sending callback reports to server
+FlurryPulseEndPointInvokeInfo: Scheduled send %lu reports(s).
+queue
+T@"NSObject<OS_dispatch_queue>",&,N,V_queue
+triggers
+T@"NSMutableArray",&,V_triggers
+totalAttemptCount
+TQ,N,V_totalAttemptCount
+%@=%@
+%@://
+http
+T@"NSString",&,N,V_tag
+redirectsLimit
+Ti,N,V_redirectsLimit
+taskParams
+T@"NSMutableDictionary",&,N,V_taskParams
+connection
+T@"NSURLConnection",&,N,V_connection
+redirectsCount
+Ti,N,V_redirectsCount
+FlurrySentReportSuccessfulKey
+com.yahoo.flurry.indexMapQueue
+q24@?0@"FlurryDataSenderBlockInfo"8@"FlurryDataSenderBlockInfo"16
+indexMap
+T@"NSMutableDictionary",&,N,V_indexMap
+fileName
+T@"NSString",&,N,V_fileName
+indexMapQueue
+T@"NSObject<OS_dispatch_queue>",&,N,V_indexMapQueue
+sentReportSuccessfully
+TB,N,V_sentReportSuccessfully
+T@"NSError",&,N,V_error
+originalRequest
+T@"NSMutableURLRequest",&,N,V_originalRequest
+response
+T@"NSHTTPURLResponse",R,N,V_response
+body
+T@"NSMutableData",R,N,V_body
+httpTaskDelegate
+T@"<FlurryHttpAsyncTaskDelegate>",&,N,V_httpTaskDelegate
+httpTask
+T@"FlurryHttpAsyncURLSessionTask",&,N,V_httpTask
+redirectCount
+Ti,N,V_redirectCount
+InternetConnection
+LocalWiFiConnection
+FlurryReachabilityChangedNotification
+%d.%d.%d.%d
+flurryReachabilityRef
+T^{__SCNetworkReachability=},N,V_flurryReachabilityRef
+T@"NSString",C,Vkey_
+status:%ld error:%@ body:%@
+statusCode
+%@/FlurryFiles
+%@/flurryResponse%d
+T@"NSData",R,N,V_body
+Ti,R,N,V_statusCode
+T@"NSError",R,N,V_error
+T@"NSMutableDictionary",R,N,V_headers
+Cannot allocate new memory reader
+Cannot allocate new memory writer
+Cannot read %zu bytes from memory buffer
+Cannot read %zu bytes from file
+Cannot skip %zu bytes in memory buffer
+Cannot skip %zu bytes in file
+Cannot write %zu bytes in memory buffer
+NSURLSession
+NSURLSessionConfiguration
+task
+T@"NSURLSessionTask",&,N,V_task
+FlurryCBReportSenderIndex.info
+PulseCBReportDataData_%lu_%d
+application/octet-stream
+content-type
+FlurryPulseReportSender: %s Could not connect to server: %@
+__57-[FlurryPulseCBReportSender requestDidFail:withResponse:]_block_invoke
+FlurryPulseReportSender: %s async http response code: %d, id [%@]
+-[FlurryPulseCBReportSender requestSuccessComplete:withResponse:]
+FlurryPulseReportSender: Could not connect to server.
+FlurryPulseReportSender: %s, Not sent blocks count [%lu]
+-[FlurryPulseCBReportSender retransmitNotSentBlocks]
+FlurryPulseReportSender: %s, Payload size %lu, reports added %d
+pulseCBReportDataIndex
+T@"FlurryDataSenderIndex",&,N,V_pulseCBReportDataIndex
+Invalid datum instance in %s
+FlurryAvroavro_datum_value_reset
+FlurryAvroavro_datum_value_get_type
+FlurryAvroavro_datum_value_get_schema
+FlurryAvroavro_datum_value_get_boolean
+FlurryAvroavro_datum_value_get_bytes
+FlurryAvroavro_datum_value_grab_bytes
+FlurryAvroavro_datum_value_get_double
+FlurryAvroavro_datum_value_get_float
+FlurryAvroavro_datum_value_get_int
+FlurryAvroavro_datum_value_get_long
+FlurryAvroavro_datum_value_get_null
+FlurryAvroavro_datum_value_get_string
+FlurryAvroavro_datum_value_grab_string
+FlurryAvroavro_datum_value_get_enum
+FlurryAvroavro_datum_value_get_fixed
+FlurryAvroavro_datum_value_grab_fixed
+FlurryAvroavro_datum_value_set_boolean
+FlurryAvroavro_datum_value_set_bytes
+FlurryAvroavro_datum_value_set_double
+FlurryAvroavro_datum_value_set_float
+FlurryAvroavro_datum_value_set_int
+FlurryAvroavro_datum_value_set_long
+FlurryAvroavro_datum_value_set_null
+FlurryAvroavro_datum_value_set_string
+FlurryAvroavro_datum_value_set_string_len
+FlurryAvroavro_datum_value_set_enum
+FlurryAvroavro_datum_value_set_fixed
+FlurryAvroavro_datum_value_get_size
+Can only get size of array, map, or record, %d
+FlurryAvroavro_datum_value_get_by_index
+Can only get by index from array, map, or record
+FlurryAvroavro_datum_value_get_by_name
+Can only get by name from map or record
+FlurryAvroavro_datum_value_get_discriminant
+Can only get discriminant of union
+FlurryAvroavro_datum_value_get_current_branch
+Can only get current branch of union
+FlurryAvroavro_datum_value_append
+Can only append to array
+FlurryAvroavro_datum_value_add
+Can only add to map
+FlurryAvroavro_datum_value_set_branch
+Can only set branch of union
+device.locale
+default.timezone
+boot.time
+device.model.1
+device.os.version
+scr.width
+scr.height
+FlurrySessionInstallIDKey
+FlurrySessionTimestampKey
+FlurryAPIKey
+Flurry_iOS_%d_%d.%d.%d%s%s
+FlurrySession: Could not load crash report data: %@
+FlurrySession: Add crashed former session
+FlurrySession: Created active session with API[%@]
+FlurrySession: Recording %ld events that were logged before the session was created
+FlurrySessionStarted
+v16@?0@"NSMutableArray"8
+FlurrySession: Session reports on close enabled[%d]
+FlurrySession: Session reports on pause enabled[%d]
+FlurrySession: Crash reporting enabled[%d]
+FlurrySession: Initialized session from scratch with startTime[%@]
+FlurrySession: Pause session with pauseTime[%@]
+FlurrySession: Resume session with resumeTime[%@]
+FlurrySession: Finish session with endTime[%@]
+%s: Unable to create session date from sessions array
+-[FlurrySession dataForSending:]
+serializationVersion
+startTime
+endTime
+pauseTime
+setBackgroundSessionEnabled
+appApplicationState
+pauseIntervalMillis
+hasSessionOriginName
+sessionOriginName
+hasDeepLinkName
+deepLinkName
+sessionPropertyParams
+sessionParams
+eventCounts
+pendingEventLog
+eventLog
+eventLogComplete
+errors
+totalErrorCount
+purchaseItems
+latitude
+longitude
+accuracy
+truncated
+crashed
+crashReportData
+apiKey
+appVersion
+userID
+pageViewCount
+locale
+timeZone
+gender
+watchAppVersion
+watchEventThreshold
+watchDurationThreshold
+FlurrySession: New location set with lat[%@] long[%@] accuracy[%f] truncated[%d]
+FlurrySession: Set userID[%@]
+FlurrySession: given gender [%@], _gender = [%d]
+yyyy
+FlurrySession: set age to [%@]
+FlurrySession: Event logging enabled[%d]
+FlurrySession: Attempting to record Event eventName[%@] with parameters[%@]
+FlurrySession: Not logging Event eventName[%@] due to invalid eventName
+FlurrySession: Not logging Event eventName[%@] because event has more than %d parameters (max allowed parameters).
+eventLogId
+FlurrySession: Event log for eventName[%@] put to pending
+FlurrySession: event named[%@] ended at %@
+FlurrySession: ending all unterminated timed events with _endTime[%@]...
+FlurrySession: forcefully terminated event named[%@]
+FlurrySession: ...finished ending un-ended timed events.
+FlurrySession: Recording error id[%@] with message[%@] and exception[%@]
+%@: %@
+FlurrySession: Recording error id[%@] with message[%@] and exception[%@] complete
+FlurrySession: Recording error id[%@] with message[%@] and error[%@]
+FlurrySession: Recording error id[%@] with message[%@] and error[%@] complete
+FlurrySession: Error id[%d] updated
+FlurrySession: Error id[%@] not recorded
+FlurrySession: Event count for eventName[%@] updated to count[%d]
+FlurrySession: Recording event eventName[%@] with parameters[%@] complete
+FlurrySession: Add session with startTime[%@] to saved sessions
+%s: exception %@
++[FlurrySession addToSavedSessions:]
+FlurrySession: Max sessions allowed[%d] exceeded
+FlurrySession: Removing [%lu] sessions from saved sessions
+%@/.flurryStored%d_%@.archive
+%@/.flurryCurrent%d_%@.archive
+%@/.flurryCurrentWatch%d_%@.archive
+%@/.flurryCurrentWatchAutoIncrement%d_%@.archive
+%@/.initialTimestamp%d.archive
+FlurrySession: Moving initial timestamp[%@] from saved source
+flurry://id1
+flurry://id2
+Native Debug Log: ad_fetch = %ld, ad_requests = %ld, ads_returned = %ld, ad_ready = %ld, Impression fired = %ld
+FlurrySession: User is opted out, not sending session report
+FlurrySession: Sending sessions to server, include current %@
+FlurrySession: Scheduled send %lu session(s).
+v16@?0@"NSMutableDictionary"8
+%llu/%d
+%llu
+memory.total
+memory.used.wired.start
+memory.used.active.start
+memory.used.inactive.start
+memory.used.wired.end
+memory.used.active.end
+memory.used.inactive.end
+cpu.load.start
+cpu.load.end
+disk.size.total
+disk.size.used
+arm64
+device.arch
+originName
+parameters
+FlurrySession: Initial timestamp[%@] from secure source
+FlurrySession: Initial timestamp[%@] from legacy source
+FlurrySession: Initial timestamp[%@] created and saved
+FlurrySession: dealloc session
+T@"NSDate",R,&
+T@"NSString",R,&
+Tf,R,N
+Ti,N
+T@"NSDate",&,N
+Ti,R,N
+T@"NSDate",R,&,N
+T@"NSMutableDictionary",&,N
+T@"NSMutableArray",&,N
+totalPauseIntervalMillis
+Tq,N
+T@"NSMutableArray",&,N,V_purchaseItems
+T@"NSDate",&,V_startTime
+resumeTime
+T@"NSDate",&,V_resumeTime
+T@"NSDate",&,V_pauseTime
+T@"NSMutableDictionary",&,N,V_sessionParams
+T@"NSMutableDictionary",&,N,V_sessionPropertyParams
+T@"NSString",&,V_apiKey
+Td,N,V_latitude
+Td,N,V_longitude
+Tf,N,V_accuracy
+TB,N,V_truncated
+T@"NSMutableArray",&,N,V_pendingEventLog
+TB,N,V_eventLogComplete
+T@"NSMutableArray",&,N,V_errors
+Ti,N,V_totalErrorCount
+Ti,N,V_gender
+T@"NSDate",&,N,V_age
+T@"NSString",&,N,V_locale
+T@"NSString",&,N,V_timeZone
+Ti,N,V_serializationVersion
+T@"NSString",C,N,V_userID
+eventLoggingEnabled
+TB,N,V_eventLoggingEnabled
+sessionReportsOnCloseEnabled
+TB,N,V_sessionReportsOnCloseEnabled
+sessionReportsOnPauseEnabled
+TB,N,V_sessionReportsOnPauseEnabled
+crashReportingEnabled
+TB,N,V_crashReportingEnabled
+TB,N,V_setBackgroundSessionEnabled
+Ti,N,V_appApplicationState
+TB,N,V_hasSessionOriginName
+TB,N,V_hasDeepLinkName
+T@"NSString",C,N,V_sessionOriginName
+T@"NSString",C,N,V_deepLinkName
+T@"NSString",&,N,V_watchAppVersion
+Ti,N,V_watchEventThreshold
+Ti,N,V_watchDurationThreshold
+TB,V_crashed
+T@"NSData",&,N,V_crashReportData
+T@"NSString",C,N,V_appVersion
+Ti,N,V_pageViewCount
+T@"NSDate",&,N,V_endTime
+T@"NSMutableDictionary",&,N,V_eventCounts
+T@"NSMutableArray",&,N,V_eventLog
+Tq,N,V_totalPauseIntervalMillis
+com.yahoo.flurry.preCacheEventLog
+preCacheEventLog
+T@"NSMutableArray",&,V_preCacheEventLog
+T@"NSMutableArray",&,V_log
+%@/flurryCache_%@_%@_%@.archive
+FlurryFileCache: object[%@] cannot be saved to disk
+T@"NSString",C,N,V_apiKey
+agentVersion
+T@"NSString",C,N,V_agentVersion
+com.Flurry.WatchAnalytics.Session
+FlurryNetworkUtil
+Flurry Watch API Key
+API Key not provided in plist with key %@, watch analytics will not be available!!
+Flurry Watch Debug
+Flurry Disable WatchConnectivity
+Flurry Watch App Version
+Flurry Watch User ID
+Flurry Watch Event Threshold
+Watch event threshold may not be below %d
+Watch event threshold may not be above %d
+Flurry Watch Duration Threshold
+Watch duration threshold may not be below %d
+Watch duration threshold may not be above %d
+%s: Initialized session from scratch with startTime[%@]
+-[FlurryWatchSession dataForSending:]
+%s: Set userID[%@]
+%s: Not logging event, eventName is not of NSString type
+-[FlurryWatchSession sanityCheckEventName:parameters:]
+%s: Not logging event, parameters is not of NSDictionary type
+%s: Not logging event, eventName is nil or of zero length
+%s: Not logging event, eventName[%@] has more than %d parameters (max allowed parameters).
+%s: Attempting to record Event eventName[%@] with parameters[%@]
+%s: Event count for eventName[%@] updated to count[%d]
+%s: Recording event eventName[%@] with parameters[%@] complete
+currentWatchSessionFile Size =%llu
+currentWatchSessionFile After Truncation Size =%llu
+%@/.flurryCurrentWatchIDs%d_%@.archive
+%s: Moving initial timestamp[%@] from saved source
+battery.charging.start
+battery.charging.end
+%s, no IDs present, unable to send session report
+-[FlurryWatchSession appendReportedIDsToData:]
+UIDevice
+%s: Initial timestamp[%@] from secure source
+%s: Initial timestamp[%@] from legacy source
+%s: Initial timestamp[%@] created and saved
+%s: dealloc session
+T@"NSString",C,V_apiKey
+T@"NSString",C,V_appVersion
+T@"NSString",C,V_userID
+watchIDs
+T@"NSDictionary",&,V_watchIDs
+T@"NSDate",&,V_endTime
+FlurryWatchSession
+logLevel
+analyticsEnabled
+isAdTrackingEnabled
+CFBundleVersion
+Flurry: Trim white space and use apiKey[%@]
+maxBitRateKbps
+appInstallProcessDone
+guidAsIDForSessionReports
+FlurryGlobalVariableStorage: clearing session parameters
+FlurryGlobalVariableStorage: Attempting to record orgin new set with parameters: %@
+FlurryGlobalVariableStorage: Attempting to record more than 20 parameters for orgin set with parameters: %@
+FlurryGlobalVariableStorage: Attempting to record orgin new set with name: %@ and parameters: %@
+FlurryGlobalVariableStorage: Attempting to record more than 10 parameters for orgin set with name: %@ and parameters: %@
+FlurryGlobalVariableStorage: Not logging Event eventName[%@] due to invalid eventName
+flurryOriginVersion
+flurryPropertiesData
+flurryCkData
+flurryPersistentUrlsData
+flurryPersistenPulseUrlsData
+flurryPersistenPulsePrepUrlsData
+%@/.%@%d_%@.archive
+%s: %@
++[FlurryGlobalVariableStorage getPersistentFilePath:]
+Flurry_Mopub_iOS
+savedResponseUrl
+T@"NSString",C,V_savedResponseUrl
+udidEnabled
+TB,V_udidEnabled
+pauseSecondsBeforeStartingNewSession
+Ti,V_pauseSecondsBeforeStartingNewSession
+lastPageViewDate
+T@"NSDate",&,V_lastPageViewDate
+TB,V_sessionReportsOnCloseEnabled
+TB,V_sessionReportsOnPauseEnabled
+backgroundSessionEnabled
+TB,V_backgroundSessionEnabled
+Ti,V_appApplicationState
+TB,V_crashReportingEnabled
+TB,V_eventLoggingEnabled
+Ti,V_age
+T@"NSString",C,V_gender
+TB,V_hasSessionOriginName
+TB,V_hasDeepLinkName
+T@"NSString",C,V_sessionOriginName
+T@"NSString",C,V_deepLinkName
+sessionParameters
+T@"NSMutableDictionary",&,V_sessionParameters
+startSessionCalled
+TB,V_startSessionCalled
+launchOptions
+T@"NSMutableDictionary",R,V_launchOptions
+location
+T@,&,V_location
+flurryCrashReporter
+T@"FlurryPLCrashReporter",&,N,V_flurryCrashReporter
+optOutSessionPending
+TB,V_optOutSessionPending
+originSets
+T@"NSMutableArray",&,N,V_originSets
+Ti,V_maxBitRateKbps
+TB,V_appInstallProcessDone
+pendingUrlTimers
+T@"NSMutableArray",&,V_pendingUrlTimers
+pulseMonitoringEnabled
+TB,V_pulseMonitoringEnabled
+pulseRequestPending
+TB,V_pulseRequestPending
+lastAdTrackingEnabledSetting
+TB,D
+lastPulseReportTime
+T@"NSDate",&,V_lastPulseReportTime
+adsFetchCount
+Tq,V_adsFetchCount
+adRequestsCount
+Tq,V_adRequestsCount
+adsReturnedCount
+Tq,V_adsReturnedCount
+adsReadyCount
+Tq,V_adsReadyCount
+adsImpressionFiredCount
+Tq,V_adsImpressionFiredCount
+BINARY FORMAT
+Cannot read string length: 
+Cannot allocate buffer for string value
+Cannot read bytes length: 
+Cannot allocate buffer for bytes value
+Invalid bytes value length
+Cannot write bytes length: 
+Varint out of range for int type
+Varint too long
+<string>
+<buffer>
+'[' or '{' expected
+end of file expected
+unable to decode byte 0x%x
+premature end of input
+unexpected newline
+control character 0x%x
+invalid escape
+invalid Unicode '\u%04X\u%04X'
+invalid Unicode '\u%04X'
+\u0000 is not allowed
+too big negative integer
+too big integer
+real number overflow
+invalid token
+unexpected token
+string or '}' expected
+duplicate object key
+':' expected
+'}' expected
+']' expected
+%s near '%s'
+%s near end of file
+callbackId
+uriTemplate
+bodyTemplate
+maxRedirects
+connectTimeout
+requestTimeout
+T@"NSString",&,N,V_partner
+Ti,N,V_method
+T@"NSString",&,N,V_uriTemplate
+T@"NSString",&,N,V_bodyTemplate
+Ti,N,V_maxRedirects
+Ti,N,V_connectTimeout
+Ti,N,V_requestTimeout
+Tq,N,V_callbackId
+T@"NSDictionary",&,N,V_headers
+eventName
+T@"NSString",&,N,V_eventName
+params
+T@"NSDictionary",&,N,V_params
+timed
+TB,N,V_timed
+Invalid Avro identifier
+Cannot allocate new fixed schema
+Cannot allocate new union schema
+Invalid union schema in %s
+FlurryAvroavro_schema_union_append
+Invalid schema in %s
+FlurryAvroavro_schema_union_size
+No union branch for discriminant %d
+No union branch named %s
+Cannot allocate new array schema
+Cannot allocate new map schema
+Cannot allocate new enum schema
+Invalid enum schema in %s
+FlurryAvroavro_schema_enum_symbol_append
+Invalid symbol in %s
+Cannot create copy of symbol name
+Invalid record schema in %s
+FlurryAvroavro_schema_record_field_append
+Invalid field name in %s
+Invalid field schema in %s
+Cannot create a circular schema
+Cannot allocate new record field
+Cannot allocate new record schema
+No field named %s in record
+Can only link to named types
+Cannot allocate new link schema
+FlurryAvroavro_schema_link_target
+Invalid JSON text in %s
+FlurryAvroavro_schema_from_json
+Invalid schema pointer in %s
+Error parsing JSON: %s
+No record field named %s
+Array subschema must be called "[]"
+Map subschema must be called "{}"
+Can only retrieve subschemas from record, union, array, or map
+Schema has no name
+union
+long
+float
+double
+boolean
+bytes
+FlurryAvroavro_datum_from_schema
+Invalid writer in %s
+Cannot allocate named schema map
+namespace
+fields
+Record type must have a "name"
+Record type must have "fields"
+Record type must have at least one field
+Cannot save record schema
+Record field %d must be an array
+Record field %d must have a "name"
+Record field %d must have a "type"
+symbols
+Enum type must have a "name"
+Enum type must have "symbols"
+Enum type must have at least one symbol
+Cannot save enum schema
+Enum symbol %d must be a string
+items
+Array type must have "items"
+values
+Map type must have "values"
+Union type must have at least one branch
+Cannot retrieve branch JSON
+Fixed type must have a "size"
+Fixed type must have a "name"
+Cannot save fixed schema
+"type" field must be a string
+record
+enum
+fixed
+Unknown Avro "type": %s
+No schema type named %s
+invokeId
+substitutedUrl
+attempts
+T@"NSString",&,N,V_invokeId
+T@"NSNumber",&,N,V_callbackId
+T@"NSString",&,N,V_substitutedUrl
+T@"NSMutableArray",&,N,V_attempts
+Cannot copy string content
+Invalid datum in %s
+FlurryAvroavro_string_get
+Invalid string datum in %s
+Invalid string buffer in %s
+Cannot copy bytes content
+FlurryAvroavro_bytes_get
+Invalid bytes datum in %s
+Invalid bytes in %s
+Invalid size in %s
+Cannot create new int datum
+FlurryAvroavro_int32_get
+Invalid int datum in %s
+Invalid value pointer in %s
+FlurryAvroavro_int32_set
+Cannot create new long datum
+FlurryAvroavro_int64_get
+Invalid long datum in %s
+FlurryAvroavro_int64_set
+Cannot create new float datum
+FlurryAvroavro_float_set
+Invalid float datum in %s
+FlurryAvroavro_float_get
+Cannot create new double atom
+FlurryAvroavro_double_set
+Invalid double datum in %s
+FlurryAvroavro_double_get
+Cannot create new boolean datum
+FlurryAvroavro_boolean_set
+Invalid boolean datum in %s
+FlurryAvroavro_boolean_get
+FlurryAvroavro_union
+Cannot create new union datum
+FlurryAvroavro_union_set_discriminant
+Invalid union datum in %s
+Branch %d doesn't exist
+FlurryAvroavro_record
+Cannot create new record datum
+No field named %s
+FlurryAvroavro_record_set
+Invalid record datum in %s
+Invalid field_name in %s
+Cannot copy field name
+FlurryAvroavro_enum
+Cannot create new enum datum
+FlurryAvroavro_enum_set
+Invalid enum datum in %s
+Cannot copy fixed content
+FlurryAvroavro_fixed_get
+Invalid fixed datum in %s
+FlurryAvroavro_map
+Cannot create new map datum
+FlurryAvroavro_map_get
+Invalid map datum in %s
+Invalid key in %s
+Invalid value in %s
+No map element named %s
+FlurryAvroavro_map_get_key
+Invalid index in %s
+No map element with index %d
+FlurryAvroavro_map_get_index
+No map element with key %s
+FlurryAvroavro_map_set
+Cannot copy map key
+FlurryAvroavro_array
+Cannot create new array datum
+FlurryAvroavro_array_get
+Invalid array datum in %s
+No array element with index %ld
+FlurryAvroavro_array_append_datum
+Invalid element datum in %s
+FlurryAvroavro_datum_get_schema
+FlurryAvroavro_datum_reset
+Cannot create new string datum
+FlurryAvroavro_string_set_private
+Invalid string content in %s
+Cannot create new bytes datum
+FlurryAvroavro_bytes_set_private
+FlurryAvroavro_fixed_private
+Fixed size (%zu) doesn't match schema (%zu)
+Cannot create new fixed datum
+FlurryAvroavro_fixed_set_private
+Fixed size doesn't match schema
+com.Flurry.Analytics.Session
+Flurry: Session suspend expiration handler reached
+T@"FlurrySession",&,N,Vsession
+T@"NSString",&,VapiKey
+isBackgroundSupported
+TB,N,VisBackgroundSupported
+T@"NSObject<OS_dispatch_queue>",&,N,Vqueue
+T@"NSDate",R,D
+T@"NSDate",R,&,VstartTime
+T@"NSDate",&,D,N
+T@"NSMutableDictionary",&,N,VeventCounts
+T@"NSMutableArray",&,N,VeventLog
+Invalid reader in %s
+%s, invalid state
+-[FlurryWatchConnectivityProxy methodSignatureForSelector:]
+session:didFinishUserInfoTransfer:error:
+session:didReceiveUserInfo:
+-[FlurryWatchConnectivityProxy respondsToSelector:]
+realObject
+T@"NSObject",W,N,V_realObject
+sdkDelegate
+T@"<FlurryWatchConnectivityDelegate>",W,N,V_sdkDelegate
+WCSession
+%s: WatchConnectivity isn't linked, Flurry Analytics will be disabled for any paired watch
+-[FlurryWatchConnectivity init]
+com.yahoo.flurry.watchconnectivity
+wcsession
+T#,N,V_wcsession
+connectivityProxy
+T@"FlurryWatchConnectivityProxy",&,V_connectivityProxy
+T@"WCSession",W,N,V_session
+disabled
+TB,N,V_disabled
+disableTransferInfo
+TB,N,V_disableTransferInfo
+kvoSetup
+TB,N,V_kvoSetup
+T@"<FlurryWatchConnectivityDelegate>",W,N,V_delegate
+API Key not provided in plist with key %@, unable to create watch session
+No API key provided in plist, unable to log event
+Flurry: Event not logged -- this method can only be used in watch extension.
+Flurry: Event not logged -- eventName must be of NSString type.
+Flurry: Event not logged -- eventName may not be empty.
+Flurry: Event not logged -- parameters may not contain more than %d elements.
+No API key provided in plist, unable to log error
+Flurry: Error not logged -- this method can only be used in watch extension.
+Flurry: Error not logged -- errorId must be of NSString type.
+Flurry: Error not logged -- message must be of NSString type.
+identifier
+T@"NSString",&,N,Videntifier
+lastResponseTime
+nextRefreshTTL
+expirationTTL
+callbackEventsMap
+maxCallbackRetries
+maxCallbackAttemptsPerReport
+maxReportDelaySecs
+agentReportUrl
+globalSettings
+Tq,N,V_lastResponseTime
+Tq,N,V_nextRefreshTTL
+Tq,N,V_expirationTTL
+T@"NSDictionary",&,N,V_callbacks
+T@"NSDictionary",&,N,V_callbackEventsMap
+Ti,N,V_maxCallbackRetries
+Ti,N,V_maxCallbackAttemptsPerReport
+Tq,N,V_maxReportDelaySecs
+T@"NSString",&,N,V_agentReportUrl
+T@"NSDictionary",&,N,V_globalSettings
+T@"NSDictionary",&,N,V_analytics
+%s: start background task
+-[FlurryBackgroundTaskTracker startBackgroundTaskTrackingIfNeeded]
+Flurry: expiration handler reached
+%s: stop background task
+-[FlurryBackgroundTaskTracker stopBackgroundTasksTracking]
+backgroundTask
+TQ,N,V_backgroundTask
+TB,N,V_isBackgroundSupported
+errorID
+date
+errorString
+exceptionString
+errorType
+reportData
+errorLogId[%d] errorTime[%@] errorId[%@] errorMessage[%@] exception[%@] type[%d]
+Ti,N,VerrorID
+T@"NSDate",&,N,Vdate
+T@"NSString",&,N,VerrorString
+T@"NSString",&,N,VerrorMessage
+T@"NSString",&,N,VexceptionString
+Ti,N,VerrorType
+T@"NSData",&,N,VreportData
+T@"NSArray",&,N,V_events
+FlurryPageViewDelegate: delegate[%@] destroyed
+FlurryPageViewDelegate: delegate[%@] created
+FlurryPageViewDelegate: Navigation View [%@], incremented pageViewCount
+FlurryPageViewDelegate: navigation controller [%@], view controller [%@], animated [%d]
+FlurryPageViewDelegate: tabbar controller [%@] view controller [%@]
+FlurryPageViewDelegate:  tabBarController [%@], viewController [%@], incremented pageViewCount
+FlurryPageViewDelegate: tabBarController [%@], viewController [%@]
+FlurryPageViewDelegate: tabBarController [%@], viewController [%@], changed [%d]
+FlurryPageViewDelegate: tabBarController [%@], viewControllers [%@], changed [%d]
+T@"<NSObject>",W,N,V_delegate
+T@,&,N,V_target
+FlurryPageViewDelegateOld: delegate[%@] created
+FlurryPageViewDelegateOld: Navigation View [%@], incremented pageViewCount
+FlurryPageViewDelegateOld: navigation controller [%@], view controller [%@], animated [%d]
+FlurryPageViewDelegateOld: tabbar controller [%@] view controller [%@]
+FlurryPageViewDelegateOld:  tabBarController [%@], viewController [%@], incremented pageViewCount
+FlurryPageViewDelegateOld: tabBarController [%@], viewController [%@]
+FlurryPageViewDelegateOld: tabBarController [%@], viewController [%@], changed [%d]
+FlurryPageViewDelegateOld: tabBarController [%@], viewControllers [%@], changed [%d]
+Invalid writer schema in %s
+avro_resolved_reader_new_memoized
+Invalid reader schema in %s
+Unknown reader schema type
+No branches in the writer are compatible with reader schema %s
+Reader isn't compatible with writer branch %d
+Link target isn't compatible: 
+Writer %s not compatible with reader boolean
+Writer %s not compatible with reader bytes
+Writer %s not compatible with reader double
+Writer %s not compatible with reader float
+Writer %s not compatible with reader int
+Writer %s not compatible with reader long
+Writer %s not compatible with reader null
+Writer %s not compatible with reader string
+Array values aren't compatible: 
+Writer %s not compatible with reader %s
+Map values aren't compatible: 
+Reader field %s doesn't appear in writer
+Field %s isn't compatible: 
+NIY: Default values
+Record doesn't have field named %s
+No branches in the reader are compatible with writer schema %s
+%s: data len=%lu, ix=%d
++[FlurryProtocolData getInt16FromData:atIndex:]
+Malformed data
++[FlurryProtocolData getInt32FromData:atIndex:]
+com.flurry.analytics
+FlurryDataKey
+FlurryUserOptOut
+Failed to fetch vm statistics
+Flurry: Caught Exception in Flurry Analytics Code
+Flurry: -----------------------------------------
+Flurry: Name:%@ Reason:%@
+Flurry: %@
+Flurry: Caught Error in Flurry Analytics Code
+Flurry: Code:%ld Domain:%@
+%s: map not saved to disk at path[%@]
++[FlurryUtil archiveDictionary:toFile:]
+An exception occurred archiving file - deleting
+WKInterfaceDevice
+UIScreen
+com.apple.MobileBackup
+!*'();:@&=+$,/?%#[]
+hw.machine
+AppleLanguages
+%@_location_%s
+=========== Printing All Counters [name, value] ===========
+[%-100s=> %5d]
+===========================================================
+Error Obtaining System Memory Info: Domain = %@, Code = %ld
+.appex/
+.app
+Failed to get last boot time
+FlurryiOSUtil
+https://data.flurry.com/aas.do
+https://ads.flurry.com/v16/getAds.do
+https://adlog.flurry.com/postAdLog.do
+http://adlog.flurry.com/postAdLog.do
+https://proton.flurry.com/sdk/v1/config
+https://data.flurry.com/pcr.do
+ads.flurry.com
+https://appcloud.flurry.com/
+https://appcloud-node-stage.corp.flurry.com/
+FlurryNetworkStatusChangedNotification
+kCFErrorDomainCFNetwork
+FlurryReachability
+initial network status [%d] ========= 
+updated network status [%d] ======== 
+lastNetworkOperationError
+T@"NSError",&,VlastNetworkOperationError
+iurl
+aurl
+wurl
+Flurry: %s disabled.
++[Flurry setAppVersion:]
+Flurry: Please call setAppVersion before startSession.
+Flurry: setAppVersion[%@]
++[Flurry setLaunchOptions:]
+FlurrySession: Setting launchOptions [%@], count %lu 
+UIApplicationLaunchOptionsURLKey
+FlurrySession: Getting launchOptions from UIApplicationLaunchOptionsURLKey[%@] 
+UIApplicationLaunchOptionsSourceApplicationKey
+FlurrySession: Getting launchOptions from UIApplicationLaunchOptionsSourceApplicationKey[%@] 
+UIApplicationLaunchOptionsRemoteNotificationKey
+UIApplicationLaunchOptionsRemoteNotificationKeyFlag
+UIApplicationLaunchOptionsLocationKey
+UIApplicationLaunchOptionsLocationKeyFlag
+UIApplicationLaunchOptionsNewsstandDownloadsKey
+UIApplicationLaunchOptionsAnnotationKey
++[Flurry setSessionContinueSeconds:]
++[Flurry setMaxSessionsSaved:]
++[Flurry createAndSendSession]
+sessionId
++[Flurry startSession:withOptions:]
+Flurry: startSession has been called already. It should only be called once. Returning.
+Flurry: startSession called for the first time
++[Flurry startSession:]
+Flurry: Start session called with apiKey[%@]
+Flurry: Starting session on Agent Version [%@] 
+Flurry: crash reporting enabled
+Flurry: Failed to initialize crash reporter: %@
+Flurry: Finish starting session with apiKey[%@]
++[Flurry setLatitude:longitude:horizontalAccuracy:verticalAccuracy:]
+CLLocation
++[Flurry endSession]
++[Flurry pauseSession]
++[Flurry applicationWillEnterForeground]
++[Flurry applicationDidBecomeActive]
+Flurry: Session Origin not added -- Session Origin Name must be of NSString type.
++[Flurry addSessionOrigin:]
+Flurry: deepLink not added -- Session deepLink Name must be of NSString type.
++[Flurry addSessionOrigin:withDeepLink:]
++[Flurry sessionProperties:]
+Flurry: Origin not added -- originName must be of NSString type.
+Flurry: Origin not added -- originVersion must be of NSString type.
++[Flurry addOrigin:withVersion:]
++[Flurry addOrigin:withVersion:withParameters:]
+Flurry: Event not logged -- this method cannot be used in watch extension.
++[Flurry logEvent:]
++[Flurry logEvent:withParameters:]
+Flurry: Error not logged -- this method cannot be used in watch extension.
++[Flurry logError:message:exception:]
+FlurrySession: Failed to generate crash report: %@
++[Flurry logError:message:error:]
+Flurry: logAllPageViews disabled -- this method cannot be used in watch extension.
++[Flurry logAllPageViews:]
+Flurry: logAllPageViews disabled.
+Flurry: logPageView disabled -- this method cannot be used in watch extension.
++[Flurry logPageView]
+Reblog
+FastReblog
+SourceClick
+Like
+ShareClick
+PostSend
+syndicationEvent [%d] is out of enum range
+Invalid parameters dictionary passed in
+Invalid syndicationID passed in
++[Flurry logEvent:timed:]
++[Flurry logEvent:withParameters:timed:]
++[Flurry endTimedEvent:withParameters:]
++[Flurry setUserID:]
+Flurry: setUserID[%@]
++[Flurry setEventLoggingEnabled:]
++[Flurry setSecureTransportEnabledDeprecated:]
++[Flurry setCrashReportingEnabled:]
++[Flurry setSessionReportsOnCloseEnabled:]
++[Flurry setSessionReportsOnPauseEnabled:]
++[Flurry setBackgroundSessionEnabled:]
+Flurry: Background session enabled[%d]
+Flurry: setGender failed -- gender must be of NSString type.
++[Flurry setGender:]
+Flurry: setGender[%@]
++[Flurry setAge:]
++[Flurry setShowErrorInLogEnabled:]
++[Flurry shutdown]
+Datum doesn't validate against schema
+Never created a value implementation for %s
+Invalid bytes contents in %s
+FlurryAvroavro_generic_bytes_set
+Invalid string contents in %s
+FlurryAvroavro_generic_string_set
+FlurryAvroavro_generic_string_set_length
+Array item class must provide instance_size
+Array index %zu out of range
+Couldn't expand array
+Invalid fixed contents in %s
+FlurryAvroavro_generic_fixed_set
+Invalid data size in set_fixed
+Map value class must provide instance_size
+Map index %zu out of range
+Record field class must provide instance_size
+Field index %zu out of range
+Unknown record field %s
+Union branch class must provide instance_size
+Union has no selected branch
+attemptNumber
+cbSessionId
+cbSessionOffset
+finalAttempt
+httpStatus
+requestState
+responseBody
+duration
+logSendState
+eventOccuranceId
+beingfired
+repeatDuration
+expiration
+creationTime
+beingFired
+T@"NSString",C,N,V_invokeId
+T@"NSNumber",C,N,V_callbackId
+T@"NSNumber",C,N,V_attemptNumber
+T@"NSNumber",C,N,V_cbSessionId
+T@"NSNumber",C,N,V_cbSessionOffset
+TB,N,V_finalAttempt
+Ti,N,V_httpStatus
+Ti,N,V_requestState
+T@"NSData",C,N,V_responseBody
+T@"NSNumber",C,N,V_redirectsCount
+T@"NSNumber",C,N,V_duration
+Ti,N,V_logSendState
+T@"NSString",C,N,V_substitutedUrl
+T@"NSString",C,N,V_body
+T@"NSDictionary",C,N,V_headers
+T@"NSNumber",C,N,V_eventOccuranceId
+T@"NSDictionary",C,N,V_params
+T@"NSDate",C,N,V_creationTime
+TB,N,V_beingFired
+Ti,N,V_repeatDuration
+T@"NSDate",C,N,V_expiration
+dataSize
+creationDate
+Failed to create FlurryDataSenderBlockInfo for data size %lu
+Block [%@, %@, %@]
+Flurry: Failed store block with id [%@]
+T@"NSString",&,N,V_identifier
+TQ,N,V_dataSize
+T@"NSDate",&,N,V_creationDate
+groupIdentifier
+T@"NSString",&,N,V_groupIdentifier
+com.flurry.FlurryPulseRequest
+{"type":"record","name":"ConfigRequest","namespace":"com.flurry.proton.generated.avro.v2","fields":[{"name":"project_key","type":"string"},{"name":"bundle_id","type":"string"},{"name":"app_version","type":"string"},{"name":"sdk_version","type":"int"},{"name":"platform","type":"int"},{"name":"platform_version","type":"string"},{"name":"limit_ad_tracking","type":"boolean","default":false},{"name":"device_tags","type":[{"type":"record","name":"IosTags","fields":[{"name":"hw_machine","type":"string"}]},{"type":"record","name":"AndroidTags","fields":[{"name":"model","type":"string"},{"name":"brand","type":"string"},{"name":"id","type":"string"},{"name":"device","type":"string"},{"name":"product","type":"string"},{"name":"version_release","type":"string"}]}]},{"name":"device_ids","type":{"type":"array","items":{"type":"record","name":"DeviceID","fields":[{"name":"type","type":"int"},{"name":"id","type":"bytes"}]}}},{"name":"geo","type":["null",{"type":"record","name":"Geolocation","fields":[{"name":"latitude","type":"double"},{"name":"longitude","type":"double"},{"name":"accuracy","type":"float"}]}]},{"name":"publisher_user_id","type":["null","string"],"default":null}]}
+Unable to parse pulse request schema
+{"type":"record","name":"IosTags","namespace":"com.flurry.proton.generated.avro.v2","fields":[{"name":"hw_machine","type":"string"}]}
+Unable to parse ios tags schema
+{"type":"record","name":"Geolocation","namespace":"com.flurry.proton.generated.avro.v2","fields":[{"name":"latitude","type":"double"},{"name":"longitude","type":"double"},{"name":"accuracy","type":"float"}]}
+Unable to parse geo location schema
+{"type":"record","name":"DeviceID","namespace":"com.flurry.proton.generated.avro.v2","fields":[{"name":"type","type":"int"},{"name":"id","type":"bytes"}]}
+Unable to parse device id type schema
+Successfully parsed pulse request schema
+hw_machine
+Unable to create Ios Tags datum structure: %s
+device_ids
+Unable to create IDFA Device id datum structure: %s
+Unable to create IDFV Device id datum structure: %s
+IDFV is nil %s
+Unable to create Geo datum structure: %s
+project_key
+bundle_id
+app_version
+sdk_version
+platform
+platform_version
+limit_ad_tracking
+device_tags
+publisher_user_id
+Unable to create pulse Request datum structure: %s
+Successfully created pulse request.
+Sending pulse Request....
+Unable to get JSON from pulse request, error %s
+Sending pulse Request of size %lu....
+Unable to validate= %s
+application/vnd.flurry.sdk-avrobin;version=2
+application/vnd.flurry.sdk-avrobin; version=2
+accept
+fm-checksum
+pulseRequest
+pulseRequest: Could not connect to server: %@
+pulseRequst: Request was cancelled
+This is a pulse response of len %lu
+pulseRequst: bad response from server
+runningTasks
+T@"NSMutableArray",&,N,VrunningTasks
+Invalid expected schema in %s
+FlurryAvroavro_schema_datum_validate
+landscapeRight
+landscapeLeft
+portraitUpsideDown
+portrait
+Apple
+FlurrySession: The App is not active
+FlurrySenderIndex.info
+Data_%lu_%d
+%s: posting session via flurryhttpasynctask!
+%s: Unable to send session data
+-[FlurryDataSender sendSessionsData:]
+%s: Could not connect to server: %@
+%s: async http response code: %d, id [%@]
+%s: Could not connect to server.
+%s, Failed to parse response with exception %@
+%s: Unable to read all cookies from response, number read %d
+-[FlurryDataSender parseCookies:]
+%s: Got unexpected chunk typd %x
+-[FlurryDataSender retransmitNotSentBlocks]
+%s: Not sent blocks count [%lu]
+%s, Payload size %lu, sessions added %d
+dataIndex
+T@"FlurryDataSenderIndex",&,N,V_dataIndex
+dataSenderDelegate
+T@"<FlurryDataSenderDelegate>",W,N,V_dataSenderDelegate
+httpAsyncTaskClass
+T#,&,N,V_httpAsyncTaskClass
+FlurryDataSender
+started
+ended
+automaticallyEnded
+T@"NSString",C,N,V_name
+T@"NSDate",&,N,V_started
+T@"NSDate",&,N,V_ended
+TB,N,V_automaticallyEnded
+T@"NSNumber",&,N,V_eventLogId
+T@"NSDictionary",&,N,V_parameters
+Cannot allocate space in array for %zu elements
+FlurryHeartBeatNotification
+avro_resolved_writer_new_memoized
+Cannot store boolean into %s
+Cannot store bytes into %s
+Cannot store double into %s
+Cannot store float into %s
+Cannot store int into %s
+Cannot store long into %s
+Cannot store null into %s
+Cannot store string into %s
+Cannot store array into %s
+Cannot store enum into %s
+Cannot store fixed into %s
+Cannot store map into %s
+Cannot store record into %s
+Cannot store link into %s
+Couldn't expand map
+Writer union branch %d is incompatible with reader schema "%s"
+FlurryAvroavro_write_data
+eventParamName
+eventParamValues
+%@+%@
+T@"NSString",&,N,V_eventParamName
+T@"NSArray",&,N,V_eventParamValues
+FlurryAvroavro_skip_data
+Cannot skip array element: 
+Cannot skip map key: 
+Cannot skip map value: 
+Cannot skip record field: 
+FlurryAvroavro_value_to_json
+Cannot allocate JSON boolean
+Cannot allocate JSON bytes
+Cannot allocate JSON double
+Cannot allocate JSON float
+Cannot allocate JSON int
+Cannot allocate JSON long
+Cannot allocate JSON null
+Cannot allocate JSON string
+Cannot allocate JSON array
+Cannot append element to array
+Cannot allocate JSON enum
+Cannot allocate JSON fixed
+Cannot allocate JSON map
+Cannot append element to map
+Cannot allocate new JSON record
+Cannot append field to record
+Cannot allocate JSON union
+Cannot append branch to union
+Invalid source in %s
+FlurryAvroencode_utf8_bytes
+Invalid dest in %s
+Invalid dest_len in %s
+Cannot allocate JSON bytes buffer
+com.yahoo.flurry.persistentGlobalsMapQueue
+com.yahoo.flurry.persistentCookiesMapQueue
+com.yahoo.flurry.persistentUrlsMapQueue
+com.yahoo.flurry.persistenPulseUrlsMapQueue
+com.yahoo.flurry.persistenPulsePrepUrlsMapQueue
+persistentGlobalsMapQueue
+T@"NSObject<OS_dispatch_queue>",&,N,V_persistentGlobalsMapQueue
+persistentCookiesMapQueue
+T@"NSObject<OS_dispatch_queue>",&,N,V_persistentCookiesMapQueue
+persistentUrlsMapQueue
+T@"NSObject<OS_dispatch_queue>",&,N,V_persistentUrlsMapQueue
+persistentPulseUrlsMapQueue
+T@"NSObject<OS_dispatch_queue>",&,N,V_persistentPulseUrlsMapQueue
+persistentPulsePrepUrlsMapQueue
+T@"NSObject<OS_dispatch_queue>",&,N,V_persistentPulsePrepUrlsMapQueue
+persistentGlobalsMap
+T@"NSMutableDictionary",&,N,V_persistentGlobalsMap
+persistentCookiesMap
+T@"NSMutableDictionary",&,N,V_persistentCookiesMap
+persistentUrlsMap
+T@"NSMutableDictionary",&,N,V_persistentUrlsMap
+persistentPulseUrlsMap
+T@"NSMutableDictionary",&,N,V_persistentPulseUrlsMap
+persistentPulsePrepUrlsMap
+T@"NSMutableDictionary",&,N,V_persistentPulsePrepUrlsMap
+autoIncrementCounters
+counters
+T@"NSMutableDictionary",&,N,Vcounters
+sessionOffset
+triggerType
+includesEventTrigger
+Ti,N,V_triggerType
+T@"NSNumber",&,N,V_sessionId
+T@"NSNumber",&,N,V_sessionOffset
+TB,N,V_includesEventTrigger
+T@"NSNumber",&,N,V_eventOccuranceId
+T@"NSMutableArray",&,V_callbacks
+Flurry: HTTP connection delegate received response[%@]
+Failed to load url
+T@"FlurryHttpAsyncTask",&,N,V_httpTask
+fg_timespent_millis
+timestamp_epoch_millis
+session_duration_millis
+geo_longitude
+geo_latitude
+event_time_millis
+sessionStartTimeForPulse
+sessionEndTimeForPulse
+totalSessionBgTime
+v16@?0@"FlurryPulseRequest"8
+com.Flurry.PulseEventController
+unknown
+flurry.session_start
+flurry.session_end
+flurry.app_install
+%%{%@}
+%?\{([A-Za-z0-9_])*\}
+%@_%@_%@
+invokeURLHash
+v32@?0@"FlurryPulseCallbackAttemptInfo"8Q16^B24
+FlurryPulseEventController: pause session called
+FlurryPulseEventController: app resuming
+FlurrySession: networkStatusChanged to %@ reachable
+FlurryDataSenderBase: networkStatusChanged to %@ reachable
+Flurry: application is in background, skipping sending data.
+T@"NSMutableArray",&,N,V_runningTasks
+backgroundTaskTracker
+T@"FlurryBackgroundTaskTracker",&,N,V_backgroundTaskTracker
+ERROR: Avro schema does not match JSON
+ERROR: Expecting JSON object for Avro record, got something else
+ERROR: AVRO_LINK is not implemented
+ERROR: Expecting JSON string for Avro string, got something else
+ERROR: Expecting JSON integer for Avro int, got something else
+ERROR: Expecting JSON integer for Avro long, got something else
+ERROR: Expecting JSON real for Avro float, got something else
+ERROR: Expecting JSON real for Avro double, got something else
+ERROR: Expecting JSON boolean for Avro boolean, got something else
+ERROR: Expecting JSON null for Avro null, got something else
+ERROR: Expecting JSON integer os string for Avro enum, got something else
+ERROR: Expecting JSON array for Avro array, got something else
+ERROR: Expecting JSON object for Avro map, got something else
+ERROR: No type in the Avro union matched the JSON type we got
+ERROR: Expecting JSON string for Avro fixed, got something else
+ERROR: Setting Avro fixed value FAILED
+ERROR: Unknown type: %d
+Invalid offset when slicing buffer
+Invalid length when slicing buffer
+FlurryAvroavro_read_data
+Invalid datum pointer in %s
+PLCrashReporterException
+PLCrashReporterErrorDomain
+Could not initialize alternative signal stack
+Failed to register signal handler
+No error
+Unknown error
+Operation not supported
+Invalid argument
+Internal error
+Unhandled error code
+hw.cputype
+hw.cpusubtype
+hw.physicalcpu_max
+hw.logicalcpu_max
+sysctl.proc_native
+kern.osversion
+Flurryplcrash_log_writer_set_exception
+/Users/akshayb/code/plcrashreporter/Source/PLCrashLogWriter.m
+writer->uncaught_exception.has_exception == false
+i < count
+plcrash
+plcrash_writer_write_exception
+writer->uncaught_exception.has_exception
+Output file can not be opened (or written to)
+No memory available
+Access denied
+Not found
+The input data is in an unknown or invalid format.
+A PLCrashReporter instance has already been enabled
+The crash reporter has alread been enabled
+-[FlurryPLCrashReporter enableCrashReporterAndReturnError:]
+/Users/akshayb/code/plcrashreporter/Source/PLCrashReporter.m
+_applicationIdentifier != nil
+_applicationVersion != nil
+live_crash_report.XXXXXX
+Failed to create temporary path
+Write failed with error %s
+Failed to write the crash report to disk
+Unable to open live crash report for reading
+Failure occured deleting live crash report: %s
+-[FlurryPLCrashReporter setCrashCallbacks:]
+callbacks->version == 0
+Can not determine process identifier or process name
+[PLCrashReporter] Warning -- bundle identifier, using process name %s
+[PLCrashReporter] Warning -- bundle version unavailable
+Failed to instantiate the Mach exception server.
+Failed to instantiate the Mach exception port.
+Failed to set the target task's mach exception ports.
+%s: dladdr(%p, ...) failed
+image_add_callback
+com.plausiblelabs.crashreporter.data
+queued_reports
+live_report.plcrash
+operatingSystem
+Ti,R,N,V_operatingSystem
+operatingSystemVersion
+T@"NSString",R,N,V_osVersion
+operatingSystemBuild
+T@"NSString",R,N,V_osBuild
+architecture
+Ti,R,N,V_architecture
+T@"NSDate",R,N,V_timestamp
+ILL_NOOP
+ILL_ILLOPC
+ILL_ILLTRP
+ILL_PRVOPC
+ILL_ILLOPN
+ILL_ILLADR
+ILL_PRVREG
+ILL_COPROC
+ILL_BADSTK
+FPE_NOOP
+FPE_FLTDIV
+FPE_FLTOVF
+FPE_FLTUND
+FPE_FLTRES
+FPE_FLTINV
+FPE_FLTSUB
+FPE_INTDIV
+FPE_INTOVF
+SEGV_NOOP
+SEGV_MAPERR
+SEGV_ACCERR
+BUS_NOOP
+BUS_ADRALN
+BUS_ADRERR
+BUS_OBJERR
+TRAP_BRKPT
+TRAP_TRACE
+SIGHUP
+SIGINT
+SIGQUIT
+SIGILL
+SIGTRAP
+SIGABRT
+SIGIOT
+SIGEMT
+SIGFPE
+SIGKILL
+SIGBUS
+SIGSEGV
+SIGSYS
+SIGPIPE
+SIGALRM
+SIGTERM
+SIGURG
+SIGSTOP
+SIGTSTP
+SIGCONT
+SIGCHLD
+SIGTTIN
+SIGTTOU
+SIGIO
+SIGXCPU
+SIGXFSZ
+SIGVTALRM
+SIGPROF
+SIGWINCH
+SIGINFO
+SIGUSR1
+SIGUSR2
+__TEXT
+__LINKEDIT
+__OBJC
+__module_info
+__DATA
+__objc_const
+__objc_classlist
+__objc_catlist
+__objc_data
+Mutex initialization failed
+Condition initialization failed
+Failed to allocate exception server's port
+Failed to add send right to exception server's port
+Failed to request MACH_NOTIFY_NO_SENDERS on the exception server's port
+Failed to allocate exception server's port set
+Failed to add exception server port to port set
+Failed to add exception server notify port to port set
+Failed to initialize pthread_attr
+Failed to create exception server thread
+/Users/akshayb/code/plcrashreporter/Source/PLCrashMachExceptionServer.m
+<Unknown File>
+No handler registered!
+Failed to insert Mach send right
+Unexpected error sending termination message to background thread: %d
+serverThread
+Unexpected error in vm_allocate(): %x
+Unexpected error in vm_allocate(): 0x%x
+cpsr
+__unwind_info
+__eh_frame
+__DWARF
+__debug_frame
+processID
+Ti,R,N,V_processID
+processName
+T@"NSString",R,N,V_processName
+parentProcessID
+Ti,R,N,V_parentProcessID
+T{timeval=qi},R,N,V_startTime
+traced
+TB,R,N,GisTraced,V_traced
+kern.osrelease
+Failed to fetch kern.osrelease value %d: %s
+darwinVersion
+T{PLCrashHostInfoVersion=QQQ},R,N,V_darwinVersion
+Unexpected kern.osrelease string format: %@
+Failed to fetch mach exception ports
+Failed to swap mach exception ports
+Unexpected error incrementing mach port reference: %d
+server_port
+TI,R,N,V_port
+mask
+TI,R,N,V_mask
+behavior
+Ti,R,N,V_behavior
+flavor
+Ti,R,N,V_flavor
+/Users/akshayb/code/plcrashreporter/Source/PLCrashMachExceptionPortSet.m
+Set size of %lu exceeds EXC_TYPES_COUNT (%lu)
+Count of %lu exceeds EXC_TYPES_COUNT (%lu)
+Unexpected error decrementing mach port reference: %d
+T@"NSSet",R,N,V_state_set
+asyncSafeRepresentation
+T{plcrash_mach_exception_port_set=I[14I][14I][14i][14i]},R,N,V_asyncSafeRepresentation
+signalHandlerType
+TQ,R,N,V_signalHandlerType
+symbolicationStrategy
+TQ,R,N,V_symbolicationStrategy
+NSMutableDictionary
+NSUndoManagerProxy
+_targetClass
+NSManagedObject
+NSConstantString
+NSString
+NSKnownKeysMappingStrategy1
+NSKnownKeysDictionary1
+_objc_readClassPair
+_objc_allocateClassPair
+_object_getIndexedIvars
+_objc_getClass
+_objc_getMetaClass
+_objc_getRequiredClass
+_objc_lookUpClass
+_objc_getProtocol
+_class_getName
+_protocol_getName
+_objc_copyClassNamesForImage
+Swift
+_Tt%cSs%zu%.*s%s
+_Tt%c%zu%.*s%zu%.*s%s
+_TtP
+_TtC
+%.*s.%.*s
+xKWFe
+3Z!M
+6z!Q\
+SB(i
+                                
